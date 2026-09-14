@@ -4,68 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Global AI Meter — Public AI Intelligence Dashboard</title>
-  <meta name="description" content="Global AI Meter: one place to explore the world's AI activity, adoption, infrastructure, investment, and impact — an independent, source-traceable public dashboard." />
-
-  <!-- Open Graph / social sharing metadata (LinkedIn-friendly) -->
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Global AI Meter — Public AI Intelligence Dashboard" />
-  <meta property="og:description" content="One place to explore the world's AI activity, adoption, infrastructure, investment, and impact. Independent. Source-traceable. Honest about what's unavailable." />
-  <meta property="og:site_name" content="Global AI Meter" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Global AI Meter — Public AI Intelligence Dashboard" />
-  <meta name="twitter:description" content="One place to explore the world's AI activity, adoption, infrastructure, investment, and impact." />
-
+  <meta name="description" content="Independent, source-traceable public AI intelligence dashboard." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
-  <div id="demo-banner" class="demo-banner" role="status" hidden>
+  <div id="demo-banner" class="demo-banner" role="status">
     <span class="demo-banner__dot" aria-hidden="true"></span>
-    <span><strong>Demo mode:</strong> this build contains no verified real-world statistics. Values labeled <em>Demo data</em> are illustrative only.</span>
+    <span><strong>Live public-data mode:</strong> metrics come from public APIs or cited reports. Values are labelled Reported, Calculated, Estimated, or Unavailable.</span>
   </div>
-
   <header class="site-header">
     <div class="site-header__row">
-      <a class="brand" href="#/overview">
-        <span class="brand__mark" aria-hidden="true"></span>
-        <span class="brand__text">Global AI Meter</span>
-      </a>
-      <button id="nav-toggle" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="nav-toggle__bar"></span>
-        <span class="nav-toggle__bar"></span>
-        <span class="nav-toggle__bar"></span>
-      </button>
+      <a class="brand" href="#/overview"><span class="brand__mark" aria-hidden="true"></span><span class="brand__text">Global AI Meter</span></a>
+      <button id="nav-toggle" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav"><span class="sr-only">Toggle navigation</span><span class="nav-toggle__bar"></span><span class="nav-toggle__bar"></span><span class="nav-toggle__bar"></span></button>
     </div>
     <nav id="primary-nav" class="primary-nav" aria-label="Primary">
-      <a href="#/overview" data-route="overview">Overview</a>
-      <a href="#/continents" data-route="continents">Continents</a>
-      <a href="#/countries" data-route="countries">Countries</a>
-      <a href="#/sectors" data-route="sectors">Sectors</a>
-      <a href="#/usecases" data-route="usecases">Use cases</a>
-      <a href="#/sources" data-route="sources">Sources</a>
-      <a href="#/methodology" data-route="methodology">Methodology</a>
-      <a href="#/about" data-route="about">About</a>
+      <a href="#/overview" data-route="overview">Overview</a><a href="#/continents" data-route="continents">Continents</a><a href="#/countries" data-route="countries">Countries</a><a href="#/sectors" data-route="sectors">Sectors</a><a href="#/usecases" data-route="usecases">Use cases</a><a href="#/sources" data-route="sources">Sources</a><a href="#/methodology" data-route="methodology">Methodology</a><a href="#/about" data-route="about">About</a>
     </nav>
   </header>
-
-  <main id="main">
-    <div id="app" class="app" aria-live="polite">
-      <p class="loading">Loading Global AI Meter…</p>
-    </div>
-  </main>
-
-  <footer class="site-footer">
-    <div class="site-footer__row">
-      <p>Global AI Meter is an independent public-information project. It is not affiliated with, endorsed by, or representing any company, government, or organization.</p>
-      <p id="footer-updated">Last updated: —</p>
-    </div>
-    <p class="site-footer__links">
-      <a href="#/sources">Sources</a> · <a href="#/methodology">Methodology</a> · <a href="#/about">About</a>
-    </p>
-  </footer>
-
+  <main id="main"><div id="app" class="app" aria-live="polite"><p class="loading">Loading Global AI Meter…</p></div></main>
+  <footer class="site-footer"><div class="site-footer__row"><p>Global AI Meter is an independent public-information project. It is not affiliated with, endorsed by, or representing any company, government, or organization.</p><p id="footer-updated">Last updated: —</p></div><p class="site-footer__links"><a href="#/sources">Sources</a> · <a href="#/methodology">Methodology</a> · <a href="#/about">About</a></p></footer>
   <script src="app.js"></script>
   <script src="live-feeds.js"></script>
 </body>
