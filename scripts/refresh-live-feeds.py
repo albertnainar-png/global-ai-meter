@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch public AI-news/research feeds into a static JSON file."""
+"""Fetch public AI research/news feeds into a static JSON file."""
 from __future__ import annotations
 
 import json
@@ -11,8 +11,9 @@ from pathlib import Path
 
 OUT = Path("public/data/live/live-feeds.json")
 FEEDS = {
+    "arxiv_ai": "https://rss.arxiv.org/rss/cs.AI",
+    "google_news_ai_research": "https://news.google.com/rss/search?q=artificial+intelligence+research&hl=en-US&gl=US&ceid=US:en",
     "huggingface_papers": "https://huggingface.co/papers/rss",
-    "arxiv_ai": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending",
 }
 
 
@@ -48,12 +49,25 @@ def main() -> None:
     statuses = {}
     for name, url in FEEDS.items():
         try:
-            request = urllib.request.Request(url, headers={"User-Agent": "Global-AI-Meter/1.0"})
-            with urllib.request.urlopen(request, timeout=20) as response:
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (compatible; Global-AI-Meter/1.0)",
+                    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+                },
+            )
+            with urllib.request.urlopen(request, timeout=30) as response:
                 feeds.extend(parse_feed(response.read(), name))
             statuses[name] = "ok"
-        except Exception as exc:  # keep the static site build alive if a feed is unavailable
+        except Exception as exc:
             statuses[name] = f"unavailable: {type(exc).__name__}"
+
+    # Keep the newest items first and avoid duplicate URLs.
+    unique = {}
+    for item in feeds:
+        unique[item["url"]] = item
+    feeds = list(unique.values())[:20]
+
     payload = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "status": statuses,
