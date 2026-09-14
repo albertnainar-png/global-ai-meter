@@ -37,8 +37,22 @@
     app.appendChild(panel);
   }
 
+  function waitForAppAndRender(feeds) {
+    let attempts = 0;
+    function tryRender() {
+      const app = document.getElementById("app");
+      if (app && app.querySelector("section, h1, h2, .app")) {
+        render(feeds);
+        return;
+      }
+      attempts += 1;
+      if (attempts < 60) window.setTimeout(tryRender, 100);
+    }
+    tryRender();
+  }
+
   fetch(DATA_URL, { cache: "no-store" })
     .then(function (response) { return response.ok ? response.json() : Promise.reject(new Error("Feed unavailable")); })
-    .then(render)
-    .catch(function () { render({ items: [], generatedAt: "unavailable" }); });
+    .then(waitForAppAndRender)
+    .catch(function () { waitForAppAndRender({ items: [], generatedAt: "unavailable" }); });
 })();
