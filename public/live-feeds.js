@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const DATA_URL = "data/live/live-feeds.json";
+  const DATA_URL = "data/live/live-feeds.json?ts=" + Date.now();
 
   function escapeHtml(value) {
     return String(value || "").replace(/[&<>\"']/g, function (char) {
@@ -9,11 +9,19 @@
     });
   }
 
-  function render(feeds) {
+  function normalizeFeeds(feeds) {
+    if (feeds && typeof feeds.content === "string") {
+      try { feeds = JSON.parse(feeds.content); } catch (error) { /* keep original */ }
+    }
+    return feeds && typeof feeds === "object" ? feeds : { items: [], generatedAt: "unavailable" };
+  }
+
+  function render(rawFeeds) {
+    const feeds = normalizeFeeds(rawFeeds);
     const app = document.getElementById("app");
     if (!app || document.getElementById("live-feeds-panel")) return;
 
-    const items = Array.isArray(feeds.items) ? feeds.items.slice(0, 8) : [];
+    const items = Array.isArray(feeds.items) ? feeds.items.slice(0, 12) : [];
     const panel = document.createElement("section");
     panel.id = "live-feeds-panel";
     panel.className = "section live-feeds-panel";
@@ -21,10 +29,11 @@
 
     const cards = items.length
       ? items.map(function (item) {
+          const published = item.published || item.publishedAt || "";
           return '<article class="live-feed-card">' +
             '<p class="eyebrow">' + escapeHtml(item.source || "Public feed") + '</p>' +
             '<h3><a href="' + escapeHtml(item.url || "#") + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(item.title || "Untitled item") + '</a></h3>' +
-            (item.published ? '<p class="muted">' + escapeHtml(item.published) + '</p>' : '') +
+            (published ? '<p class="muted">' + escapeHtml(published) + '</p>' : '') +
             '</article>';
         }).join("")
       : '<p class="muted">No feed items are available yet. The scheduled refresh will populate this section.</p>';
