@@ -1,0 +1,32 @@
+name: Refresh live AI feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh feed data
+        run: python scripts/refresh-live-feeds.py
+
+      - name: Commit updated feed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/live/live-feeds.json
+          git diff --cached --quiet || git commit -m "Refresh live AI feeds"
+          git push
