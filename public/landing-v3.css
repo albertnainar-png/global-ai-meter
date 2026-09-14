@@ -1,0 +1,31 @@
+/* Landing V3 visual direction: more cinematic, spacious and editorial */
+:root{--v3-cyan:#19dfff;--v3-blue:#4e8cff;--v3-green:#45e7a0;--v3-purple:#9b7cff;--v3-orange:#ffca5c}
+body{background:#020711!important}
+.site-header{background:rgba(2,8,19,.92)!important;backdrop-filter:blur(14px);border-bottom:1px solid rgba(35,116,151,.28)!important}
+#main{max-width:100%!important}
+.app{max-width:1120px!important;margin:0 auto!important;padding:0 28px 70px!important}
+.landing-v2{gap:30px!important}
+.landing-v2 .hero{min-height:450px!important;margin:18px 0 28px!important;padding:70px 0 44px!important;position:relative!important;border:0!important;border-radius:0!important;background:radial-gradient(ellipse at 72% 12%,rgba(0,202,255,.18),transparent 32%),radial-gradient(ellipse at 96% 48%,rgba(76,76,255,.15),transparent 38%),linear-gradient(120deg,rgba(3,14,28,.98),rgba(2,8,19,.65))!important;overflow:hidden!important}
+.landing-v2 .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(2,8,19,.98) 0%,rgba(2,8,19,.72) 48%,transparent 100%);pointer-events:none}
+.landing-v2 .hero-copy{position:relative;z-index:3;max-width:610px!important}
+.landing-v2 .eyebrow{font-size:11px!important;letter-spacing:.25em!important;color:var(--v3-cyan)!important;font-weight:800!important}
+.landing-v2 .hero h1{font-size:clamp(58px,8vw,112px)!important;line-height:.9!important;letter-spacing:-.055em!important;text-transform:uppercase!important;margin:25px 0!important;max-width:650px!important}
+.landing-v2 .hero h1 span{color:var(--v3-cyan)!important;text-shadow:0 0 32px rgba(25,223,255,.35)!important}
+.landing-v2 .hero-lede{font-size:24px!important;font-weight:700!important;color:#eefaff!important}
+.landing-v2 .hero-copy>p:not(.hero-lede){max-width:510px!important;font-size:15px!important;color:#9db9cb!important;line-height:1.8!important}
+.landing-v2 .hero-visual{position:absolute!important;right:-50px!important;top:0!important;width:53%!important;height:100%!important;opacity:1!important}
+.landing-v2 .planet{width:430px!important;height:430px!important;right:0!important;bottom:-175px!important;background:radial-gradient(circle at 35% 25%,#143b55,#06121f 58%,#020711 72%)!important;border:1px solid rgba(37,200,255,.25)!important;box-shadow:0 0 70px rgba(0,180,255,.22),inset 0 0 80px rgba(0,0,0,.8)!important}
+.landing-v2 .planet:after{content:"";position:absolute;inset:35px;background:repeating-linear-gradient(0deg,transparent 0 19px,rgba(25,223,255,.12) 20px 21px),repeating-linear-gradient(90deg,transparent 0 19px,rgba(25,223,255,.12) 20px 21px);border-radius:50%;transform:rotate(-18deg);opacity:.7}
+.landing-v2 .ufo{top:92px!important;right:35px!important;width:260px!important;height:62px!important;border:2px solid rgba(96,231,255,.9)!important;box-shadow:0 0 25px rgba(25,223,255,.5),inset 0 -18px 25px rgba(25,223,255,.12)!important}
+.landing-v2 .notice{border:1px solid rgba(25,223,255,.4)!important;background:rgba(6,28,43,.72)!important;color:#9fc0d2!important;padding:15px 18px!important;border-radius:5px!important;font-size:12px!important}
+.landing-v2 .meter-grid{gap:12px!important}
+.landing-v2 .meter{background:linear-gradient(145deg,rgba(8,30,47,.96),rgba(3,14,26,.98))!important;border:1px solid rgba(39,125,158,.45)!important;border-radius:8px!important;padding:20px!important;min-height:170px!important;box-shadow:inset 0 0 35px rgba(0,180,255,.035)!important}
+.landing-v2 .meter h3{font-size:11px!important;letter-spacing:.08em!important;text-transform:uppercase!important;color:#d9f5ff!important}
+.landing-v2 .meter .value{font-size:38px!important;color:#f1fbff!important;margin:18px 0 4px!important}
+.landing-v2 .section-title{font-size:22px!important;letter-spacing:.06em!important;text-transform:uppercase!important;margin-top:32px!important}
+.landing-v2 .panel{background:linear-gradient(145deg,rgba(7,27,43,.95),rgba(2,13,24,.98))!important;border:1px solid rgba(36,112,146,.42)!important;border-radius:8px!important;box-shadow:inset 0 0 40px rgba(0,180,255,.025)!important}
+.landing-v2 .panel h3{letter-spacing:.03em!important}
+.landing-v2 .explore a{background:rgba(6,26,42,.9)!important;border:1px solid rgba(37,125,159,.4)!important;border-radius:7px!important;transition:transform .2s,border-color .2s!important}
+.landing-v2 .explore a:hover{transform:translateY(-3px)!important;border-color:var(--v3-cyan)!important}
+.landing-v2 .monitor{border-color:rgba(69,231,160,.4)!important}
+@media(max-width:700px){.app{padding:0 16px 40px!important}.landing-v2 .hero{padding:40px 0 30px!important;min-height:540px!important}.landing-v2 .hero h1{font-size:62px!important}.landing-v2 .hero-visual{right:-180px!important;top:160px!important;width:100%!important;opacity:.5!important}.landing-v2 .hero-lede{font-size:20px!important}}
