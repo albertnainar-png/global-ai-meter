@@ -1,8 +1,8 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-09-14T14:06:53.566280+00:00",
   "status": {
-    "huggingface_papers": "pending",
-    "arxiv_ai": "pending"
+    "huggingface_papers": "unavailable: HTTPError",
+    "arxiv_ai": "unavailable: HTTPError"
   },
   "items": []
 }
