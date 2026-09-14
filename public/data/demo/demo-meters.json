@@ -1,0 +1,5 @@
+{
+  "lastUpdated": "2026-09-14",
+  "note": "This build no longer ships illustrative demo data. This file is kept for structural compliance with the project's required layout and to document the demo-data mechanism (isDemo:true, status:'Demo', excluded from coverage totals) for future contributors. The live dataset is data/real/verified-metrics.json.",
+  "records": []
+}

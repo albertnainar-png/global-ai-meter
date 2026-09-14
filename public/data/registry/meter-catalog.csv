@@ -1,0 +1,30 @@
+metricId,meter,metricName,unit,description
+ACT-USAGE-RATE,activity,AI usage rate,%,Share of a population/workforce reporting active AI tool usage in a given period
+ACT-MODEL-CALLS,activity,Model activity volume,count,Public API/model call or prompt volume disclosed by a provider
+ACT-TOKENS,activity,Token throughput,tokens,Publicly disclosed token processing volume
+ACT-TRAFFIC,activity,AI-attributable web traffic,visits,Publicly disclosed or third-party-measured traffic to AI products
+ACT-WAU,activity,Weekly active users (flagship product),users,Publicly disclosed weekly active user count for a major AI product
+ADOPT-COUNTRY,adoption,Country AI adoption rate,%,Share of organizations or individuals in a country reporting AI adoption
+ADOPT-INDUSTRY,adoption,Industry AI adoption rate,%,Share of organizations within an industry/sector reporting AI adoption
+ADOPT-ORG,adoption,Organization AI adoption rate,%,Share of organizations of a given type reporting AI adoption
+ADOPT-WORKFORCE,adoption,Workforce AI adoption rate,%,Share of employees reporting personal AI tool use at work
+ADOPT-USECASE,adoption,Use-case adoption rate,%,Share of adopters using a specific AI use case
+ADOPT-MATURITY,adoption,Adoption maturity score,index,Composite maturity score from a named research methodology
+INFRA-DATACENTERS,infrastructure,Data center count,count,Number of AI-relevant data center facilities
+INFRA-GPU,infrastructure,AI chip/GPU capacity,count,Publicly disclosed AI accelerator/GPU capacity
+INFRA-COMPUTE,infrastructure,Compute capacity,FLOPs,Publicly disclosed aggregate AI compute capacity
+INFRA-ENERGY,infrastructure,AI infrastructure energy use,MWh,Energy consumption attributable to AI infrastructure
+INFRA-INVESTMENT,infrastructure,Infrastructure investment,USD,Capital committed to AI infrastructure build-out
+INFRA-CLOUD,infrastructure,Cloud AI capacity,count,Publicly disclosed cloud-provider AI capacity figures
+INV-VENTURE,investment,Venture funding into AI,USD,Venture capital invested into AI companies
+INV-CORPORATE,investment,Corporate AI investment,USD,Disclosed corporate capital allocated to AI
+INV-GOVERNMENT,investment,Government AI funding,USD,Public-sector funding committed to AI programs
+INV-STARTUP,investment,AI startup funding,USD,Funding raised by AI-focused startups
+INV-INFRA-COMMIT,investment,AI infrastructure commitments,USD,Publicly announced infrastructure investment commitments
+IMP-PRODUCTIVITY,impact,Productivity impact,index,Measured or estimated productivity effect attributable to AI
+IMP-JOBS,impact,Jobs impact,count,Net jobs created/displaced figure attributable to AI, per a named study
+IMP-SKILLS,impact,Skills gap indicator,%,Share of workforce/employers reporting an AI skills gap
+IMP-RESEARCH,impact,AI research output,count,Count of AI-related research publications in a period
+IMP-ECONOMIC,impact,Economic impact estimate,USD,Modeled economic value attributable to AI
+IMP-EMISSIONS,impact,AI-attributable emissions,tCO2e,Emissions associated with AI infrastructure/operations
+IMP-SOCIAL,impact,Social impact indicator,index,Composite social-impact score from a named methodology

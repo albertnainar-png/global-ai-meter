@@ -1,0 +1,21 @@
+{
+  "sectors": [
+    { "id": "private-sector", "name": "Private Sector" },
+    { "id": "public-sector", "name": "Public Sector" },
+    { "id": "railways", "name": "Railways" },
+    { "id": "healthcare", "name": "Healthcare" },
+    { "id": "education", "name": "Education" },
+    { "id": "banking-finance", "name": "Banking & Finance" },
+    { "id": "manufacturing", "name": "Manufacturing" },
+    { "id": "retail", "name": "Retail" },
+    { "id": "agriculture", "name": "Agriculture" },
+    { "id": "energy", "name": "Energy" },
+    { "id": "aviation", "name": "Aviation" },
+    { "id": "automotive", "name": "Automotive" },
+    { "id": "telecom", "name": "Telecom" },
+    { "id": "logistics", "name": "Logistics" },
+    { "id": "media", "name": "Media" },
+    { "id": "construction", "name": "Construction" },
+    { "id": "legal-services", "name": "Legal Services" }
+  ]
+}

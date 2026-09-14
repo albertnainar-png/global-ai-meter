@@ -1,0 +1,18 @@
+{
+  "usecases": [
+    { "id": "customer-service", "name": "Customer service", "description": "AI-assisted or AI-driven customer support and service interactions." },
+    { "id": "healthcare-diagnosis", "name": "Healthcare diagnosis support", "description": "AI tools assisting clinicians with diagnosis or triage." },
+    { "id": "education-assistance", "name": "Education assistance", "description": "AI tutoring, grading support, and learning assistance." },
+    { "id": "fraud-detection", "name": "Fraud detection", "description": "AI systems identifying fraudulent transactions or activity." },
+    { "id": "predictive-maintenance", "name": "Predictive maintenance", "description": "AI forecasting equipment failure or maintenance needs." },
+    { "id": "document-processing", "name": "Document processing", "description": "AI extraction, classification, and summarization of documents." },
+    { "id": "software-development", "name": "Software development", "description": "AI-assisted coding, review, and testing." },
+    { "id": "marketing", "name": "Marketing", "description": "AI-assisted content, targeting, and campaign optimization." },
+    { "id": "logistics-optimization", "name": "Logistics optimization", "description": "AI route planning, inventory, and supply-chain optimization." },
+    { "id": "cybersecurity", "name": "Cybersecurity", "description": "AI-assisted threat detection and response." },
+    { "id": "research", "name": "Research", "description": "AI-assisted scientific or academic research." },
+    { "id": "public-services", "name": "Public services", "description": "AI use in government service delivery." },
+    { "id": "content-creation", "name": "Content creation", "description": "AI-assisted writing, design, audio, or video creation." },
+    { "id": "financial-analysis", "name": "Financial analysis", "description": "AI-assisted financial modeling, forecasting, and analysis." }
+  ]
+}

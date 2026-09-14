@@ -1,0 +1,16 @@
+{
+  "name": "global-ai-meter",
+  "version": "1.0.2",
+  "description": "Global AI Meter — an independent, public-data dashboard for exploring global AI activity, adoption, infrastructure, investment, and impact.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 -m http.server 8080 --directory public",
+    "test": "node tests/meter-validation.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
+}
