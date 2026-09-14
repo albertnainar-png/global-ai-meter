@@ -1,58 +1,7 @@
-(function () {
-  'use strict';
-  const app = document.getElementById('app');
-  if (!app) return;
-
-  function enhance() {
-    if (!(location.hash === '' || location.hash === '#' || location.hash === '#/overview')) return;
-    if (app.querySelector('[data-alien-enhanced]')) return;
-
-    const hero = document.createElement('section');
-    hero.className = 'alien-hero';
-    hero.dataset.alienEnhanced = 'true';
-    hero.innerHTML = `
-      <div class="alien-hero__copy">
-        <div class="alien-hero__eyebrow">SIGNAL DETECTED · GLOBAL AI METER</div>
-        <h1>They're Here.<br><span>AI Is Landing Everywhere.</span></h1>
-        <p>Tracking the real signals of AI across research, adoption, infrastructure, investment, and impact.</p>
-        <p class="alien-hero__tag">Different intelligence. A brighter tomorrow.</p>
-      </div>
-      <div class="alien-hero__scene" aria-label="Illustration of a UFO hovering over a glowing planet">
-        <div class="alien-planet"></div><div class="alien-ufo"></div><div class="alien-beam"></div>
-        <div class="alien-signal">ORBITAL SIGNAL · ONLINE</div>
-      </div>`;
-    app.prepend(hero);
-
-    const demo = document.createElement('div');
-    demo.className = 'alien-demo-panel';
-    demo.innerHTML = '<span aria-hidden="true">⚠</span><div><strong>DEMO DATA MODE</strong><small>This build contains no verified real-world statistics. Data is sourced from public feeds, and values are under review.</small></div>';
-    hero.after(demo);
-
-    const panels = document.createElement('section');
-    panels.className = 'alien-panels';
-    const systems = ['ChatGPT', 'Gemini', 'Microsoft Copilot', 'Meta AI', 'Grok', 'Claude', 'Character.AI'];
-    const signals = ['Research papers', 'New models', 'New datasets', 'GitHub activity', 'News & announcements'];
-    panels.innerHTML = `
-      <article class="alien-panel">
-        <h2>Which AI Is Used Most?</h2>
-        <div class="alien-panel__sub">Reported chatbot usage among U.S. adults · source verification pending</div>
-        ${systems.map((name, i) => `<div class="alien-row"><span class="alien-rank">${String(i + 1).padStart(2, '0')}</span><div><b>${name}</b><small>Reported usage figure under review</small></div><span class="alien-status">Pending</span></div>`).join('')}
-      </article>
-      <article class="alien-panel">
-        <h2>Global AI Activity</h2>
-        <div class="alien-panel__sub">Signals prepared from traceable public sources</div>
-        ${signals.map(name => `<div class="alien-row"><span class="alien-rank">◈</span><div><b>${name}</b><small>Awaiting verified feed item</small></div><span class="alien-value">—</span></div>`).join('')}
-      </article>`;
-    demo.after(panels);
-
-    const monitor = document.createElement('div');
-    monitor.className = 'alien-monitor';
-    monitor.innerHTML = `<div><b>GLOBAL MONITORING CHANNEL</b><br><span>MONITORING · ANALYSING · INFORMING · A BRIGHTER TOMORROW</span></div><span class="alien-monitor__pulse" aria-label="Monitoring channel active"></span>`;
-    panels.after(monitor);
-  }
-
-  enhance();
-  const observer = new MutationObserver(enhance);
-  observer.observe(app, { childList: true, subtree: true });
-  window.addEventListener('hashchange', () => setTimeout(enhance, 0));
-})();
+(function(){'use strict';const app=document.getElementById('app');if(!app)return;let active=false;function overview(){return !location.hash||location.hash==='#'||location.hash==='#/overview'}function build(){if(!overview()||active)return;if(app.querySelector('[data-alien-command-center]')){active=true;return}active=true;app.innerHTML=`<div class="alien-command-center" data-alien-command-center>
+<section class="alien-hero-full"><div class="alien-hero-copy"><div class="alien-kicker">SIGNAL DETECTED · GLOBAL AI METER</div><h1>They're Here.<br><span>AI Is Landing Everywhere.</span></h1><p>Tracking the real signals of AI across research, adoption, infrastructure, investment and impact.</p><p class="alien-tagline">Different intelligence.<br>A brighter tomorrow.</p><div class="alien-actions"><a href="#/sources">Explore the data →</a><a href="#/methodology">Watch the methodology ◉</a></div></div><div class="alien-earth-scene" role="img" aria-label="UFO hovering above a glowing Earth"><div class="alien-stars"></div><div class="alien-earth"></div><div class="alien-ufo-large"><i></i></div><div class="alien-light-beam"></div><div class="alien-orbit-label">ORBITAL SIGNAL · ONLINE</div><div class="alien-callout c1">PEOPLE<br><b>USING AI</b></div><div class="alien-callout c2">RESEARCH<br><b>ACCELERATING</b></div><div class="alien-callout c3">INFRASTRUCTURE<br><b>EXPANDING</b></div></div></section>
+<section class="alien-demo-panel"><span class="alien-warning">⚠</span><div><strong>DEMO DATA MODE</strong><p>This build contains no verified real-world statistics. Data is sourced from public feeds, and values are under review.</p></div><span class="alien-demo-note">Explore, learn, and watch this space for real signals.</span></section>
+<section class="alien-feature-grid">${[['▤','RESEARCH','Papers. Models. Ideas.','cyan'],['♧','ADOPTION','People. Companies. Sectors.','green'],['▦','INFRASTRUCTURE','Compute. Data centres. Energy.','amber'],['⌁','INVESTMENT','Funding. Deals. Growth.','purple'],['◒','IMPACT','Economy. Jobs. Society.','teal']].map(x=>`<article class="alien-feature ${x[3]}"><span class="feature-icon">${x[0]}</span><h3>${x[1]}</h3><p>${x[2]}</p><b>—</b><small>No verified data yet</small><a href="#/about">Explore →</a></article>`).join('')}</section>
+<section class="alien-main-grid"><article class="alien-glass adoption-panel"><header><span class="panel-icon">◉</span><div><h2>WHICH AI IS USED MOST?</h2><p>Reported chatbot usage among U.S. adults</p><small>Public survey data · figures under review</small></div><a href="#/sources">View details →</a></header>${['ChatGPT','Gemini','Microsoft Copilot','Meta AI','Grok','Claude','Character.AI'].map((n,i)=>`<div class="adoption-row"><strong>${i+1}</strong><span>${n}</span><div class="adoption-bar"><i style="width:${[88,48,34,28,16,12,6][i]}%"></i></div><b>—</b><em>Under review</em></div>`).join('')}<footer>Not global market share. Figures remain under source review.</footer></article><div class="alien-side-stack"><article class="alien-glass activity-panel"><header><span class="panel-icon">◈</span><div><h2>GLOBAL AI ACTIVITY</h2><p>Traceable public signals</p></div><button>7D⌄</button></header><div class="activity-visual"><div class="activity-globe"></div><div class="signal-list">${['Research papers','New models','New datasets','GitHub activity','News & announcements'].map(n=>`<div><span>${n}</span><b>—</b></div>`).join('')}</div></div></article><article class="alien-glass research-panel"><header><span class="panel-icon">♒</span><h2>LATEST AI RESEARCH AND DEVELOPMENTS</h2><a href="#/sources">View all →</a></header>${['AI agents are learning to work together','A new model for scientific discovery','Enterprise AI adoption trends','Open-source AI ecosystem'].map((n,i)=>`<div class="research-row"><span class="research-thumb">${['◉','▦','♙','◈'][i]}</span><div><b>${n}</b><small>Awaiting verified source item</small></div><em>Pending</em></div>`).join('')}</article></div></section>
+<section class="alien-monitor-wide"><div><h2>GLOBAL MONITORING CHANNEL</h2><p>Live signals appear only after source review.</p></div><div class="monitor-lines"><span>› MONITORING <b>Public research feeds…</b> <i>OK</i></span><span>› ANALYSING <b>Adoption trends…</b> <i>OK</i></span><span>› PROCESSING <b>Infrastructure signals…</b> <i>OK</i></span><span>› SYNCHRONISING <b>Public sources…</b> <i>OK</i></span></div></section>
+<section class="alien-intro"><div class="alien-kicker">PUBLIC AI INTELLIGENCE DASHBOARD</div><h2>GLOBAL AI METER</h2><p>One place to explore the world's AI activity, adoption, infrastructure, investment, and impact.</p><p>Every figure carries a visible data status: Reported, Calculated, Estimated, Demo, or Unavailable.</p></section><section class="alien-summary"><h2>GLOBAL SUMMARY</h2><div>${[['◉','29','Metrics catalogued'],['▤','6','Verified records loaded'],['◈','0','Demo records included'],['□','54','Countries in directory'],['▥','17','Sectors tracked']].map(x=>`<article><span>${x[0]}</span><b>${x[1]}</b><small>${x[2]}</small></article>`).join('')}</div></section><section class="alien-explore"><h2>EXPLORE</h2><div>${['Continents','Countries','Sectors','AI use cases','Sources','Methodology'].map(n=>`<a href="#/${n.toLowerCase().replaceAll(' ','-')}"><b>${n}</b><small>Explore the data →</small></a>`).join('')}</div></section></div>`}build();window.addEventListener('hashchange',()=>{active=false;setTimeout(build,80)})})();
