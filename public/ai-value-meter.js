@@ -1,8 +1,21 @@
 (() => {
   const $ = (s) => document.querySelector(s);
+  const ENDPOINT = 'https://script.google.com/macros/s/AKfycbyCfTo7EIxWdDRRoI1EyfB6F4ETFvyPUqw8e-EF4aUHbzOniWxwjuzwF2tf-gU2S4A02Q/exec';
   const state = {profile:null, questions:[], risks:[], answers:[], riskAnswers:[], index:0, riskIndex:0, phase:'choose', done:false, data:null};
   const labels = ['Never / Not at all','Rarely','Sometimes','Often','Consistently / Strongly'];
   const statusFor = (score, risks) => risks.length ? ['RED','Immediate intervention required','danger'] : score < 50 ? ['RED','Immediate corrective action required','danger'] : score < 75 ? ['AMBER','Progress exists, but important gaps remain','warning'] : ['GREEN','Healthy foundation for scaling value','success'];
+  const sendAssessment = (overall, flagged) => {
+    const payload = {
+      country: '',
+      role: state.profile?.label || '',
+      industry: '',
+      aiUsage: state.answers.reduce((a,b)=>a+b,0),
+      aiConfidence: state.answers.length ? Math.round(state.answers.reduce((a,b)=>a+b,0)/(state.answers.length*4)*100) : 0,
+      aiValueScore: overall,
+      consent: 'assessment-only'
+    };
+    fetch(ENDPOINT, {method:'POST', mode:'no-cors', headers:{'Content-Type':'text/plain;charset=utf-8'}, body:JSON.stringify(payload)}).catch(()=>{});
+  };
   const render = () => {
     const app = $('#avm-app');
     if (!state.data) { app.innerHTML = '<p class="avm-muted">Loading assessment…</p>'; return; }
@@ -20,8 +33,9 @@
   const renderResults = (app) => {
     const dims=state.profile.dimensions; const scores=Object.fromEntries(dims.map(([id])=>[id,0])); state.questions.forEach((q,i)=>scores[q.dimension]+=state.answers[i]||0);
     const overall=Math.round(state.answers.reduce((a,b)=>a+b,0)/(state.questions.length*4)*100); const flagged=state.risks.filter((r,i)=>state.riskAnswers[i]===1); const [status,meaning,tone]=statusFor(overall,flagged);
+    sendAssessment(overall, flagged);
     const post=`I completed the ${state.profile.label} assessment in the AI Value Meter.\n\nStatus: ${status}\nScore: ${overall}/100\n\nAI value is not only about using more tools. It is about better workflows, measurable outcomes, and responsible capability.\n\nExplore it: ${location.href}`;
-    app.innerHTML=`<div class="avm-eyebrow">Your ${state.profile.label} result</div><div class="avm-result-score">${overall}<span style="font-size:.3em;letter-spacing:0">/100</span></div><div class="avm-status avm-status-${tone}">${status}</div><h2 class="avm-h1" style="font-size:clamp(2rem,5vw,3.4rem)">${meaning}</h2>${flagged.length?`<div class="avm-alert"><strong>Critical risk detected.</strong><p>${flagged.map(r=>r.text).join('<br>')}</p></div>`:''}<div class="avm-grid">${dims.map(([id,name])=>{const n=Math.round(scores[id]/12*100);return `<div class="avm-dim"><h3>${name}</h3><p class="avm-muted">${n}/100</p><div class="avm-bar"><div style="width:${n}%"></div></div></div>`}).join('')}</div><h3>Assessment complete</h3><p class="avm-lede">Your result is ready. You can share it or start another assessment.</p><h3>LinkedIn draft</h3><div class="avm-post">${post}</div><div class="avm-actions"><button class="avm-btn" id="copy-post">Copy LinkedIn draft</button><button class="avm-btn secondary" id="restart">Start another assessment</button></div><p class="avm-foot">Independent self-assessment only. Not a validated benchmark, certification, or official organizational assessment. No answers are sent to a server.</p>`;
+    app.innerHTML=`<div class="avm-eyebrow">Your ${state.profile.label} result</div><div class="avm-result-score">${overall}<span style="font-size:.3em;letter-spacing:0">/100</span></div><div class="avm-status avm-status-${tone}">${status}</div><h2 class="avm-h1" style="font-size:clamp(2rem,5vw,3.4rem)">${meaning}</h2>${flagged.length?`<div class="avm-alert"><strong>Critical risk detected.</strong><p>${flagged.map(r=>r.text).join('<br>')}</p></div>`:''}<div class="avm-grid">${dims.map(([id,name])=>{const n=Math.round(scores[id]/12*100);return `<div class="avm-dim"><h3>${name}</h3><p class="avm-muted">${n}/100</p><div class="avm-bar"><div style="width:${n}%"></div></div></div>`}).join('')}</div><h3>Assessment complete</h3><p class="avm-lede">Your result is ready. You can share it or start another assessment.</p><h3>LinkedIn draft</h3><div class="avm-post">${post}</div><div class="avm-actions"><button class="avm-btn" id="copy-post">Copy LinkedIn draft</button><button class="avm-btn secondary" id="restart">Start another assessment</button></div><p class="avm-foot">Independent self-assessment only. Not a validated benchmark, certification, or official organizational assessment. Assessment summary only; no names, email addresses, or question-by-question answers are sent.</p>`;
     $('#copy-post').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(post);$('#copy-post').textContent='Copied';}catch(e){$('#copy-post').textContent='Select and copy the draft';}}); $('#restart').addEventListener('click',()=>{state.profile=null;state.questions=[];state.risks=[];state.answers=[];state.riskAnswers=[];state.index=0;state.riskIndex=0;state.phase='choose';state.done=false;render();});
   };
   const intro=$('#avm-intro'); const app=$('#avm-app'); $('#start').addEventListener('click',()=>{intro.hidden=true;app.hidden=false;app.scrollIntoView({behavior:'smooth',block:'start'});render();});
