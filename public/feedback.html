@@ -8,160 +8,27 @@
   <link rel="stylesheet" href="styles.css?v=20260916" />
   <link rel="stylesheet" href="clean-landing.css?v=20260916" />
   <style>
-    .feedback-page{width:min(1180px,calc(100% - 48px));margin:0 auto;padding:58px 0 90px}
-    .feedback-hero{max-width:850px;margin-bottom:38px}
-    .feedback-hero h1{font-size:clamp(42px,6vw,82px);line-height:.98;letter-spacing:-3px;text-transform:uppercase;margin:0 0 24px;font-weight:900}
-    .feedback-hero h1 span{color:var(--cyan)}
-    .feedback-hero p{max-width:680px;color:#a8c4d4;font-size:18px;line-height:1.7;margin:0}
-    .feedback-layout{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(260px,.85fr);gap:22px;align-items:stretch}
-    .feedback-card{background:linear-gradient(145deg,#0a2030,#04111e);border:1px solid var(--line);border-radius:10px;padding:30px;box-shadow:inset 0 1px 0 #12394b}
-    .feedback-card h2{font-size:20px;text-transform:uppercase;letter-spacing:1px;margin:0 0 8px}
-    .feedback-card .intro{color:var(--muted);font-size:14px;line-height:1.6;margin:0 0 26px}
-    .feedback-form{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-    .feedback-field{display:flex;flex-direction:column;gap:8px;min-width:0}
-    .feedback-field.full{grid-column:1/-1}
-    .feedback-field label{color:#b9d4e3;font-size:12px;font-weight:800;letter-spacing:.7px;text-transform:uppercase}
-    .feedback-field input,.feedback-field select,.feedback-field textarea{box-sizing:border-box;width:100%;border:1px solid #24506a;border-radius:5px;background:#061522;color:var(--text);padding:13px 14px;font:inherit;font-size:14px;outline:none}
-    .feedback-field input::placeholder,.feedback-field textarea::placeholder{color:#66879b}
-    .feedback-field input:focus,.feedback-field select:focus,.feedback-field textarea:focus{border-color:var(--cyan);box-shadow:0 0 0 2px rgba(37,217,255,.12)}
-    .feedback-field textarea{resize:vertical;min-height:155px}
-    .feedback-check{grid-column:1/-1;display:flex;align-items:flex-start;gap:10px;color:#9db9ca;font-size:12px;line-height:1.6}
-    .feedback-check input{margin-top:3px;accent-color:var(--cyan)}
-    .feedback-submit{display:flex;align-items:center;gap:18px;flex-wrap:wrap;grid-column:1/-1}
-    .feedback-submit .button{border:1px solid var(--cyan);border-radius:5px;background:#09283a;color:var(--text);padding:14px 22px;font-size:12px;font-weight:900;letter-spacing:1px;text-transform:uppercase;cursor:pointer}
-    .feedback-submit .button:hover{background:#0d3b50}
-    .feedback-submit .button:disabled{opacity:.6;cursor:wait}
-    #feedback-status{margin:0;color:var(--green);font-size:13px}
-    .feedback-side{display:flex;flex-direction:column;gap:14px}
-    .feedback-side .mini{padding:22px;background:#061827;border:1px solid var(--line);border-radius:8px}
-    .feedback-side .mini strong{display:block;color:var(--cyan);font-size:12px;letter-spacing:1px;text-transform:uppercase;margin-bottom:8px}
-    .feedback-side .mini p{margin:0;color:#9db9ca;font-size:14px;line-height:1.7}
-    .feedback-side .mini ul{margin:10px 0 0;padding-left:18px;color:#9db9ca;font-size:14px;line-height:1.9}
-    @media(max-width:760px){.feedback-page{width:calc(100% - 24px);padding-top:34px}.feedback-layout{grid-template-columns:1fr}.feedback-card{padding:22px}.feedback-form{grid-template-columns:1fr}.feedback-field.full,.feedback-check,.feedback-submit{grid-column:auto}.feedback-hero h1{letter-spacing:-1.5px}}
+    .feedback-page{width:min(1180px,calc(100% - 48px));margin:0 auto;padding:58px 0 90px}.feedback-hero{max-width:850px;margin-bottom:38px}.feedback-hero h1{font-size:clamp(42px,6vw,82px);line-height:.98;letter-spacing:-3px;text-transform:uppercase;margin:0 0 24px;font-weight:900}.feedback-hero h1 span{color:var(--cyan)}.feedback-hero p{max-width:680px;color:#a8c4d4;font-size:18px;line-height:1.7;margin:0}.feedback-layout{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(260px,.85fr);gap:22px;align-items:stretch}.feedback-card{background:linear-gradient(145deg,#0a2030,#04111e);border:1px solid var(--line);border-radius:10px;padding:30px;box-shadow:inset 0 1px 0 #12394b}.feedback-card h2{font-size:20px;text-transform:uppercase;letter-spacing:1px;margin:0 0 8px}.feedback-card .intro{color:var(--muted);font-size:14px;line-height:1.6;margin:0 0 26px}.feedback-form{display:grid;grid-template-columns:1fr 1fr;gap:18px}.feedback-field{display:flex;flex-direction:column;gap:8px;min-width:0}.feedback-field.full{grid-column:1/-1}.feedback-field label{color:#b9d4e3;font-size:12px;font-weight:800;letter-spacing:.7px;text-transform:uppercase}.feedback-field input,.feedback-field select,.feedback-field textarea{box-sizing:border-box;width:100%;border:1px solid #24506a;border-radius:5px;background:#061522;color:var(--text);padding:13px 14px;font:inherit;font-size:14px;outline:none}.feedback-field input::placeholder,.feedback-field textarea::placeholder{color:#66879b}.feedback-field input:focus,.feedback-field select:focus,.feedback-field textarea:focus{border-color:var(--cyan);box-shadow:0 0 0 2px rgba(37,217,255,.12)}.feedback-field textarea{resize:vertical;min-height:155px}.feedback-check{grid-column:1/-1;display:flex;align-items:flex-start;gap:10px;color:#9db9ca;font-size:12px;line-height:1.6}.feedback-check input{margin-top:3px;accent-color:var(--cyan)}.feedback-submit{display:flex;align-items:center;gap:18px;flex-wrap:wrap;grid-column:1/-1}.feedback-submit .button{border:1px solid var(--cyan);border-radius:5px;background:#09283a;color:var(--text);padding:14px 22px;font-size:12px;font-weight:900;letter-spacing:1px;text-transform:uppercase;cursor:pointer}.feedback-submit .button:hover{background:#0d3b50}.feedback-submit .button:disabled{opacity:.6;cursor:wait}#feedback-status{margin:0;color:var(--green);font-size:13px}.feedback-side{display:flex;flex-direction:column;gap:14px}.feedback-side .mini{padding:22px;background:#061827;border:1px solid var(--line);border-radius:8px}.feedback-side .mini strong{display:block;color:var(--cyan);font-size:12px;letter-spacing:1px;text-transform:uppercase;margin-bottom:8px}.feedback-side .mini p{margin:0;color:#9db9ca;font-size:14px;line-height:1.7}@media(max-width:760px){.feedback-page{width:calc(100% - 24px);padding-top:34px}.feedback-layout{grid-template-columns:1fr}.feedback-card{padding:22px}.feedback-form{grid-template-columns:1fr}.feedback-field.full,.feedback-check,.feedback-submit{grid-column:auto}.feedback-hero h1{letter-spacing:-1.5px}}
   </style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="demo-banner" role="status"><span class="demo-banner__dot" aria-hidden="true"></span><span><strong>Feedback channel:</strong> help improve the quality, usefulness, and transparency of Global AI Meter.</span></div>
-
-  <header class="site-header">
-    <div class="site-header__row">
-      <a class="brand" href="index.html#/overview"><span class="brand__mark" aria-hidden="true"></span><span class="brand__text">Global AI Meter</span></a>
-      <div class="site-header__actions"><span class="demo-label">DEMO</span></div>
-    </div>
-    <nav class="primary-nav" aria-label="Primary">
-      <a href="index.html#/overview">Overview</a>
-      <a href="index.html#/continents">Continents</a>
-      <a href="index.html#/countries">Countries</a>
-      <a href="index.html#/sectors">Sectors</a>
-      <a href="index.html#/usecases">Use cases</a>
-      <a href="index.html#/sources">Sources</a>
-      <a href="index.html#/methodology">Methodology</a>
-      <a href="index.html#/about">About</a>
-      <a class="active" href="feedback.html" aria-current="page">Feedback</a>
-      <a href="ai-value-meter.html">AI Value Meter ↗</a>
-    </nav>
-  </header>
-
-  <main id="main">
-    <section class="feedback-page">
-      <div class="feedback-hero">
-        <p class="clean-kicker">Help shape the project</p>
-        <h1>Make the meter <span>better.</span></h1>
-        <p>Tell us what is useful, what is unclear, what needs correcting, and what Global AI Meter should measure next.</p>
-      </div>
-
-      <div class="feedback-layout">
-        <section class="feedback-card" aria-labelledby="feedback-heading">
-          <h2 id="feedback-heading">Share your feedback</h2>
-          <p class="intro">Your input helps improve the quality, usefulness, and transparency of this public project.</p>
-
-          <form id="feedback-form" class="feedback-form">
-            <div class="feedback-field">
-              <label for="feedback-type">Feedback type</label>
-              <select id="feedback-type" name="feedbackType" required>
-                <option value="Suggestion">Suggestion</option>
-                <option value="Comment">Comment</option>
-                <option value="Bug report">Bug report</option>
-                <option value="Data correction">Data correction</option>
-                <option value="Other">Other</option>
-              </select>
-            </div>
-
-            <div class="feedback-field">
-              <label for="feedback-name">Name <span class="muted">(optional)</span></label>
-              <input id="feedback-name" name="name" type="text" maxlength="100" placeholder="Your name" />
-            </div>
-
-            <div class="feedback-field full">
-              <label for="feedback-email">Email <span class="muted">(optional)</span></label>
-              <input id="feedback-email" name="email" type="email" maxlength="200" placeholder="you@example.com" />
-            </div>
-
-            <div class="feedback-field full">
-              <label for="feedback-message">Your feedback</label>
-              <textarea id="feedback-message" name="message" rows="7" maxlength="5000" required placeholder="Share your feedback, comments, or suggestions..."></textarea>
-            </div>
-
-            <label class="feedback-check"><input id="feedback-consent" name="consent" type="checkbox" required /> <span>I understand that my feedback may be reviewed to improve this public project.</span></label>
-
-            <div class="feedback-submit">
-              <button type="submit" class="button">Submit feedback ↗</button>
-              <p id="feedback-status" role="status" aria-live="polite"></p>
-            </div>
-          </form>
-        </section>
-
-        <aside class="feedback-side" aria-label="Why feedback matters">
-          <div class="mini"><strong>01 / Improve clarity</strong><p>Help us make the dashboard easier to understand and navigate.</p></div>
-          <div class="mini"><strong>02 / Correct the data</strong><p>Point out information that looks incomplete, outdated, or inaccurate.</p></div>
-          <div class="mini"><strong>03 / Shape what comes next</strong><p>Suggest new countries, sectors, use cases, measures, or features.</p></div>
-          <div class="mini"><strong>Good to know</strong><p>Name and email are optional. Please do not submit confidential, personal, or sensitive information.</p></div>
-        </aside>
-      </div>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <div class="site-footer__row"><p>Global AI Meter is an independent public-information project.</p><p><a href="index.html#/overview">Back to dashboard</a></p></div>
-  </footer>
-
+  <header class="site-header"><div class="site-header__row"><a class="brand" href="index.html#/overview"><span class="brand__mark" aria-hidden="true"></span><span class="brand__text">Global AI Meter</span></a><div class="site-header__actions"><span class="demo-label">DEMO</span></div></div><nav class="primary-nav" aria-label="Primary"><a href="index.html#/overview">Overview</a><a href="index.html#/continents">Continents</a><a href="index.html#/countries">Countries</a><a href="index.html#/sectors">Sectors</a><a href="index.html#/usecases">Use cases</a><a href="index.html#/sources">Sources</a><a href="index.html#/methodology">Methodology</a><a href="index.html#/about">About</a><a class="active" href="feedback.html" aria-current="page">Feedback</a><a href="ai-value-meter.html">AI Value Meter ↗</a></nav></header>
+  <main id="main"><section class="feedback-page"><div class="feedback-hero"><p class="clean-kicker">Help shape the project</p><h1>Make the meter <span>better.</span></h1><p>Tell us what is useful, what is unclear, what needs correcting, and what Global AI Meter should measure next.</p></div><div class="feedback-layout"><section class="feedback-card" aria-labelledby="feedback-heading"><h2 id="feedback-heading">Share your feedback</h2><p class="intro">Your input helps improve the quality, usefulness, and transparency of this public project.</p><form id="feedback-form" class="feedback-form"><div class="feedback-field"><label for="feedback-type">Feedback type</label><select id="feedback-type" name="feedbackType" required><option value="Suggestion">Suggestion</option><option value="Comment">Comment</option><option value="Bug report">Bug report</option><option value="Data correction">Data correction</option><option value="Other">Other</option></select></div><div class="feedback-field"><label for="feedback-name">Name <span class="muted">(optional)</span></label><input id="feedback-name" name="name" type="text" maxlength="100" placeholder="Your name" /></div><div class="feedback-field full"><label for="feedback-email">Email <span class="muted">(optional)</span></label><input id="feedback-email" name="email" type="email" maxlength="200" placeholder="you@example.com" /></div><div class="feedback-field full"><label for="feedback-message">Your feedback</label><textarea id="feedback-message" name="message" rows="7" maxlength="5000" required placeholder="Share your feedback, comments, or suggestions..."></textarea></div><label class="feedback-check"><input id="feedback-consent" name="consent" type="checkbox" required /><span>I understand that my feedback may be reviewed to improve this public project.</span></label><div class="feedback-submit"><button type="submit" class="button">Submit feedback ↗</button><p id="feedback-status" role="status" aria-live="polite"></p></div></form></section><aside class="feedback-side" aria-label="Why feedback matters"><div class="mini"><strong>01 / Improve clarity</strong><p>Help us make the dashboard easier to understand and navigate.</p></div><div class="mini"><strong>02 / Correct the data</strong><p>Point out information that looks incomplete, outdated, or inaccurate.</p></div><div class="mini"><strong>03 / Shape what comes next</strong><p>Suggest new countries, sectors, use cases, measures, or features.</p></div><div class="mini"><strong>Good to know</strong><p>Name and email are optional. Please do not submit confidential, personal, or sensitive information.</p></div></aside></div></section></main>
+  <footer class="site-footer"><div class="site-footer__row"><p>Global AI Meter is an independent public-information project.</p><p><a href="index.html#/overview">Back to dashboard</a></p></div></footer>
   <script>
     (() => {
       const ENDPOINT = 'https://script.google.com/macros/s/AKfycbyCfTo7EIxWdDRRoI1EyfB6F4ETFvyPUqw8e-EF4aUHbzOniWxwjuzwF2tf-gU2S4A02Q/exec';
       const form = document.getElementById('feedback-form');
       const status = document.getElementById('feedback-status');
-
       form.addEventListener('submit', async (event) => {
         event.preventDefault();
-        const submit = form.querySelector('button[type="submit"]);
+        const submit = form.querySelector('button[type="submit"]');
         submit.disabled = true;
         status.textContent = 'Sending feedback…';
-
-        const payload = {
-          kind: 'feedback',
-          feedbackType: document.getElementById('feedback-type').value,
-          name: document.getElementById('feedback-name').value.trim(),
-          email: document.getElementById('feedback-email').value.trim(),
-          message: document.getElementById('feedback-message').value.trim(),
-          consent: document.getElementById('feedback-consent').checked ? 'yes' : 'no'
-        };
-
-        try {
-          const response = await fetch(ENDPOINT, {
-            method: 'POST',
-            headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-            body: JSON.stringify(payload)
-          });
-          const result = await response.json();
-          if (!result.success) throw new Error(result.error || 'The feedback could not be saved.');
-          form.reset();
-          status.textContent = 'Thank you — your feedback was submitted successfully.';
-        } catch (error) {
-          status.textContent = 'We could not submit your feedback yet. Please try again later.';
-        } finally {
-          submit.disabled = false;
-        }
+        const payload = {kind:'feedback',feedbackType:document.getElementById('feedback-type').value,name:document.getElementById('feedback-name').value.trim(),email:document.getElementById('feedback-email').value.trim(),message:document.getElementById('feedback-message').value.trim(),consent:document.getElementById('feedback-consent').checked?'yes':'no'};
+        try {const response = await fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(payload)});const result = await response.json();if(!result.success) throw new Error(result.error || 'The feedback could not be saved.');form.reset();status.textContent='Thank you — your feedback was submitted successfully.';} catch(error) {status.textContent='We could not submit your feedback yet. Please try again later.';} finally {submit.disabled=false;}
       });
     })();
   </script>
