@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scale": [
     {"value":0,"label":"Never / Not at all"},
     {"value":1,"label":"Rarely"},
@@ -26,5 +26,12 @@
     {"id":"q10","dimension":"responsible","text":"People understand the privacy, security, and responsible-use expectations for AI."},
     {"id":"q11","dimension":"responsible","text":"People receive practical training or coaching to use AI well."},
     {"id":"q12","dimension":"responsible","text":"AI outputs are reviewed with appropriate human judgment."}
+  ],
+  "criticalRisks": [
+    {"id":"r1","text":"Sensitive or confidential information is entered into unapproved AI tools.","action":"Stop the affected use case and confirm which AI tools are approved before continuing."},
+    {"id":"r2","text":"Important customer, employee, financial, legal, safety, or compliance decisions are made from AI outputs without human review.","action":"Add an accountable human approval step before the AI output can drive an important decision."},
+    {"id":"r3","text":"No person is accountable for approving, monitoring, reviewing, or correcting the AI use case.","action":"Assign one accountable owner and define escalation and stop conditions."},
+    {"id":"r4","text":"The team cannot identify a baseline, target, or measurable outcome for the AI use case.","action":"Define one measurable outcome and a baseline before scaling the use case."},
+    {"id":"r5","text":"AI outputs are routinely used without checking accuracy, sources, or suitability.","action":"Introduce verification and source-checking steps for AI-generated outputs."}
   ]
 }
