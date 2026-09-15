@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>AI Value Meter — Global AI Meter</title>
-  <meta name="description" content="A practical self-assessment of AI adoption, workflow integration, measurable value, and responsible AI skills.">
+  <meta name="description" content="Choose an individual or company assessment to understand AI adoption, value, and responsible use.">
   <link rel="stylesheet" href="ai-value-meter.css">
 </head>
 <body>
@@ -13,31 +13,15 @@
       <div class="avm-brand">Global AI Meter <span class="avm-muted">/ AI Value Meter</span></div>
       <a class="avm-link" href="index.html">← Global dashboard</a>
     </div>
-
     <section id="avm-intro" class="avm-card">
       <div class="avm-eyebrow">AI Value Meter</div>
-      <h1 class="avm-h1">Is your AI adoption creating value?</h1>
-      <p class="avm-lede">Answer 12 practical questions to understand how your team is adopting AI, embedding it into workflows, measuring outcomes, and building responsible capability.</p>
-      <div class="avm-actions">
-        <button class="avm-btn" id="start">Start assessment →</button>
-      </div>
-      <p class="avm-foot">Takes about 3 minutes · No login · No answers sent to a server</p>
+      <h1 class="avm-h1">Are you turning AI into real value?</h1>
+      <p class="avm-lede">Choose the assessment that best matches you. You will receive tailored questions, a Green / Amber / Red status, and practical actions for improvement.</p>
+      <div class="avm-actions"><button class="avm-btn" id="start">Start assessment →</button></div>
+      <p class="avm-foot">No login · No answers sent to a server</p>
     </section>
-
-    <section id="avm-app" class="avm-card" style="margin-top:20px" hidden aria-live="polite">
-      <p class="avm-muted">Loading assessment…</p>
-    </section>
+    <section id="avm-app" class="avm-card" style="margin-top:20px" hidden aria-live="polite"></section>
   </div>
-
-  <script>
-    const intro = document.getElementById('avm-intro');
-    const app = document.getElementById('avm-app');
-    document.getElementById('start').addEventListener('click', () => {
-      intro.hidden = true;
-      app.hidden = false;
-      app.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-  </script>
   <script src="ai-value-meter.js"></script>
 </body>
 </html>
