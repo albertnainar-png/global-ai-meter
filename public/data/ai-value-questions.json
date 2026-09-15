@@ -1,37 +1,28 @@
 {
-  "version": "1.1.0",
-  "scale": [
-    {"value":0,"label":"Never / Not at all"},
-    {"value":1,"label":"Rarely"},
-    {"value":2,"label":"Sometimes"},
-    {"value":3,"label":"Often"},
-    {"value":4,"label":"Consistently / Strongly"}
-  ],
-  "dimensions": [
-    {"id":"adoption","name":"AI Adoption","description":"How broadly AI is being used."},
-    {"id":"workflow","name":"Workflow Integration","description":"How deeply AI is embedded in everyday work."},
-    {"id":"measurement","name":"Value Measurement","description":"How clearly outcomes are measured."},
-    {"id":"responsible","name":"Responsible AI & Skills","description":"How confidently people use AI with guardrails and skills."}
-  ],
-  "questions": [
-    {"id":"q1","dimension":"adoption","text":"People in my team use AI tools in their regular work."},
-    {"id":"q2","dimension":"adoption","text":"AI is available to the people who could benefit from it."},
-    {"id":"q3","dimension":"adoption","text":"Leaders actively encourage practical AI adoption."},
-    {"id":"q4","dimension":"workflow","text":"AI is built into repeatable workflows, not just one-off experiments."},
-    {"id":"q5","dimension":"workflow","text":"AI helps improve speed, quality, or customer experience in real work."},
-    {"id":"q6","dimension":"workflow","text":"Teams redesign processes when AI creates a better way to work."},
-    {"id":"q7","dimension":"measurement","text":"We define success measures before scaling an AI use case."},
-    {"id":"q8","dimension":"measurement","text":"We track measurable benefits such as time, quality, cost, or experience."},
-    {"id":"q9","dimension":"measurement","text":"Leaders can explain which AI initiatives are creating value."},
-    {"id":"q10","dimension":"responsible","text":"People understand the privacy, security, and responsible-use expectations for AI."},
-    {"id":"q11","dimension":"responsible","text":"People receive practical training or coaching to use AI well."},
-    {"id":"q12","dimension":"responsible","text":"AI outputs are reviewed with appropriate human judgment."}
-  ],
-  "criticalRisks": [
-    {"id":"r1","text":"Sensitive or confidential information is entered into unapproved AI tools.","action":"Stop the affected use case and confirm which AI tools are approved before continuing."},
-    {"id":"r2","text":"Important customer, employee, financial, legal, safety, or compliance decisions are made from AI outputs without human review.","action":"Add an accountable human approval step before the AI output can drive an important decision."},
-    {"id":"r3","text":"No person is accountable for approving, monitoring, reviewing, or correcting the AI use case.","action":"Assign one accountable owner and define escalation and stop conditions."},
-    {"id":"r4","text":"The team cannot identify a baseline, target, or measurable outcome for the AI use case.","action":"Define one measurable outcome and a baseline before scaling the use case."},
-    {"id":"r5","text":"AI outputs are routinely used without checking accuracy, sources, or suitability.","action":"Introduce verification and source-checking steps for AI-generated outputs."}
-  ]
+  "version":"2.0.0",
+  "scale":[{"value":0,"label":"Never / Not at all"},{"value":1,"label":"Rarely"},{"value":2,"label":"Sometimes"},{"value":3,"label":"Often"},{"value":4,"label":"Consistently / Strongly"}],
+  "profiles":{
+    "individual":{
+      "label":"Individual AI User",
+      "intro":"For one person assessing their own AI confidence, workflow, value, and responsible use.",
+      "dimensions":[["confidence","AI Confidence"],["workflow","Personal Workflow"],["value","Personal Value"],["responsible","Responsible AI Use"]],
+      "questions":[
+        {"id":"q1","dimension":"confidence","text":"I understand which tasks AI is useful for in my daily work."},{"id":"q2","dimension":"confidence","text":"I can write clear prompts and improve them when the first result is weak."},{"id":"q3","dimension":"confidence","text":"I know when to use AI and when human judgment is more appropriate."},{"id":"q4","dimension":"workflow","text":"I use AI regularly for repeatable tasks, not only for experimentation."},{"id":"q5","dimension":"workflow","text":"I use AI to improve speed, quality, creativity, or problem-solving."},{"id":"q6","dimension":"workflow","text":"I have a personal process for reviewing and improving AI outputs."},{"id":"q7","dimension":"value","text":"I can identify the time, quality, or other benefit AI creates for me."},{"id":"q8","dimension":"value","text":"I compare AI-assisted results with how I worked before using AI."},{"id":"q9","dimension":"value","text":"I can describe at least one AI use case that has made a meaningful difference."},{"id":"q10","dimension":"responsible","text":"I know what personal, confidential, customer, or company information must not be entered into AI tools."},{"id":"q11","dimension":"responsible","text":"I verify important AI-generated facts, recommendations, code, or content before using them."},{"id":"q12","dimension":"responsible","text":"I understand the need for human judgment, attribution, and responsible AI use."}
+      ],
+      "criticalRisks":[
+        {"id":"r1","text":"I have entered confidential, personal, customer, or company information into an AI tool without approval.","action":"Stop that workflow and confirm approved tools and information-handling rules."},{"id":"r2","text":"I have shared or submitted AI-generated work without checking accuracy, suitability, or attribution.","action":"Use a verification checklist before submitting or sharing AI-assisted work."},{"id":"r3","text":"I use AI outputs as final decisions for important matters without appropriate human judgment.","action":"Keep human review and accountability for important decisions."},{"id":"r4","text":"I use AI tools that are not approved for my work or knowingly bypass applicable policy.","action":"Stop the use case and move it to an approved, compliant workflow."}
+      ]
+    },
+    "company":{
+      "label":"Company / Team",
+      "intro":"For a team, business unit, or organization assessing adoption, workflow integration, measurable value, and responsible capability.",
+      "dimensions":[["adoption","AI Adoption"],["workflow","Workflow Integration"],["measurement","Value Measurement"],["responsible","Responsible AI & Skills"]],
+      "questions":[
+        {"id":"q1","dimension":"adoption","text":"People in our team use AI tools in their regular work."},{"id":"q2","dimension":"adoption","text":"AI is available to the people who could benefit from it."},{"id":"q3","dimension":"adoption","text":"Leaders actively encourage practical and responsible AI adoption."},{"id":"q4","dimension":"workflow","text":"AI is built into repeatable workflows, not just one-off experiments."},{"id":"q5","dimension":"workflow","text":"AI improves speed, quality, customer experience, or employee experience in real work."},{"id":"q6","dimension":"workflow","text":"Teams redesign processes when AI creates a better way to work."},{"id":"q7","dimension":"measurement","text":"We define success measures before scaling an AI use case."},{"id":"q8","dimension":"measurement","text":"We track measurable benefits such as time, quality, cost, or experience."},{"id":"q9","dimension":"measurement","text":"Leaders can explain which AI initiatives are creating value."},{"id":"q10","dimension":"responsible","text":"People understand privacy, security, and responsible-use expectations for AI."},{"id":"q11","dimension":"responsible","text":"People receive practical training or coaching to use AI well."},{"id":"q12","dimension":"responsible","text":"AI outputs are reviewed with appropriate human judgment."}
+      ],
+      "criticalRisks":[
+        {"id":"r1","text":"Sensitive or confidential information is entered into unapproved AI tools.","action":"Stop the affected use case and confirm approved AI tools before continuing."},{"id":"r2","text":"Important customer, employee, financial, legal, safety, or compliance decisions are made from AI outputs without human review.","action":"Add an accountable human approval step before important decisions."},{"id":"r3","text":"No person is accountable for approving, monitoring, reviewing, or correcting the AI use case.","action":"Assign one accountable owner and define escalation and stop conditions."},{"id":"r4","text":"The team cannot identify a baseline, target, or measurable outcome for the AI use case.","action":"Define one measurable outcome and baseline before scaling."},{"id":"r5","text":"AI outputs are routinely used without checking accuracy, sources, or suitability.","action":"Introduce verification and source-checking steps."}
+      ]
+    }
+  }
 }
