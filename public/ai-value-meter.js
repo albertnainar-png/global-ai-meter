@@ -1,10 +1,11 @@
 (() => {
   const $ = (s) => document.querySelector(s);
-  const state = {profile:null, questions:[], risks:[], answers:[], riskAnswers:[], index:0, riskIndex:0, phase:'choose', done:false};
+  const state = {profile:null, questions:[], risks:[], answers:[], riskAnswers:[], index:0, riskIndex:0, phase:'choose', done:false, data:null};
   const labels = ['Never / Not at all','Rarely','Sometimes','Often','Consistently / Strongly'];
   const statusFor = (score, risks) => risks.length ? ['RED','Immediate intervention required','danger'] : score < 50 ? ['RED','Immediate corrective action required','danger'] : score < 75 ? ['AMBER','Progress exists, but important gaps remain','warning'] : ['GREEN','Healthy foundation for scaling value','success'];
   const render = () => {
     const app = $('#avm-app');
+    if (!state.data) { app.innerHTML = '<p class="avm-muted">Loading assessment…</p>'; return; }
     if (state.phase === 'choose') return renderChoice(app);
     if (state.phase === 'risks') return renderRisk(app);
     if (!state.done) {
@@ -26,5 +27,5 @@
     $('#copy-post').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(post);$('#copy-post').textContent='Copied';}catch(e){$('#copy-post').textContent='Select and copy the draft';}}); $('#restart').addEventListener('click',()=>{state.profile=null;state.questions=[];state.risks=[];state.answers=[];state.riskAnswers=[];state.index=0;state.riskIndex=0;state.phase='choose';state.done=false;render();});
   };
   const intro=$('#avm-intro'); const app=$('#avm-app'); $('#start').addEventListener('click',()=>{intro.hidden=true;app.hidden=false;app.scrollIntoView({behavior:'smooth',block:'start'});render();});
-  fetch('data/ai-value-questions.json').then(r=>r.json()).then(d=>{state.data=d;}).catch(()=>{app.innerHTML='<p>Unable to load the assessment. Please refresh.</p>';});
+  fetch('data/ai-value-questions.json').then(r=>{if(!r.ok)throw new Error('Question file unavailable');return r.json();}).then(d=>{state.data=d;render();}).catch(()=>{app.innerHTML='<p>Unable to load the assessment questions. Please refresh and try again.</p>';});
 })();
