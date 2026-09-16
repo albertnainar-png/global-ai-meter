@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:30:57.090282+00:00",
+  "generatedAt": "2026-09-16T04:31:08.199509+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,85 +9,97 @@
     {
       "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
       "url": "https://arxiv.org/abs/2609.13356",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
       "url": "https://arxiv.org/abs/2609.13396",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
       "url": "https://arxiv.org/abs/2609.13406",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
       "url": "https://arxiv.org/abs/2609.13422",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
       "url": "https://arxiv.org/abs/2609.13436",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
       "url": "https://arxiv.org/abs/2609.13437",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
       "url": "https://arxiv.org/abs/2609.13457",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
       "url": "https://arxiv.org/abs/2609.13463",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
       "url": "https://arxiv.org/abs/2609.13466",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
       "url": "https://arxiv.org/abs/2609.13470",
-      "publishedAt": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Wed, 16 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "AI research to improve K-12 STEM learning gets funding boost - unc.edu",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGxzUkR2MkgtMm5HWWozWmZpNXRXZHRQZWtteVZHN29HWWM3TE9wakNkVDFGUFBrYnM1Rzlyc2xtSkoxR1MtUDQ2cDNHWEdBS3BuYm9na1V3U2lxRjZsZnVOVkxUNFBJcXdlenVMTUsxaHBkcXBuY2g0d0d0NzR6aTIwYlI0TFhReW93SE83NlY2bE45YlNKbGpITy11WW8?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 12:52:30 GMT",
+      "title": "Riverside Council Establishes Temporary Committee To Research Artificial Intelligence - riversiderecord.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTy1odWxmendiOTlITUlrOERkNG5KUFV0T2lZN1JVRFQ0RkZ3SmludHFYUDZDZ1luZDdIQ0lsNDhoR1FsSzFodW9qLXhsYW1NV2tCWDB3a3dKekxVckdWWk9wLWVRbXJTd1ZsaTJoMThwNjVGNHJoZlM5YjVZZjAwdFg3eFZhWnZXZWc?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 01:29:38 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Student researchers join AI for Public Good initiative - SUNY Cortland",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HY2ZnZnlnVHE3Z05vWndYMTJmYWpPTlhsVEF3RlExdVd5UlJHbnUxSkVTaVNNLS14U1lSSzluOGo0bXUtN3JrQ3JiREdjSTlxWEc3UC10Q3JoUkROVktjckpPOUE?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 16:39:12 GMT",
+      "title": "Cornell Statistical Consulting Unit to host workshop on AI in scientific research - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmVteWZrajUwNlZuUlFucGNpZk9HNkh2ZHdmd2NHWGFweFFwOE1sbXhwQXlRYk5qNVJxM1FScnFvV01HTDljYzdaSmR1Y1diZ3lKc0NHMGRTZ3BEdFhvMGFUTXRRUEZabGdSZTNuNnF4M0lDaXpBUkRaLV8wVE1jV1lVNmEtRVRlZjNZaHBjVzliOFljOEJFVW9jYnlGTHhHYUh1SlNxc3ZZb091WEZ3aGJnQQ?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 15:51:05 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - nsf.gov",
+      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
       "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Turning Potential into Impact at the NCSA Regional Workshop on AI - National Center for Supercomputing Applications (NCSA)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTZ4YXV6SEJTOGFKd0UzTFhWQ0l0Q3FUZzZST2VITTBkVU1YejZLajlXdlNUN2llWWhPcVA2eGxUS2l6MWNKZmdOQk9Wb1dzSktLYU9WY2d4dFVmeTN1TU1OR0l1cDRxMlgtRnBISjE1ckVnX0RKZjBlTVlwR2huV3pFUERxYko3SFp0TDlKSUdoVDFBejRaUkpacjN5MGRFUE5IYS1UMUxTODA?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 14:00:00 GMT",
+      "title": "For AI to Advance, We Need Better Ways to Harness Imperfect Data. UVA Engineering’s Yu Meng Could Help. - University of Virginia Engineering",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHh2Wi1GNDBUWTBEUTNxam5WOU9NcHE5Xzd6akVwNy1OMDFDN3FoTDY0Q2pFY2xEaTc4cVd1R2ZnWi1HMXRET3VJRi1kejhpRVI0Y1htYVdkbk1zeDNjbzFzOHBybzl3cFlBbl9UNkIwbVY1Zl9oNi13ZU9HdWk5WHdzb3ZHaUtMRkNqWkZ1WmFtb211TUNWX05JSHhwOGw0dzhqWDZENUtVTk5URmctdXF1N2w5MnhKUlprc0RQSlU4YXoyM3E5Z29sLWNIQWRNNnFITG1ST18?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 18:32:07 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "AI expands mathematics: a new frontier of reverse problem generation for computational AI - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1scTNTeTMtNm8xOGk2MzB6d3RyLV9PY3d2clVHdEpxUXJ3WUhIcG42TlhURFNwOHdkRmNDQy1YTGdfV2k4dmxiTFBmMGtSYXM5OGE5Z2ZWazVoVFBL?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 00:21:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Siddhartha Mukherjee discusses AI and health at OU Presidential Speakers Series dinner - The University of Oklahoma",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2FjeWczcThnTjF1XzlocUd1ZndETFVXWTBrTGxKU2Z3LUxJTXpIWU5nTURKSExNdk5QR2dzSzVFdjlXRFprQTB5VE9aLWI3ZThzTE81WVJWWkowUXQ0MWEtZG5PRnkxdUgtMzZkZHJkSDB3YndwdmtHY1VqNmRUcl9qS3VxSEs1WWhFUEFPM1JKakpHeDlF?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 23:45:45 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -97,33 +109,21 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "OU Health Campus explores AI’s potential to improve health in Oklahoma - The University of Oklahoma",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1dVQXhuYWg0LXk2Z0hvNXpqVWljVldWdEE2VGVrRDc1dE05YUhHOHl3bHphbFhRSm45WW5FTXQ4T0lETEN1dlI0T3ZOcjhtSnlBT3Y1U0RQNlJnR05ndUFtam1FR3kwY04zTGkwSzNydEVnaExjNlpmTlB1eTRWZkctdWV2VFNUWFRqMHdzbm81cjUtbVFSQQ?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 20:47:01 GMT",
+      "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them - hrdive.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yLUlpbXJqcmRYT1dCaWRTOTl3Vk13TUcyelNiaVhXd2NKNEwxZW9TTFFUZGg0c3IxSGs3UHM5ekVrY2VmZGdlQXhlUlljWTZRcTUyUXQyMklPZ2oyUzZwT3VPMHYwVERramlQU1VVVm1tQUFFQkZfeGpn?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 22:32:53 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "NSF grant to explore whether AI can support students’ critical thinking - Cornell Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1poelNJQlNzcHFaOExRMDJoai1RQmx1ejNNd3VsN0dXbEI0eGF6SWN2b2NocE9HRUNRZlEycmRkcS0waXNYczRub1FGYlZBcW9vM3pOeUJZX0NNajI2OGZ0U0Z2NUpJT2tTNWFHSXcxVXBKN0RsNWxBbWxEd0VnVGZVRTItWXNzOGFrQlIyT1B1RElvNFNxcUluemxZM094NXQyelowZzFlaFk2?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 20:11:12 GMT",
+      "title": "What an AI slowdown would mean - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQU1CdXZFS3ZMMk5tdkZqNnFxVmhHRVkwbzJYaTlFOEMxa0ZLOEtmZFRlSzVnSjdZWVhCNVZIbTM4S3l5NmltRDhNRE80OGVqdS1zQjBWVmh3NzZjSzBOVGxCVWNOcGJEVlowR3lGTFB0alFuSUFMbFJyVzY0TkRiX0U2UWdWWnViNVhVZnRHSTF1dw?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 09:01:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Precision CX in Regulated Industries - Emerj Artificial Intelligence Research",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00TndxSXRYdFoxZU1HRF9HZ2o2VGlZWWR4Q24ySmVidnRDSDgwZ3pROVBULThVSVJETTA2b1hvaVhFaXBEZWFNZVVPUmRUSTJqemtIelJ3V2k4d3g0M2xWNVI1X0dXZw?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 10:12:51 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Large language models could help turn fragmented environmental research into usable knowledge - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5NnhqRnhZamJsUFVrWVBheHU1RjVRbkJiOV93Y1NYRlg0Rk0xVy1fY0s4SHBaWGVFcENqNVZ2RUx6UnNoN3FWX2dlQXlLcFlTOWEzeUV3UmpJYVct?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 21:32:59 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "What 3 new MIT Sloan professors have learned about AI — and what they want to know - MIT Sloan",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzJ1TGlXdFJEX2lVdmUxTklUWndnMmZuQjZkeWhxeUx6VjlydUdjQ1NmaGZWenlaNzdILVhDVWUyaEJwLU9ONFNIcW4wWkd2SktDNTBHUU5CRktBbTNEcnA2aDB0eHlXVnNvbEtXWHhONDEyYzFtSlY0c0xsUDhkQ3hld0szcFc2S2djeVFQdUY2cHU0b3E5MW9nc0JPczBsVVdoRTVsMmFFTVkydHd3RjdxZDd3c2ZjTDZ5ZEZtZGZKT3B5?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 14:15:51 GMT",
+      "title": "The BioPharm Brief: AI, T-Cell Engagers, and Longevity Research - BioPharm International",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHpyaTctdHJHZGEtMXlMeGM5LWZqNVBZMXQ1aFB2WmVod0VtdTlsRFkxNzlQMHdaUVFaYVlieDR3eWlNSVZrQ1JRai0tLVlDUm8zQXZKR0M3RUExdXRzV1NoOGhFVWZMdE1NYXBYMldYUU90SnBrbkg2ZU8waFdOdXZHWURTXzM3ZUktWG84ODN3eExYRGRFOHVrVQ?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 21:23:49 GMT",
       "source": "google_news_ai_research"
     }
   ]
