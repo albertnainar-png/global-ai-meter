@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:31:25.752095+00:00",
+  "generatedAt": "2026-09-18T04:30:18.118146+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,64 +7,70 @@
   },
   "items": [
     {
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "url": "https://arxiv.org/abs/2609.17631",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "url": "https://arxiv.org/abs/2609.17632",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "One Color Preprocessing Improves DSATUR",
-      "url": "https://arxiv.org/abs/2609.17633",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "url": "https://arxiv.org/abs/2609.17635",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "url": "https://arxiv.org/abs/2609.19212",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-      "url": "https://arxiv.org/abs/2609.17688",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-      "url": "https://arxiv.org/abs/2609.17695",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "url": "https://arxiv.org/abs/2609.19387",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-      "url": "https://arxiv.org/abs/2609.17696",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-      "url": "https://arxiv.org/abs/2609.17699",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.19425",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
-      "url": "https://arxiv.org/abs/2609.17731",
-      "publishedAt": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "title": "The syntax and semantics of goals",
+      "url": "https://arxiv.org/abs/2609.19448",
+      "publishedAt": "Fri, 18 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
+    },
+    {
+      "title": "Our framework for reporting model misalignment - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 22:03:21 GMT",
+      "source": "google_news_ai_research"
     },
     {
       "title": "Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)",
@@ -73,57 +79,51 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "National Task Force Releases Case Studies on Artificial Intelligence Use in Policing, Public Defense, and Corrections - Council on Criminal Justice",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYy1ZR1JyNVVZZkhkQnAzMmZueGtXTDc4amxwSlFKRGFmcXdibkZnNDJtWHNncnFCZ3gwQ1JqLWlPQzc0cFNTWGFUdl9vYTVYb0ItcElWQnlzODhXXzc2MVF1TjJ6LXoxM0d0QmxvYS1saDVNWlQzTzFSTUFOejlGb0NhaXdLdVc3blRqMUdELTVuOVVNOEJaZVJzX3VlWXFzb19HMW54eVBFMmZpV08yRF83SG9KVi1SYXRTLUd5eXJoVFdKMFF5Z2wtOHpUVVpac3dzbGFnSQ?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 13:12:33 GMT",
+      "title": "Medora opens new possibilities for research at UND - University of North Dakota (UND)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXAtdG9sMXNkSkxTazd0RXRXVjN2OHR3TnFaaGtSZUdEbk1pWG1rejBHSG93OHFWemtVNFhUNWozVnU0NXVPdDY2eDViT2doM0xuQmM3LWkwTkdWbGtHVUdTTzJuSGl1cDUtTlNhbVNoUFAyc3ZFOVRRZTZqNnFtS19PV0EzclFxZ09oelFQNTkyRzRDbXc?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 19:58:32 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Manuscripts-turned AI agents can now ‘talk’ to each other, make new discoveries - Stanford Medicine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05OVB2U0hCLWF3YnA1eXNYcmxqYW11R3BDUXpQRE5YaGxXaWV1TksySVdkaC1vTEhPNWUyc0s2WS1tQTN6cE1heXNWV1Y4ZEdIMW1fVUhONVpJaWZFdFItUkx2d0oyWGxzc29GNjMxbFVuSzBF?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 18:50:31 GMT",
+      "title": "New framework outlines principles for health-literate artificial intelligence - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmVWZ1I2bzVjbHd3emE2ZzJwZVFWb0tkeEo1RzhXa0FpQU96Vng1c0JUQ2FhUnBvR3FrVHpCMFhTT3dodmZIaWtNMEtUZ1kyMnczc2ZiZjhfUzlsSnBDc0xHRHRTWjA3NlVyRkliRXJFa2JHVDdTbkoweDdLREZIenBDbGhLamJWRm0wS1k3TWRPWHpXNFZaTWYzMTlERXdCYm5RY3UzTlZ6RHdhOS1LV2ctdEtoYk5JMFpzUC04cXJha1U?oc=5",
+      "publishedAt": "Fri, 18 Sep 2026 03:29:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI in Pulmonary Medicine: What Works Now and What Still Needs Proof - University of Miami",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zQ1IycEdIT0s0R3ZNcGgyeVYycnpxdWh5blJLdDgtOWNtUk9PaVZHa1JTd2pkZk9ackkwRm5hRXZoZWF1MFV1bU1jZFlOZ0FyTkF4aWNPWnJsOWVsUHBsaWRfa2ZTdUhkMVBrMXJ0SkRyTUtGUktkb2Zn?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 16:03:47 GMT",
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0QtTUkwcEFSQTVkdFJOcnhzQzdOblBuT0poZUdiUFJKRGRIRjYtVVV5SUY1LU56SFluZGltTEdjNDd3WlNtbTZYY0o5N2d2cWlNTjVpYnA0MWE3aklIMVF1NzNwNFY4UXY5X0NXT2wtRjVHdGVtaXpHT0t5Y1lEUlNHbWpJQ1k?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 22:17:21 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Anthropic and Microsoft Researchers Weigh Limits of Artificial Intelligence at Berkman Klein Panel - The Harvard Crimson",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XajFPdXNBUTlaQnQxUnhRbkt5MVNLZ3hBUGFqWXRTRWM4NUZqeXZZZ25ucmdMdEc0RWhENkVPcnA0RGJXZzlWUUoyVVMzMVNzMzlHQUk5S0V1cUhIa0dYcF9DTVl5dk9CaHJ2T0diRjctOVUy?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 12:00:47 GMT",
+      "title": "Chatbot Curious, Data Center Skeptical - Navigator Research",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54a0JaRl82TTFIeUkyeUwtT1o2YnFjUVY3Z2NiRU9WZHdUVU55TWRYb1B0OVpIS1pYck1XNlVhY1RacVRIMVYxLUR4bGZLWnZsXzliSnlTQUdudUNNaHdBOThwQ2V0d2Y1ejVJSTJ4WElqRE1saFpv?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 19:26:20 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "‘The US can’t lose’: Pentagon plows ahead on AI despite warnings - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmRGSXJNS1BNSndxZk51THRqX0VxbUgxV2lhT2xoVHprMUhZTUhnRmJRcWdycHBMd0ZSblMxeVcyM2M2R3ZGYVFFSU12RXFORWwxajZ3Y2JrcWh3RUdWSlNyR0VYb1VJOHNQY0tSbGVza3hmRi1wVFNQVVpGNHE5MFJINF9WYkl2S0VpSzVJMA?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 19:50:00 GMT",
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Stanford Medicine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 18:04:39 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Fayetteville State Lands $10M Award to Build Defense-Focused AI Program - CityView NC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmxXQjdLcUtlT2lXdmF6TUZ6TllSQ0x0akg1MGdWMDUtNTRYWnVDUjdaQm9nVDV4QVB2a0xVUVVuT2xzZ1RiRU5RRGhuV1V1eU1FcTByVG9UenlyVkxkeUFMS0NjeXNab2R3MUFhSHVNc0ZsYnFQQmc5cWREQTVySG01SjVmZjdUQ3FuOXFYR21OVUllNmR5NC1BLUVnZFgtbEZfcENha053Zw?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 14:30:58 GMT",
+      "title": "Who has heard or read a lot about AI, and how is awareness changing? - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVFFT1BxcG10eXJJVUpNRXFLVU16OWhHZktpeUwwMGVtcVhHQW1OenEwRmt2c1NfUjZMd0xudllTUWlvdS1QT2VuaThfZDlRSUdKelQzR1lJQmxqX2VZU0JhZHQwemN6bnBCMDhNZzV4Z2oySEZVd0NUeTU5QllLYVhLZjY5Q0JwdHNIU2p5aDR0ZUlwZk0zclU0Q2Z1WmV3NUx4S0FVZHNWY3BqMHhuSjEwaw?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 13:59:57 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "The Liftoff Scenario That Terrifies A.I. Doomsayers - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFBzNEsya0lCSHdGM0ZCaDlVRG1rOWRnRWVxZXBfbmZTNWhKeWFDbG4yVjRMWWxPejROOHV5VnZCMDY5WVJxTXpJRmlySlVBRkRjN2J1ZWtESURFSG5MX3BTU0twSmhXeHlUZHduR2NoR0t0Tzg4Ri1qRU9FcUxKMnFEdw?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 19:56:44 GMT",
+      "title": "Oct. 15 symposium to explore AI's role in life sciences research - psu.edu",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFrQmZKWE5vQnNoMWdOdFFYMVVrdldkVlluSXJWRVFJLWF0b0s2QmVsMVF6Ni1kc29XWmtRNnJOZEg4OTNYWktlVm5xaDUtMlVFVVFlMXRFZm1qeU1IWnV5akNBVUZMUDRfeFc3cHJVVzNybGszUmc3R2dudEVmd1ZOemFrYTM4aWhDQmVBYUZrZFRXakRFNkpnUkRjbzNXdXA5RmRqS2JXYk9UdUpWN1EyNHVZbUtERzNQaw?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 18:31:38 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3V0YklsX0x4M0htcDk0bjFaNTdHa2pkY1RfdW0xZXowQVBVVlFYX2hOYi1TZWZMLXFtNG54NmFZZ21Pc2VPTnAwY3hGVnZkZFhhSHN6U0hfbFhKeU95cDVUbFdka0RhYjBzTkxYVlBWdk5QdHpEV1VvN3prWUtaX3FHTTJPZFdaYXctQkpDTjAySGVlUkc2UlVuZnBseTBuelVKOTRpa0F6ME5xbzA2Z2U3R2ROdXA3cFJfSFh2aG50bm1ndGZYVS00b3c0d3dvQVVtUWNzSE81ZktuS3RqUkhHRjl3MW54TmhEMXNiWnBKeW8?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Kean Researchers Awarded Grant to Help Young Students Evaluate AI Financial Reasoning - Insider NJ",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ2s0bURMczN3TUt3WTc1WWJCVzVFbVNwTXU0S1Q4SUlDOXlSc2JUeGpwQk1WN3d0LWNUZk1LVGtzMFR0ZXZKQTRuMm96ejdnRlV6YVlPazhzd3dzMi1nNkFibzM3LTJsMkFSVFlMRWhmMFVYTXNvbVpjSDJtZk9BMlliZU5ZMDZuSkF6RFhLbHpRY3JjNkZ2b1RLMV9NWXlpNzNNUlJNQk1aTWVyVEs3ck9rZXUtUnNtZXNLYjg0NUhZTTBJ?oc=5",
-      "publishedAt": "Thu, 17 Sep 2026 02:31:00 GMT",
+      "title": "How AI could trigger the apocalypse, according to some researchers - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcU56V1FRdmFKR2dicDRvQVA2OExaZ2NYbHNpd1VScXdveXpxOFpPa1ZDTFFrQlJncHNPUG0yeGx4akxLTk5OR1B5ck4wUEt4T2lnOV9jUURGdmNrNmdicTRFdkhIS3ZDNWlWUDF4RE9iSmdGV1NYLUlEREFZSk1SeDM1bFBxXzE5MDJfcDQ1WGEwX0F2YUl5T1RWcmZrMGJtR2JQME5XUUJBQjd5cnJCdjdxVDQ3b2h0UXZ1UHBSRWVtOWVkOVhUUUk0SEZyY3c?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 17:47:20 GMT",
       "source": "google_news_ai_research"
     }
   ]
