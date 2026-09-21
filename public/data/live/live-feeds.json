@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T04:29:48.215728+00:00",
+  "generatedAt": "2026-09-21T04:33:29.993114+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,27 +7,105 @@
   },
   "items": [
     {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "url": "https://arxiv.org/abs/2609.21149",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+      "url": "https://arxiv.org/abs/2609.21165",
+      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Authors can identify influential AI research by ranking their own work, Wharton study finds - The Daily Pennsylvanian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzZVRXJKTU9KN25ES1YtN3IzYmhYcGFqNlJGeUZQTzNwbi1Ia2tQOWRNS2d3QWt1bG50ci1vRTZUbk5CeUFIaDQ5MEdaX0xiYy1ITUlVYVFVTWVLX3J1cEdYeE16YnlQU01qTDZLYXpiQVBNOXN0VFA1OFRaWWZuWGpFSVpwdHFKb1NZLV9QcDM0X0R3UUNrclpzVW5ZR2czU2c?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 03:25:26 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWk0bGVJdm9YYWxjbzlnV3dqQjdTSlc4VUFlVldob20zSzMyVi1MUUNzUll6Q2t6MjN2M2Z4Wk9nVkpvUkVaYzlkaUFqdkxyRjA0WEtydzk3ckF2aTFOLXZEekJtVFlLS3BWcnpFZDF0amowajNFNXA5THhnczZqN3hVVzdITG95cXZBVFJZVGJMcUN2Vk1zbV9PNEV6djhLWlpGeUZHY1ZjdjZIYVN2WEZZWGV5N211ZDZMZzdtN1QxUFBSdWtj?oc=5",
       "publishedAt": "Wed, 16 Sep 2026 15:14:38 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "How AI could trigger the apocalypse, according to some researchers - Scripps News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcU56V1FRdmFKR2dicDRvQVA2OExaZ2NYbHNpd1VScXdveXpxOFpPa1ZDTFFrQlJncHNPUG0yeGx4akxLTk5OR1B5ck4wUEt4T2lnOV9jUURGdmNrNmdicTRFdkhIS3ZDNWlWUDF4RE9iSmdGV1NYLUlEREFZSk1SeDM1bFBxXzE5MDJfcDQ1WGEwX0F2YUl5T1RWcmZrMGJtR2JQME5XUUJBQjd5cnJCdjdxVDQ3b2h0UXZ1UHBSRWVtOWVkOVhUUUk0SEZyY3c?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 23:28:02 GMT",
+      "title": "AI is making spear phishing scams more successful, BYU research finds - KSL News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 23:34:20 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Nebraskans wary of risks surrounding artificial intelligence - news.unl.edu",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelBHOEVFaTVMd2JJNzJuZ0dyWk5tb2RrbnRSdzdFd2VxTTNWQ2FoRm0wMmlrVF9aamZwN1g2SFFZOUhMb3B1WWRPVEVidVR0bU04eWpINUwyOURZUnZ6UDdvWFVGbXF4MHktanpKclRrTUkxMkcyaUVNa0Z6ckdsQkNTT1gzNDd4QU1nUUs0dWZ0OVk?oc=5",
-      "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "title": "AI is going to change all our lives. Ohio experts explain how - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkQ2cWU1TnVEeUx3bE1oQTFEdVNvdUw0SzZHMGpsQnpfZGlyZDlrOXU1SjhIeWlYWjZNV3ZMTU5lcE9ndXRnVWl5TzhQMktvYXdqQU1iaEhDeVB2bDlMZ3d0SVVOVHBwT1ZtdGZEdnQxYzhSNUE4cnpwYVRKSVEzZlF3djRhbXpTbDhOX2xka05xVnI0cDlvOG0yTElSQm9RbUktSi1XbXp5TUlSckVFVDl5X21wS0QtbS1lQjlMbzI0TEQ3enN4QTZDX1VHVUY5U0czdGxyeWJ5Zw?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 10:02:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Utah lawmakers on both sides of Capitol Hill prepare to meet artificial intelligence challenge - KVNU News Talk",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0tGTHZsc0h5RzA0QmY4WDVUbkxmMzgzc05nVmRkM0dCNFY2WU53SmNRU3lGenVybGxDWG5sVXhTakVqVHhBWm1kWnl2U2tMZkxGTGNqN0x3bmlWbTJOdm5OZzdPZVl1dG1ZTUR3cHRJZWpxN1dXQlBCeFJvOVZfR21nZUpScmdFNjg2REZlNVJVWXQ3YTRUZkVYdlBJM3dIRnhaQ3N4azg5eTVNcldyRkZ1dlVRUFk?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 01:16:08 GMT",
+      "title": "Board of Visitors discusses the implementation of AI in research and academics - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEludldJZGVZcEJ3c1lrb2k2SDVVdmZRMkV1X2lkeXhaRkxXNWVSMklFdzRQMWd5V09qbHhzZ21wOVZHdWk0VGlMdWF5QXJWV1Iya2VPRzBHSnB2N01OX3VDMEdvdmpHYmpwLWFZVDMyVlU1bXZrYUNMVlY5aFlhT1hWN1ZlNXZzOWhadVVjeEtoT1g4dEo1VmdtVFIyM3dBXzNBMXUwbHNCQ1QwUzFDRUJwMGZRUXRyc3dhSG9CblNIUQ?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 18:28:02 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - nsf.gov",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
+      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSFFFRHNXZlp0d1NZcUdyX0JXWTlCSHlWQzZqZTNwYy1yYlZTT2kzRkRKaFllSF82TWVNQTBiNERyRl81LXM1eHZIZklxbmpsaWtKdXBHaGgtSmwtOThKNzVjUEprT0xtYkR3WFNrc2xnSVFHTnJFY0xRblU0VlNhdGJaMWxtQ3ltdWJ3c2ZYd2huYXdWUm1GZkViSy1WV2ZlelgxTzNxZGRZekpwZEhYYkRkWjlkVnVfdWVYaVZJeXhZN2JIbV91eUFUa3k2OERUWk0zcEF3b0RqMXc5ejRUb1dtNURianJ4MkZlT2J3?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 13:14:45 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -37,33 +115,15 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
-      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTm1ybVRuVDJHTzJOam5vMVBYUUNjNko1T0lpVHU2dk8zVTl5aERkZm9DZm53aFYwYk5oejBDOTBJUFpMdTZpdmhzVW5VOWlnZG1UVDBGbkxOZUVWOTFHYk5RWXBVM28zLVlrWWNDZ2pwb1ROMVdscmZoeTVRVm04R3B6QkdrVkhxbmhveG5TMjhmOV9wX1Q3VTJtLUcwcmtwNThhbF9mVHVCSDg?oc=5",
-      "publishedAt": "Thu, 17 Sep 2026 13:59:56 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Anthropic and Microsoft Researchers Weigh Limits of Artificial Intelligence at Berkman Klein Panel - The Harvard Crimson",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XajFPdXNBUTlaQnQxUnhRbkt5MVNLZ3hBUGFqWXRTRWM4NUZqeXZZZ25ucmdMdEc0RWhENkVPcnA0RGJXZzlWUUoyVVMzMVNzMzlHQUk5S0V1cUhIa0dYcF9DTVl5dk9CaHJ2T0diRjctOVUy?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 12:00:47 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Why AI is speeding up scientific research but not lab experiments - Scientific American",
+      "title": "Why AI is speeding up scientific research but not lab experiments - scientificamerican.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkpVWl9qM1JfeFB5akw0UkNvS01QU0ZCb3F1RjltWFBfcFpTSWR5U0FzcDBKaTRVc0NvdEVKUUlyNnc2Mk9yZTBKMlpyblBjVU1GeExqUUR5c2JWRzZfWmZmMzVMaGxWeE1SekNHanFQUF9tN2x6WVczUHB4eHdqSDgyd0dIbEVEdFVtUEt3ZlB4dTB5OTlJY3lYc2JZdmF3amhBelJrM0NjZi1Rd2c?oc=5",
       "publishedAt": "Fri, 18 Sep 2026 18:20:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "MSIT issues national AI research ethics guide holding researchers liable for results - DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2Wm1qbklLN3lxZnJXMjd4eVRGYWk2V1pCZnRXbmFfSkxCVi1vaHdlZVIwd3Uxdk94NGdrWFY4TTZSYjZjUzJHanBheUF1OUc3blA5OQ?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 03:18:00 GMT",
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0QtTUkwcEFSQTVkdFJOcnhzQzdOblBuT0poZUdiUFJKRGRIRjYtVVV5SUY1LU56SFluZGltTEdjNDd3WlNtbTZYY0o5N2d2cWlNTjVpYnA0MWE3aklIMVF1NzNwNFY4UXY5X0NXT2wtRjVHdGVtaXpHT0t5Y1lEUlNHbWpJQ1k?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 22:17:21 GMT",
       "source": "google_news_ai_research"
     }
   ]
