@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:33:29.993114+00:00",
+  "generatedAt": "2026-09-22T09:18:49.483542+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,67 +9,73 @@
     {
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
       "url": "https://arxiv.org/abs/2609.20971",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
       "url": "https://arxiv.org/abs/2609.20974",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
       "url": "https://arxiv.org/abs/2609.20981",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
       "url": "https://arxiv.org/abs/2609.21061",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
       "url": "https://arxiv.org/abs/2609.21096",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
       "url": "https://arxiv.org/abs/2609.21113",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
       "url": "https://arxiv.org/abs/2609.21139",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
       "url": "https://arxiv.org/abs/2609.21149",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
       "url": "https://arxiv.org/abs/2609.21157",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
       "url": "https://arxiv.org/abs/2609.21165",
-      "publishedAt": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Authors can identify influential AI research by ranking their own work, Wharton study finds - The Daily Pennsylvanian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzZVRXJKTU9KN25ES1YtN3IzYmhYcGFqNlJGeUZQTzNwbi1Ia2tQOWRNS2d3QWt1bG50ci1vRTZUbk5CeUFIaDQ5MEdaX0xiYy1ITUlVYVFVTWVLX3J1cEdYeE16YnlQU01qTDZLYXpiQVBNOXN0VFA1OFRaWWZuWGpFSVpwdHFKb1NZLV9QcDM0X0R3UUNrclpzVW5ZR2czU2c?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 03:25:26 GMT",
+      "title": "New learning space opening to deepen understanding, problem-solving and reflection in artificial intelligence - Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 15:56:33 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "UNC researchers will use artificial intelligence to create vaccines to treat cancer - WUNC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2QyTG1Gai1neUcteF9JME1PN1JIU3BtY0t2MUlTOGZxbFI4aXJVUG9PZnBvZ1psMHEyU0lsXzdOR05pQXdMSnc2bmZJUVZNSUF0TWpIYldiM3dDRmpIbmwwQjZnUlFMXzFTNkNUWUNlZnE2Z3o2dXZKRnF6dXAyaWRvZGdCVHpPa3BmUmFFSmlUVVFNNDdjOHhoaTR4MmNvR3Ew?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 21:02:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,51 +85,45 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI is making spear phishing scams more successful, BYU research finds - KSL News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 23:34:20 GMT",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 17:32:19 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI is going to change all our lives. Ohio experts explain how - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkQ2cWU1TnVEeUx3bE1oQTFEdVNvdUw0SzZHMGpsQnpfZGlyZDlrOXU1SjhIeWlYWjZNV3ZMTU5lcE9ndXRnVWl5TzhQMktvYXdqQU1iaEhDeVB2bDlMZ3d0SVVOVHBwT1ZtdGZEdnQxYzhSNUE4cnpwYVRKSVEzZlF3djRhbXpTbDhOX2xka05xVnI0cDlvOG0yTElSQm9RbUktSi1XbXp5TUlSckVFVDl5X21wS0QtbS1lQjlMbzI0TEQ3enN4QTZDX1VHVUY5U0czdGxyeWJ5Zw?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 10:02:00 GMT",
+      "title": "China’s bet on AI-driven science - GIS Reports",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTjFUT2Q4RUV6SF9TMzJaOXpGNTZRTUVrb01pa29Tc2dPVkZEWDJPZDBQalZFR3JXX2lLWm0zVV9MNUplYWRZNEVUbGpKV3ptSGd1OXRYcGV2eGg5S3hFcHkzRjlxTldHQ2o1bzVGVE4xQQ?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 06:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Board of Visitors discusses the implementation of AI in research and academics - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEludldJZGVZcEJ3c1lrb2k2SDVVdmZRMkV1X2lkeXhaRkxXNWVSMklFdzRQMWd5V09qbHhzZ21wOVZHdWk0VGlMdWF5QXJWV1Iya2VPRzBHSnB2N01OX3VDMEdvdmpHYmpwLWFZVDMyVlU1bXZrYUNMVlY5aFlhT1hWN1ZlNXZzOWhadVVjeEtoT1g4dEo1VmdtVFIyM3dBXzNBMXUwbHNCQ1QwUzFDRUJwMGZRUXRyc3dhSG9CblNIUQ?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 18:28:02 GMT",
+      "title": "How to Evaluate Artificial Intelligence Systems for LMIC Usage - ICTworks",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FNTZhMUpOZUJnX1R0YXFDUGlRRFphVzRXUUlpeHprYnFPcGwwc0h2a1lZU2lRc29aRE0zVFNVVEhtalRoVnZ3Rl9GTWZSbWdlSURfZEUzYlVoSVR5dmNtWE9rTVZBNmdEZE1LeVd3OElsblc5a0ZQUjJiOVJCQQ?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 04:57:44 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - nsf.gov",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
-      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "title": "Artificial Intelligence at Cleveland Clinic - Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JajlabnQ1R3pxblFlM2FKYWNuLVctVDBLOVNLZXkwSG5fTDhtQW1JUXJRUXVSY0pWZlNmSGxpZ2tKT1RxNVREc0JDVi1oNkpKWWJqTDVjY2xtbk5uZkljRDBJczJYRmdXNmlRY3hvYw?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 10:02:30 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out - Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSFFFRHNXZlp0d1NZcUdyX0JXWTlCSHlWQzZqZTNwYy1yYlZTT2kzRkRKaFllSF82TWVNQTBiNERyRl81LXM1eHZIZklxbmpsaWtKdXBHaGgtSmwtOThKNzVjUEprT0xtYkR3WFNrc2xnSVFHTnJFY0xRblU0VlNhdGJaMWxtQ3ltdWJ3c2ZYd2huYXdWUm1GZkViSy1WV2ZlelgxTzNxZGRZekpwZEhYYkRkWjlkVnVfdWVYaVZJeXhZN2JIbV91eUFUa3k2OERUWk0zcEF3b0RqMXc5ejRUb1dtNURianJ4MkZlT2J3?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 13:14:45 GMT",
+      "title": "5 AI Myths We Need to Stop Believing - University of Nebraska at Omaha",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODlWQkt3aG5pLUQ5Q2VrZmlEczV4NzlHYi02VWlVRHQyTFVvcml2czA2eWwyandTd3RNd3pVb1p1dENWa0JUNjdiX1dUc3ppZTk4cjdSZU5pekY2VlN3dGNqc3hYNk9iNEJYRTBHeUFaRUFCYURRQm1qQXNEZnRLSHNiYw?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 20:51:55 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Fayetteville State lands record $10M Defense Department grant for AI research - ABC11 News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODIzamNzVGUwN1Y0U0Z0T2tNT3VpMVJRV1piU2lsM1E1WHJKV2VCUERJNHJDTkpLMmljOHZtRkZTTThvS2lQUlFKanNfNWVqUnJGeHhOUFVkRWdDbG4wb1J1R2U2MjdTZVpvdWozbWhVUW5HTnM5QzZEbmhqMk93aVB6QlVZazRpb2FVaEJoTG05a1J6eWZJNGROamk1NjJIVTh5RUp3c1XSAa4BQVVfeXFMT3MzX2ZoSVFvQWk3T1ptR1hjR1VJSWtUNFg4dXpBMXctR0R6czdzaUhaMC1LQTh0MGVEYmhVYjRGQnAzdElIMGgtMndTdURlMllocTFLYUk2bml6UWZwV2oyUkRNLTl4X3U4UmVEMWZGT0pNVzFBbWZBODRBRlUwUU5yWldxZVM0Tk5WWUZQdzNJUUxNUExvTjRqNlNJUEI3bEFWOVRqcGw5VFE4elVn?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 08:05:53 GMT",
+      "title": "Researchers from State University of New York (SUNY) Buffalo Provide Details of New Studies and Findings in the Area of Artificial Intelligence (An Informatics Framework To Harmonize Electronic Health Record Medication Data for Managed Care …): Artificia - InsuranceNewsNet",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPRWNYNTQzSVhfaERxQkFLc2RRbnJCRXF3eU5tUUR2bmJUZ1V6eEtVdVcyekFBb0ZDc2JUSEtBVWx4SzVUbnMyZW5OTm51NFpTalcyRWEtTWRWSTlreVZJcGVPNkhZdFRwN1lzQ3B6bnY2QncycVFkUzlxNi1LNEtVSWFIZDc2V2NBcHdaU25saGNqWlRhZGJRZGFrNVlZd1o3OG1FVko2WDFGaEJEaVd2NU43T1dNOGFmZ3J2SDFVelUyRzlrenZNNVcxN1c2d3BCT1FLWWtKU29YYTFaNTNNUDRoTjI1TEh0aWRWeGg0b0VGQk0taWNSbVgzY01PaGx4Y015S1BzY3Y3d2dWaFVjNHh5MG5UdDV2dFNpSmlldlh3SC0wc0FGYWtLdi00TlBneXVKN3RXS1ZrdFdlaTdOenRxMWtSTlhfYmluZk5Jbkh0c3hoTWc?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 21:22:16 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Why AI is speeding up scientific research but not lab experiments - scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkpVWl9qM1JfeFB5akw0UkNvS01QU0ZCb3F1RjltWFBfcFpTSWR5U0FzcDBKaTRVc0NvdEVKUUlyNnc2Mk9yZTBKMlpyblBjVU1GeExqUUR5c2JWRzZfWmZmMzVMaGxWeE1SekNHanFQUF9tN2x6WVczUHB4eHdqSDgyd0dIbEVEdFVtUEt3ZlB4dTB5OTlJY3lYc2JZdmF3amhBelJrM0NjZi1Rd2c?oc=5",
-      "publishedAt": "Fri, 18 Sep 2026 18:20:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0QtTUkwcEFSQTVkdFJOcnhzQzdOblBuT0poZUdiUFJKRGRIRjYtVVV5SUY1LU56SFluZGltTEdjNDd3WlNtbTZYY0o5N2d2cWlNTjVpYnA0MWE3aklIMVF1NzNwNFY4UXY5X0NXT2wtRjVHdGVtaXpHT0t5Y1lEUlNHbWpJQ1k?oc=5",
-      "publishedAt": "Thu, 17 Sep 2026 22:17:21 GMT",
+      "title": "Decades of Male-Focused Medical Research Could Bias Healthcare AI - Ms. Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0Q3azMzb1FNcGRLdzlNZWI3RFVSNUR6bFlpb3gyS2kwR1J5MGpXdm5UcGpGcDVUS1RpMm9oZXR6OXdmZzhxelFoTEhNMDRvbHI2c192VEFHTmtDa0M5YkNiOHZhVlRSUXJwdUNCLVNqZUo2Y0kxMFJ4SnZDR09lbzNCNVMyX3VaUDhRNUE5a0RuRGxv?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 23:29:43 GMT",
       "source": "google_news_ai_research"
     }
   ]
