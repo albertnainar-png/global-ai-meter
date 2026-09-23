@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:18:49.483542+00:00",
+  "generatedAt": "2026-09-23T09:19:18.718880+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,87 @@
   },
   "items": [
     {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "url": "https://arxiv.org/abs/2609.25010",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "url": "https://arxiv.org/abs/2609.25013",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+      "url": "https://arxiv.org/abs/2609.25036",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "url": "https://arxiv.org/abs/2609.25088",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "url": "https://arxiv.org/abs/2609.21096",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "url": "https://arxiv.org/abs/2609.25165",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "url": "https://arxiv.org/abs/2609.21113",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2609.25187",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "url": "https://arxiv.org/abs/2609.21139",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "url": "https://arxiv.org/abs/2609.25199",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "url": "https://arxiv.org/abs/2609.21149",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
+      "url": "https://arxiv.org/abs/2609.25254",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-      "url": "https://arxiv.org/abs/2609.21157",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification",
+      "url": "https://arxiv.org/abs/2609.25272",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "url": "https://arxiv.org/abs/2609.21165",
-      "publishedAt": "Tue, 22 Sep 2026 00:00:00 -0400",
+      "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
+      "url": "https://arxiv.org/abs/2609.25284",
+      "publishedAt": "Wed, 23 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "New learning space opening to deepen understanding, problem-solving and reflection in artificial intelligence - Marquette Today",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 15:56:33 GMT",
+      "title": "Marist University and IBM Launch Innovation Incubator with IBM z17, Expanding 50-Year Partnership to Advance AI Research and Student Career Readiness - IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcFVGLWd5VVkzdThjY2FobmlxUm1zclhXVWZpM3NIcHpFS2tfdHJjYm5raGdHNEVzYk1oNkEyWlhFTGlieENENUo0UmRyNHRFdzRCS3d3enY2TG1FY3N5UmJrOU4wQlJoZWRid3N5SHJBWVRjZHhjX2gycWhVeFRndWNjZXFRMXBfQjZzeS1yUkw4eFdHX0V2eFVXV0JBY0x0TUQzNTg3b1ljV2Exelp4Y2xqWHZUM2xFOXlESnN1cFJudS1ucmJQWDdnS0R4bDFrR2N3YlJ1Wjd1SXZudGV5bTFOTXUzcmNEbU4zNVd6YWVGUGxIMkZtblczaXFGRmZ6MTlrU2tIbF9iNU00ZE1hSlZLYw?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 12:02:47 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UNC researchers will use artificial intelligence to create vaccines to treat cancer - WUNC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2QyTG1Gai1neUcteF9JME1PN1JIU3BtY0t2MUlTOGZxbFI4aXJVUG9PZnBvZ1psMHEyU0lsXzdOR05pQXdMSnc2bmZJUVZNSUF0TWpIYldiM3dDRmpIbmwwQjZnUlFMXzFTNkNUWUNlZnE2Z3o2dXZKRnF6dXAyaWRvZGdCVHpPa3BmUmFFSmlUVVFNNDdjOHhoaTR4MmNvR3Ew?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 21:02:00 GMT",
+      "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 07:59:07 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Nvidia establishes Israeli research group focused on AI for medicine and science - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WME1ORVY5SFFXdGNuNkxaRUVVamVNSVB1dm1WUDNhbDZGWU9qUFhDUm1JQ2ZETXJpNDZ0ZjBwUWZ1THlNMTRwZWpyanhHR05iaUhkMzFwQzNweHFIQWk0SXNTNVFXUEl2bEE?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 05:52:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Why research analytics built on AI needs to show its working - Research Information",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVXLVp5MW5FaFB2MVFUSVZnbm14RndLMXI5MXgxTURqRVdTNzVYdXRlOXZqNVdBT1pBTnljdzlDdHFfUzFqcXpEZGNMeTc1NWJOLWstRjE5dzRzYmtURk5iYmhjSk9zWXIxWDVPYTJ4S3pSajJBM1NvaThlM2xCcTVIUDduXzdlNHVNcXcxaGRiUmNsd0NkV1dRVWxka2trbVBEUXhlYmtkcHlC?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 08:14:50 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,21 +97,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 17:32:19 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "China’s bet on AI-driven science - GIS Reports",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tTjFUT2Q4RUV6SF9TMzJaOXpGNTZRTUVrb01pa29Tc2dPVkZEWDJPZDBQalZFR3JXX2lLWm0zVV9MNUplYWRZNEVUbGpKV3ptSGd1OXRYcGV2eGg5S3hFcHkzRjlxTldHQ2o1bzVGVE4xQQ?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 06:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "How to Evaluate Artificial Intelligence Systems for LMIC Usage - ICTworks",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FNTZhMUpOZUJnX1R0YXFDUGlRRFphVzRXUUlpeHprYnFPcGwwc0h2a1lZU2lRc29aRE0zVFNVVEhtalRoVnZ3Rl9GTWZSbWdlSURfZEUzYlVoSVR5dmNtWE9rTVZBNmdEZE1LeVd3OElsblc5a0ZQUjJiOVJCQQ?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 04:57:44 GMT",
+      "title": "Big tech says AI can find a cure for cancer. So where is it? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0pRaDZ4a0ZUQzU2OGNZaFpxZzBmNERpcEdyWElWREdINWZQOEVEU3pIMU1ZWjhUZUxfVXVWN3RKYkdnYUFoRnlRdXBVS3NEbFM5bWlQOHRXM2JUYTJsSUQ3TDAyX3B5c3dYczJlWHdsT1BPVkhFRDhFNjBkWmIxSkxNMFZkQ0c2aVhoSU9aOVZaYmt2TXBOZUJkUVhZM1VoZTFaZEpxOWVGNGJCaUs2WWZuUGd6ZUZKdVBlUno4c2o2QQ?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:08:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +109,21 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "5 AI Myths We Need to Stop Believing - University of Nebraska at Omaha",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODlWQkt3aG5pLUQ5Q2VrZmlEczV4NzlHYi02VWlVRHQyTFVvcml2czA2eWwyandTd3RNd3pVb1p1dENWa0JUNjdiX1dUc3ppZTk4cjdSZU5pekY2VlN3dGNqc3hYNk9iNEJYRTBHeUFaRUFCYURRQm1qQXNEZnRLSHNiYw?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 20:51:55 GMT",
+      "title": "Teaching Through a Technological Revolution - Yale School of Management",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYRzlTbkQ1c3EwNFd3RWNydmRaaEdXTWRQcDluaEFmVHgtS3ZZU0pNTnNERHpFYkR6bGFOdHMtSmpMdVhHekFOSkNWZDUyT210N0hXdWV0azQ2TktZSV9hcUJZc2Rqb1A4cG5maUx0Q0oweVpabmk5NDg5dGZJUQ?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 19:58:12 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Researchers from State University of New York (SUNY) Buffalo Provide Details of New Studies and Findings in the Area of Artificial Intelligence (An Informatics Framework To Harmonize Electronic Health Record Medication Data for Managed Care …): Artificia - InsuranceNewsNet",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPRWNYNTQzSVhfaERxQkFLc2RRbnJCRXF3eU5tUUR2bmJUZ1V6eEtVdVcyekFBb0ZDc2JUSEtBVWx4SzVUbnMyZW5OTm51NFpTalcyRWEtTWRWSTlreVZJcGVPNkhZdFRwN1lzQ3B6bnY2QncycVFkUzlxNi1LNEtVSWFIZDc2V2NBcHdaU25saGNqWlRhZGJRZGFrNVlZd1o3OG1FVko2WDFGaEJEaVd2NU43T1dNOGFmZ3J2SDFVelUyRzlrenZNNVcxN1c2d3BCT1FLWWtKU29YYTFaNTNNUDRoTjI1TEh0aWRWeGg0b0VGQk0taWNSbVgzY01PaGx4Y015S1BzY3Y3d2dWaFVjNHh5MG5UdDV2dFNpSmlldlh3SC0wc0FGYWtLdi00TlBneXVKN3RXS1ZrdFdlaTdOenRxMWtSTlhfYmluZk5Jbkh0c3hoTWc?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 21:22:16 GMT",
+      "title": "AI Doomsday Scenarios That Researchers Say Could Put Humanity At Risk - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjE3ak5ZLWhveVpIUjBOZlA2N2kwdjVnTXdKVWoydnR5cm9XSjdnNDVZOGlFTFMxLTdpVzNzdThqVUZYU0cwQjFjb1JUb1lEalplZnptcjJRU3lyTVpHYlhDSEJxbTlEeTFJdUduOGFacHhzSzRta1phR2g1WVlZbHRBV2VRSWp0SEFEdEI2enhmWHo4RDNnOWdyUjlrdmpsVlBobXVrWEtBYkExMDZtVG9ZRmdxbGtsVkFfaUhZNHPSAcgBQVVfeXFMUEw2YjRrRzBGRkp1WGdwcmR2QTNRZXZldlJlTjZ5bC1QaHJpMkVZUHBJOHR6TUxhWmQtNGFPeGdzQ1luSGNndFluR1Y5MnhiQ2xVUkdXZmZ2eFgtMm9HbUxjOGdBNE1YaXJIcXg1Tzd0VmZvRkhFeGFIamdMRlVHT3VYeDhaUnN1YkRYNFoyRl9LWTlTSnN0TGRfYVVnUldhbGd0Z1N1b0NPa0Zra2Q2TGczREZnTUItQXVmMzg1Yk5xUjhXN3UtVFc?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:19:27 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Decades of Male-Focused Medical Research Could Bias Healthcare AI - Ms. Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0Q3azMzb1FNcGRLdzlNZWI3RFVSNUR6bFlpb3gyS2kwR1J5MGpXdm5UcGpGcDVUS1RpMm9oZXR6OXdmZzhxelFoTEhNMDRvbHI2c192VEFHTmtDa0M5YkNiOHZhVlRSUXJwdUNCLVNqZUo2Y0kxMFJ4SnZDR09lbzNCNVMyX3VaUDhRNUE5a0RuRGxv?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 23:29:43 GMT",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 17:32:19 GMT",
       "source": "google_news_ai_research"
     }
   ]
