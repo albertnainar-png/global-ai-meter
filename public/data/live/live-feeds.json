@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:19:23.651590+00:00",
+  "generatedAt": "2026-09-25T09:37:14.726704+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,105 +7,81 @@
   },
   "items": [
     {
-      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
-      "url": "https://arxiv.org/abs/2609.25010",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-      "url": "https://arxiv.org/abs/2609.25013",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
-      "url": "https://arxiv.org/abs/2609.25036",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
-      "url": "https://arxiv.org/abs/2609.25088",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "Pistis Technical Report",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
-      "url": "https://arxiv.org/abs/2609.25165",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "url": "https://arxiv.org/abs/2609.28557",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2609.25187",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
-      "url": "https://arxiv.org/abs/2609.25199",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "url": "https://arxiv.org/abs/2609.28575",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
-      "url": "https://arxiv.org/abs/2609.25254",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "url": "https://arxiv.org/abs/2609.28609",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification",
-      "url": "https://arxiv.org/abs/2609.25272",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "Training Object Permanence in World Models",
+      "url": "https://arxiv.org/abs/2609.28654",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
-      "url": "https://arxiv.org/abs/2609.25284",
-      "publishedAt": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "url": "https://arxiv.org/abs/2609.28690",
+      "publishedAt": "Fri, 25 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:59:07 GMT",
+      "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 18:18:13 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Google DeepMind's latest AI tool promises a new era for genetics research - Live Science",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPOG5qNnZlMkZ1WkIzaXBLaDB5TVVtb1owSi1PcW9HNUZUNDVsRjl2eVVJS204dUNnTjNPLUdtajc3bWUzNGo4MFNURnYtWXFxZ1F6TC0wMS1wVHFPNDBOMGZJQ0tMdWk1RE4yR2QtYnllZFlrWHBYYnVKY01tSjlkdXJ6ZUhUTVFEZVFEbEZfRlI5NEliZmVTRlRRZ2U2SkVXOHRlbzlBRmVGdE4wOElGYUpzZ3JlTDJnSEVWaFpNcl9aUWFVX013RncyaWFkenFQbFdLU2p0UmtreFVhOHZydWdUemVrX2lWRUFCamhlcHd1Q0cwU21fc2pwaVJtU3kzWTJQeHpYR0d0cEN6S3o3MkRXSFVwRVRj?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 14:12:22 GMT",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI Chose To 'Hurt' Humans When Faced With 'Pain'. What Researchers Found - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa1Bsd3liUHBGajZxaHNNSEVDY0xJOWlwU2xNX2p1aEFhRVBjTzBoNTJiN3RrekZ6dnJpeXBlWk9DNGhDY0ZuOXB4V00yWlVpOFV6cGRpemhvZ21ZZWJvODdwOUhFR21HQk5tV1dzYWRIRmhONXdvbWNmSExLWUFTcExZUGtFRVo2VzJxZUd6LUNPY3RvaW4xRlo2STNDcTZIeWxqSWxvOW4ydy1aSjZVMkZ5VkdOdm1IVHRXZXlKSlRVdkV6SmczdHpZeUd2NlpwZEFjcXFVV2dVZ0k4em96ZXhfaW5RRi0tYnVkb2tn0gH2AUFVX3lxTFBDT012ZHh6Y2RmWFhkbGR3VUlGdHNkSzM2YWxxOEl0U1NVR2psbWtLZFRtazhnMlR4M19jR3Nzd1I0TGtBcktzZ0JXa0lJVUNDMHRoWjM0SEE5cEJXNnlFUW15YVVoaGtPSXp6NnVGZGJmQ291U3pZWHY2YXVnd2pORm8zRFRDX3RjMURvZHhWZTRWNmpzYm1mam5mSl9zenRQM0R0MWhoYXZ5MU1waTRyRGhtNDhwY0lJQjlhWFpRY2prdHY5RllmQ1l0RGx4NkVRSHlSeVp5UHg1eFptWDdGbnQxYm04N0xYWnFrbXVQS0VheXl2UQ?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 10:24:17 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Marist University and IBM Launch Innovation Incubator with IBM z17, Expanding 50-Year Partnership to Advance AI Research and Student Career Readiness - IBM Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcFVGLWd5VVkzdThjY2FobmlxUm1zclhXVWZpM3NIcHpFS2tfdHJjYm5raGdHNEVzYk1oNkEyWlhFTGlieENENUo0UmRyNHRFdzRCS3d3enY2TG1FY3N5UmJrOU4wQlJoZWRid3N5SHJBWVRjZHhjX2gycWhVeFRndWNjZXFRMXBfQjZzeS1yUkw4eFdHX0V2eFVXV0JBY0x0TUQzNTg3b1ljV2Exelp4Y2xqWHZUM2xFOXlESnN1cFJudS1ucmJQWDdnS0R4bDFrR2N3YlJ1Wjd1SXZudGV5bTFOTXUzcmNEbU4zNVd6YWVGUGxIMkZtblczaXFGRmZ6MTlrU2tIbF9iNU00ZE1hSlZLYw?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 12:02:47 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "As AI transforms science and research, IU cybersecurity experts protect against hidden risks - News at IU",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGlpVWlBWk1mSzN3ZEtHVVBqTklKVzNNbmFwRk0wb1R0SHgtV0NSRHp6cTgxVUlabWcxbFgwNG1LT2VkaWFoZC13SFc5eGFWeVlSRU16U0hjSXNILTdZNWZ0ekRhRWZrS1UyS0RhX2tTM1JLamRTUXpGcGFDdzh6Q21B?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Oracle deepens life sciences push with AI agents, real-world data analytics - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG5sUWhVM0VpNjN6QXpBc0ZFRi1yNXcycW81ckh2QjVmM2k1YWd6LUZ1VVlzYnhtNjFPeFRjYVpMNGdaTFhCbjBjV1h4UE9KTHJvME5JWURVbk5ybjk3ZHBJRmFsV3hTVE1aTVhMRzFlSHdHWFZzNGhUWDVsWUYyaVNuYUxqTEY1SUFsZlFHQ2pKUlVLY0RTUXNrMmY4OHE4YlQ5M3NXRTh4N3JWaDY5ZWxYM3dzN0dmeldtbmZrTnN1SDF6alBtbDVR?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 12:30:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI is making spear phishing scams more successful, BYU research finds - ksl.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 23:34:20 GMT",
+      "title": "Wayne State student’s passion for AI leads to NASA internship - Today@Wayne",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXQyOWVyWnN0NmQyNW1UU2NwZzVYbHVURG9iQ0JkSjRqMUhnSXR2U3ZzejFVWVZiZVkxZDdRaEw5T1pDRmZoOW9kSkJxalpzSTlabGZIZzVXbV8xb01uNjFWd1dOQkc1R1kwLWx4OEI1cDFTNGlYZlZmbF9seHpqOVEybHR0ZVkzWkxQajV5Z2pUYWpUbkZYTVJSNVpWemhRaHZzeFRnWWtVZw?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 20:50:16 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -115,15 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Syracuse University Unites AI Research Across Four Schools - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDejQxOE1NMTdnelZQYkVzd2VaS0g0SVNCcXBrLVh2Sm00Ym96VE5obkx3LWNWMDczZmR1b3R2MWZEZTdnTm9YT1ZfeWhPdkdQajRZZFc0aUNycUNrR0llODZKcU1pYlREckZVZVl2MTBYQ2txdWY4STIzU20?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 08:58:03 GMT",
+      "title": "Opinion: AI Presents Science with a ‘Ship of Theseus’ Problem - Undark Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03MzhSOHpnWHkwMk5tMmZsdzFZbm10dkFxa0xTeXdVN3VISklNdEJ4QVRFSlRQdmpmYUk0ZHY5TWJ1RkxNYU1FLURHUHY0SEdZMTN0cG1KV3JSLVdCT2NnZDAwNW11U3B1?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 07:01:50 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
+      "title": "Machine learning helps identify chemicals that repel honey bees from pesticides - University of California, Riverside",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm9NbjczUDJ0T3ZrdHBoc2lVN1ZQT0FuRGx3dFRUZEhwVGliQnlEOGF5aWR2YlJnZW1rTWVabEt0RjdTOHg3YWVMV0h0Ry1oYUhDWHphaUgtVC1sclJlVE1zcGtISk8tNTc1dDJyU0lXdnZ6STFqMS1VMUdrX2JaSko1VW1EelJORzNJWXZkMXI2eUR5QXZJXzNPZnFTdHJwaWk3VWNzdXpTUjgxUGJV?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 16:33:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Yale researchers develop AI model to detect heart condition - Yale Daily News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVsZF82aWRXRkpKYlNlZmRkTjlRUjFvR2hGMjFBUnlpOWpDQ3NBU2NtdTRmNTNvTUtoM1ktNkpUbUd2UDE2NG1WbVZsVHNLMUJaUDNiaEFlWmlIeEpyRXZ0QXhLQVhiVjlLaDR4RnkxdkFUVm10cl9DeERGbjRWSjF6aDE5NTZ2VkZvTkhmLTh3V0JVZ2tkT0xITGszMGl6RnhnTURPZmxRSG1lUGt5M0ZRbC00UQ?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 06:51:22 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "HHS Wants a Paper Trail for AI in Federally Funded Research - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFBYaUxtTFZnRzVleXd0MGJkVUR4ZWgtYk96ZjZ5bm9MNDlxcC1HbWhtMW9hNmdVdnFiS0tpcDJmTzhGRFpXaUwxZzdmMWtfbmhTM0NKOS1lVTg4Q0VZR2tUdUNGOHVqdHZZRms0MlpMNkdIVGVqTU12ck9vREpMU1BDVFFEd0lacXhEd2lFOFQtVkR2V3dWMFhSOUFKU2JFc0JkVHlkclRwSmVfalVPeDhGOUdfanZLTWFMZg?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 16:05:55 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "UNU and University of Bologna Partner to Advance AI Education, Research and Policy - UNU | United Nations University",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelZYX2F2UHFBTTFtWWxoY09velViY1hpWm80S0pqNi10QTlZX1JoOXpzZl9sZF9DcGJXcjlVSVdVVVc4eE9YQkgxcjFRWVpKTElGaXZSMmxUYUR2R3dIbERhdUtrdjBwekY2NTU5OC1Tb0lkTEtNWGxSQldpQnFNR2FRdkdoZGlVcUVOcjFSenNsQjJjcFRoWHJBTWI?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 10:47:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Marist University and IBM Launch Innovation Incubator with IBM z17, Expanding 50-Year Partnership to Advance AI Research and Student Career Readiness - newsroom.ibm.com",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcFVGLWd5VVkzdThjY2FobmlxUm1zclhXVWZpM3NIcHpFS2tfdHJjYm5raGdHNEVzYk1oNkEyWlhFTGlieENENUo0UmRyNHRFdzRCS3d3enY2TG1FY3N5UmJrOU4wQlJoZWRid3N5SHJBWVRjZHhjX2gycWhVeFRndWNjZXFRMXBfQjZzeS1yUkw4eFdHX0V2eFVXV0JBY0x0TUQzNTg3b1ljV2Exelp4Y2xqWHZUM2xFOXlESnN1cFJudS1ucmJQWDdnS0R4bDFrR2N3YlJ1Wjd1SXZudGV5bTFOTXUzcmNEbU4zNVd6YWVGUGxIMkZtblczaXFGRmZ6MTlrU2tIbF9iNU00ZE1hSlZLYw?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 12:02:47 GMT",
       "source": "google_news_ai_research"
     }
   ]
