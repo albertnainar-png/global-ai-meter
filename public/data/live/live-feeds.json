@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:00:48.277580+00:00",
+  "generatedAt": "2026-09-28T10:55:35.236508+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,15 +7,75 @@
   },
   "items": [
     {
-      "title": "Syracuse University launches artificial intelligence research institute - Syracuse.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdE9GeElkMkQ0VjNPTEpWUlFxcWJsRmp3N3p2aDZGNTBHTFpVQTU4QThjWEdlY0c5T1BzTGw2WDQ5SE1yTExndUdiTVFFWG1PNjZNWTFxX1dDSnVRWmExNEVMclJFNEdzblhrODlpaGt1UTkzWWUzYTBETy04aTJYM2sxSE1oSDUtVGx5TlR5M2Fxd0tZS0xKdUpwNEVDVzFKZ2RsdC02NnZwSlJlMVpjMWVSODRSeUttTHdpcUdfSkYtVWpZOWQ5Ng?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 20:02:00 GMT",
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+      "url": "https://arxiv.org/abs/2609.30446",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+      "url": "https://arxiv.org/abs/2609.30456",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+      "url": "https://arxiv.org/abs/2609.30469",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+      "url": "https://arxiv.org/abs/2609.30484",
+      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "What Mature Security Programs Need Before Deploying AI - emerj.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wZ2dRY3g2Unl1NXI0eHF1X1ZNM3JMMm5Sdi1GZHpGeW01Mmc5SmtXVllaMFVnRU5xWE56cFlYSGVTam16bHgxYUdneExhWjB6MWF1b2RZaW5JQTJzdnpHSjJlNV8zT0RQMWdKR2Fka2VXcGY2cVBMeUw3U1pQdw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 10:03:46 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
+      "title": "Syracuse University launches artificial intelligence research institute - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdE9GeElkMkQ0VjNPTEpWUlFxcWJsRmp3N3p2aDZGNTBHTFpVQTU4QThjWEdlY0c5T1BzTGw2WDQ5SE1yTExndUdiTVFFWG1PNjZNWTFxX1dDSnVRWmExNEVMclJFNEdzblhrODlpaGt1UTkzWWUzYTBETy04aTJYM2sxSE1oSDUtVGx5TlR5M2Fxd0tZS0xKdUpwNEVDVzFKZ2RsdC02NnZwSlJlMVpjMWVSODRSeUttTHdpcUdfSkYtVWpZOWQ5Ng?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 20:02:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -25,21 +85,33 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 18:18:13 GMT",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Assessment of Knowledge, Attitudes, and Perceptions Regarding Artificial Intelligence Among Undergraduate Medical Students - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3ZOZGNlRDRVd3NGWXNqaXdWYlB6ay1yM3o5bi1vOHBGX3NuYVdfSFN3S3NIajd3X1RSNW9nNWtXNzk0eDMteXlNODVWV3JTTjVNbjdnSEhPVzRDT1F6OF9KWlFKXzVMSFFwUUlZRjNzQU96VURTaWJqSGMzUXZORzlMQjBwdVJlQ0JwNkN3SW9qeDJ4Nk9CSDNucjYwZGhmYjdpTURnQzR5eDN2a0NTaFJPQmZ5NUhCR2ZCRk9zVVk5VWNoSjltUVppRFNQTW1IWVFLelNFTzZDWXJKMUtXUjhwYTNHZlItUVBYUF9aU00?oc=5",
-      "publishedAt": "Sun, 27 Sep 2026 08:56:06 GMT",
+      "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWNZbE4tY1FmOHFscFk2Yy1aU3JORnJrbDZRckc2amkzajd6UTF5eFJ6ZWs5UmtTMDVvdTVzWTFPZ2k4UDZVdmlLenNxMUpUZlBQV3RnSU5aQkFpaUFPa0Vual85aHJ1bk9YOWl2XzVFQVN6RWdqamx4MXJiLWhHRw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 09:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "As AI transforms science and research, IU cybersecurity experts protect against hidden risks - News at IU",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGlpVWlBWk1mSzN3ZEtHVVBqTklKVzNNbmFwRk0wb1R0SHgtV0NSRHp6cTgxVUlabWcxbFgwNG1LT2VkaWFoZC13SFc5eGFWeVlSRU16U0hjSXNILTdZNWZ0ekRhRWZrS1UyS0RhX2tTM1JLamRTUXpGcGFDdzh6Q21B?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "title": "AI Identifies Signs of Aging in Blood Stem Cells - Technology Networks",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTd5by1iN3lVaEJuUVBuZjd5TUdNekxJRkhSdENyRHlQY05fZGloWGF0QU1qRmpsSGhvMTRTaW5uZ1RmWnV2aWpmMDd5Tnl5a3lUU21QbDJsNWFXTE5PWEdZbk4xR3FFQ1I4UzY5VFlNLTRJMUZvVjMzOWN4dldBNmVwc1JhSjlZS2x2UHhPU2tUNjExZzdBUU9FOHQ0aVE?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 08:26:58 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Healthcare executives are still investing in tech as AI’s bill comes due, survey finds - HealthExec",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFI5OVZQSU9PRzlKMzRRc3hJOTJqUVdKdGdLMXM2bXBmZnIyY0dmdjRBdkEwVnNOOHZrRFVqRlJFdW1sSGxJdFRvWFVIR1JGaEU5aHNKT19qRC1kdXJub2VwN0tSUFhjaHRZSUZfZTFndVBVOW5ZNDlUdjBVYzV6dDRVMnQzZ2NpN01YUVFXMnpaS3hrTTA5TEgtdnpKS2dhUnIwMC1VRWg1R3M5Wmp0OE5qNngwTHpkWFk1WDhNRHczWGphRG45TW1mSWk?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 00:37:48 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Intel CEO says he uses AI agents every day to cut hours of research to minutes - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfNHQ5aWJteUFnczlfeDFlSkRFc2NSQjZkTlpJQUhjMDgzS0Q3VDBpaG1PbHc0ZldVRHo4YlJvU1ppU3VVN0ZUbGh2eTFrWnZ4cGphN1BMMzZrcWgtb0ZpNFotM2Z5X2c?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 08:01:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -49,21 +121,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "The AI safety debate is confusing. Here's our guide to the different factions - NPR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 09:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
-      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Madison experts say AI can see cancer humans can't, but it has limits - The Cap Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEZTUDNhNnRBNlZQRXVaYXJrU1BDNVVtY21PZWw3dDJ4SlhnN1p6VVUxOG02dGk2VS1ybzhWZy14OVg3ZTFKQUUySmhNSWJsNFdaakV2WFgwVHlxUEdYYjBGNnQ5RHFIeDdjbF9xX215bFJrZkt5WXg3Um1qM25WajhZaHdKX3k2N2YyWFJHUjhWdnRiMDh3TTAtZUh4ZjBuR1VVODlwTDlvcExDWjZlSjUyTzFIWDRjaU9iUFhzVnNtQ2NRTXd2QXFwQWpqRVhQMkN1b1RiU1F5QkpyUFdoVUlGRlk?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 14:45:00 GMT",
+      "title": "What new research reveals about how travelers use AI to plan trips - PhocusWire",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWNUOURWZ3BESURvaE5ZbWpiLWxuZTVKbWZBODFHcEZWaU8yVGFNNjAxQ0c2TFNYNkxZdmU1OHhJM1hZVUhPMnVnSUc5WGZMMThfRHgxbDlWQ3RSX1JFYURVTHhoRExBX2xWNTlQTXJHUTRZQl9sYm40Z0JqSXppMkRmMzczaDUxcHZnRmY4VGtiaFd0Y2pOcA?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 07:07:04 GMT",
       "source": "google_news_ai_research"
     }
   ]
