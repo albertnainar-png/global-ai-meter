@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:55:35.236508+00:00",
+  "generatedAt": "2026-09-29T10:41:57.727935+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,69 +7,87 @@
   },
   "items": [
     {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2609.31763",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+      "url": "https://arxiv.org/abs/2609.31784",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "url": "https://arxiv.org/abs/2609.30328",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
+      "url": "https://arxiv.org/abs/2609.31790",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+      "url": "https://arxiv.org/abs/2609.31792",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "url": "https://arxiv.org/abs/2609.30383",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "Working with AI: A Design Framework for Human-AI Collaboration",
+      "url": "https://arxiv.org/abs/2609.31793",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "url": "https://arxiv.org/abs/2609.30397",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+      "url": "https://arxiv.org/abs/2609.31814",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-      "url": "https://arxiv.org/abs/2609.30446",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
+      "url": "https://arxiv.org/abs/2609.31857",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-      "url": "https://arxiv.org/abs/2609.30456",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
+      "url": "https://arxiv.org/abs/2609.31868",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-      "url": "https://arxiv.org/abs/2609.30469",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "IndustryLLM: Failure-Driven LLM Training for Industrial Procurement",
+      "url": "https://arxiv.org/abs/2609.31871",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-      "url": "https://arxiv.org/abs/2609.30484",
-      "publishedAt": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2609.31874",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "What Mature Security Programs Need Before Deploying AI - emerj.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wZ2dRY3g2Unl1NXI0eHF1X1ZNM3JMMm5Sdi1GZHpGeW01Mmc5SmtXVllaMFVnRU5xWE56cFlYSGVTam16bHgxYUdneExhWjB6MWF1b2RZaW5JQTJzdnpHSjJlNV8zT0RQMWdKR2Fka2VXcGY2cVBMeUw3U1pQdw?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 10:03:46 GMT",
+      "title": "Chen’s NSF CAREER Award Supports UVA Engineering Artificial Intelligence Research to Better Forecast Infectious Disease Epidemics - University of Virginia Engineering",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOWZHYzhUbUZYT2JzTG4zdTg0bDM4NG1lQVFubks0TUtZMXM5bEdPYmhXdC10b2QxLW44UjlIMHYyZm1QenQ5bDltUGp1ajlKQzBESmZMT3ZxYkIyTXc2Q0lBYzRKM2dZNE9DUjQyRlBvUDNtbjM3V1NYa3BIY3YxSjBpdFQyM0RQQ01US0ZVeEhnNUNfYW0zVko2UHlXcTRZcDNPcU4yb2I1VnJoWFpLaXFBWW9Hc1JZaWFTZ29wdUFPb29zR3pwTm8tMW9JcE5NOWMtZjExcUZSU1RyNTZtNmNIZ2dXZXlZc1VvNm9GSzR0VXVzZDFWRF81YndrdUEydURuQUFB?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 18:27:17 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "and is not – using AI in our work - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0t1U0o4NWl3YUJQVkpqNnlBcF9RRldQbU1JRURFRG50NTNfTkFxT2otU2N3eWJCLWR1UUZLa2tlRXRVMXNKanlIdTJPZkgzSndHYk00S1VacC1nRlJmWXhmV3prZU5td2Vhck9pcEpVVllNOHllelJBaktmdVh5QmtaY0xpeVozX1VpM0tId1hRb3FTSElqd21QVHhWWmE1MF9VeDlEaG5vN2lf?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 15:34:06 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "UC researchers examine ethics of evolving AI - University of Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSkVaTWlMTU85ekpNb3JheVBiU3RkOXdFSDU4eFpzS0hYX3lFbHZvUnFOdzc5dUw5Q3VLamtUQUg4Z0NJODk2bDA0azd3d2pGSko5UWVhOGlHa2xfZjFtOTFFNjV6UQ?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 02:48:45 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkQ3YkVCV3hDYmdVZmNka2ZZWHhPcmZtNVNIbmQ0THpHT1YtZFotRFd5Mmh5LXl0Z1A5WlhmTmotbkNLS2dUX1FKNWpSMFJkZzdFaU84djFtUGdjOUg0SVJNemVVMF9MWWxwLXI1R3R0d0xYYkhJN1hFbHowYU9OX1loSDhRbjI1b1J0V1hsQkFfcGZKVURRVXVrTzVUaDk5blVUUGo5WnBscmZFNlhCaVZtSXdWbHBCU25oZ0tzQjlHZVNra1UwOGlyejZMajZfdVl3?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 00:47:08 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,45 +103,27 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "Study finds trust is the missing ingredient for AI-driven food safety - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHA1ci1SLThWTWV3NERva016ekR1ckFKZ0V4UWF1MVlQOHBER1NuWWFEM2lvSnNsSGl3ZFJPRXlJUXF1blZEVkxaTzFfMFR5SW10bnlKcVRMSVRIQ3R0MVBGWmpCUlhNQVFWSEVWZDVucnkzVnY0SU1kNjNOR0sxNFlodnQ5aEFOSUNoN0tZckUzaHFiUjQ4dC1QUmpKTVY5?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 21:44:18 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "MIT engineers use artificial intelligence to create heat-resistant RNA vaccines - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZzJpMWhYRmszdWVESmRDbjRrQUpVeVI2ZlVuVlNtSDhuYW93R0J0Vm95YldyR1dXZ0l1TEEzaWhxOEFkMXRyWVZGZlV4c2dnbzh1WnB5UW01WlVrYzZLeVlQUTNpUTg3RzdfVWJHMDNpbWZJcGx3UGFDVVFsV1ZMTmZSOHNqS2lzc3dNc2t3MURFTVRidGNkS1IwbUluUW43UEdxckZ0bDc0RGlzMjI3M3lUSHFnc3RuUlh6S0JGaXFLUWxrb2c?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 16:39:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Singapore lab builds connections, drives frontier research in year one - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcGZUd1ZNUW5uZEVtNDMycVRQcFduYVBYVU01VmFoQll2THNsNG50VzdDQ1VXai14d0dUeDgzVlZFWWF4N0lJSk1IVzRNOXJmSF9oemtXS3RpYlpoVUJUdXRndjZRd3I4alBQd21YVUc5QVotQkhkR29ERzlwazFmTkdfdmhZM3BKR056WW9HOVotc3ZwbWNYNmRJc0VVR1ZkT3JFaE5PS3ZpS0RYWVd3TTlTLUVxdnJxQ0ZZa1d2NjFpUGZqSTRqNjFJcW0wYS1PS3UyVERtX0dCd0JOLVl2dWZ6d3Vjb3BWckNkUHNKOWZnY3RseVE?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 21:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
       "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWNZbE4tY1FmOHFscFk2Yy1aU3JORnJrbDZRckc2amkzajd6UTF5eFJ6ZWs5UmtTMDVvdTVzWTFPZ2k4UDZVdmlLenNxMUpUZlBQV3RnSU5aQkFpaUFPa0Vual85aHJ1bk9YOWl2XzVFQVN6RWdqamx4MXJiLWhHRw?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 09:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI Identifies Signs of Aging in Blood Stem Cells - Technology Networks",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTd5by1iN3lVaEJuUVBuZjd5TUdNekxJRkhSdENyRHlQY05fZGloWGF0QU1qRmpsSGhvMTRTaW5uZ1RmWnV2aWpmMDd5Tnl5a3lUU21QbDJsNWFXTE5PWEdZbk4xR3FFQ1I4UzY5VFlNLTRJMUZvVjMzOWN4dldBNmVwc1JhSjlZS2x2UHhPU2tUNjExZzdBUU9FOHQ0aVE?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 08:26:58 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Healthcare executives are still investing in tech as AI’s bill comes due, survey finds - HealthExec",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFI5OVZQSU9PRzlKMzRRc3hJOTJqUVdKdGdLMXM2bXBmZnIyY0dmdjRBdkEwVnNOOHZrRFVqRlJFdW1sSGxJdFRvWFVIR1JGaEU5aHNKT19qRC1kdXJub2VwN0tSUFhjaHRZSUZfZTFndVBVOW5ZNDlUdjBVYzV6dDRVMnQzZ2NpN01YUVFXMnpaS3hrTTA5TEgtdnpKS2dhUnIwMC1VRWg1R3M5Wmp0OE5qNngwTHpkWFk1WDhNRHczWGphRG45TW1mSWk?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 00:37:48 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Intel CEO says he uses AI agents every day to cut hours of research to minutes - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfNHQ5aWJteUFnczlfeDFlSkRFc2NSQjZkTlpJQUhjMDgzS0Q3VDBpaG1PbHc0ZldVRHo4YlJvU1ppU3VVN0ZUbGh2eTFrWnZ4cGphN1BMMzZrcWgtb0ZpNFotM2Z5X2c?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 08:01:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWk0bGVJdm9YYWxjbzlnV3dqQjdTSlc4VUFlVldob20zSzMyVi1MUUNzUll6Q2t6MjN2M2Z4Wk9nVkpvUkVaYzlkaUFqdkxyRjA0WEtydzk3ckF2aTFOLXZEekJtVFlLS3BWcnpFZDF0amowajNFNXA5THhnczZqN3hVVzdITG95cXZBVFJZVGJMcUN2Vk1zbV9PNEV6djhLWlpGeUZHY1ZjdjZIYVN2WEZZWGV5N211ZDZMZzdtN1QxUFBSdWtj?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 15:14:38 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "What new research reveals about how travelers use AI to plan trips - PhocusWire",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWNUOURWZ3BESURvaE5ZbWpiLWxuZTVKbWZBODFHcEZWaU8yVGFNNjAxQ0c2TFNYNkxZdmU1OHhJM1hZVUhPMnVnSUc5WGZMMThfRHgxbDlWQ3RSX1JFYURVTHhoRExBX2xWNTlQTXJHUTRZQl9sYm40Z0JqSXppMkRmMzczaDUxcHZnRmY4VGtiaFd0Y2pOcA?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 07:07:04 GMT",
       "source": "google_news_ai_research"
     }
   ]
