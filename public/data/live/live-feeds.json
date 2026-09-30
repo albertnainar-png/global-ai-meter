@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:41:57.727935+00:00",
+  "generatedAt": "2026-09-30T10:30:10.447535+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,64 +7,76 @@
   },
   "items": [
     {
-      "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
-      "url": "https://arxiv.org/abs/2609.31763",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
-      "url": "https://arxiv.org/abs/2609.31784",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
-      "url": "https://arxiv.org/abs/2609.31790",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2609.35868",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
-      "url": "https://arxiv.org/abs/2609.31792",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "url": "https://arxiv.org/abs/2609.35869",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Working with AI: A Design Framework for Human-AI Collaboration",
-      "url": "https://arxiv.org/abs/2609.31793",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "url": "https://arxiv.org/abs/2609.35873",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
-      "url": "https://arxiv.org/abs/2609.31814",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+      "url": "https://arxiv.org/abs/2609.35874",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
-      "url": "https://arxiv.org/abs/2609.31857",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+      "url": "https://arxiv.org/abs/2609.35875",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
-      "url": "https://arxiv.org/abs/2609.31868",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+      "url": "https://arxiv.org/abs/2609.35890",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "IndustryLLM: Failure-Driven LLM Training for Industrial Procurement",
-      "url": "https://arxiv.org/abs/2609.31871",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+      "url": "https://arxiv.org/abs/2609.35897",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
-      "url": "https://arxiv.org/abs/2609.31874",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+      "url": "https://arxiv.org/abs/2609.35924",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
       "source": "arxiv_ai"
+    },
+    {
+      "title": "Ohio State, Google partner to expand artificial intelligence research and education - wowo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNFN0xzQm84NTZMakJLOEUzczBKRVpyVGdGVjFUTG40SncyMzc5TGU0ZS1HWkE5TG9CZnpUTUgyakFvb3AxSld1QzN0VG1DTmpSeFYxVGFqMnNROEJLOTUzSGtrX0szazlaQkdxbnZUY2RPcnVWV3NEUWVFWDktMUdBbnZWYkY5OUowcVkwdGphcVRjaXh5RjJMaVRBeUZ4ZlE?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 21:15:41 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "UGA expands AI resources for campus community - UGA Today",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZHdGNzAwdV9vbGJEelBhXzVLWDRiQVpGQV83NjlHcTJqWVR5aW1Oa3hLTzRoQUwyZ0tjTVFmeVJjZnZUTl9Sd1Z4cDVDNnZUT1JBaFpta1NzYWRPZDRPc0FlYjdpZjZVdUt3UUhSbHBSM3pzbmc?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 19:41:08 GMT",
+      "source": "google_news_ai_research"
     },
     {
       "title": "Chen’s NSF CAREER Award Supports UVA Engineering Artificial Intelligence Research to Better Forecast Infectious Disease Epidemics - University of Virginia Engineering",
@@ -79,51 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "UC researchers examine ethics of evolving AI - University of Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSkVaTWlMTU85ekpNb3JheVBiU3RkOXdFSDU4eFpzS0hYX3lFbHZvUnFOdzc5dUw5Q3VLamtUQUg4Z0NJODk2bDA0azd3d2pGSko5UWVhOGlHa2xfZjFtOTFFNjV6UQ?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 02:48:45 GMT",
+      "title": "Three new research initiatives for artificial intelligence and quantum - University of Colorado Boulder",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFJET1RMaUFBd2t2NTJ1X3A5NFA3ME9fbzFmUS1tUjNzV3ZRZURqWFoyTmNrOE84NEd3U0ZFcEQwdUh3TUxYM2MzZlp4T3MwSnBMbWpZNVJWQjFWU0QzanBDdzk1bTFfSk5aRXA4aUZOOEs3eUFJSERhcWN4Z1ozUWRQZHpiZXRYclRrVFZlajlrY1VnUXlpRlZ3?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 18:56:15 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkQ3YkVCV3hDYmdVZmNka2ZZWHhPcmZtNVNIbmQ0THpHT1YtZFotRFd5Mmh5LXl0Z1A5WlhmTmotbkNLS2dUX1FKNWpSMFJkZzdFaU84djFtUGdjOUg0SVJNemVVMF9MWWxwLXI1R3R0d0xYYkhJN1hFbHowYU9OX1loSDhRbjI1b1J0V1hsQkFfcGZKVURRVXVrTzVUaDk5blVUUGo5WnBscmZFNlhCaVZtSXdWbHBCU25oZ0tzQjlHZVNra1UwOGlyejZMajZfdVl3?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 00:47:08 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Syracuse University launches artificial intelligence research institute - Syracuse.com",
+      "title": "Syracuse University launches artificial intelligence research institute - syracuse.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdE9GeElkMkQ0VjNPTEpWUlFxcWJsRmp3N3p2aDZGNTBHTFpVQTU4QThjWEdlY0c5T1BzTGw2WDQ5SE1yTExndUdiTVFFWG1PNjZNWTFxX1dDSnVRWmExNEVMclJFNEdzblhrODlpaGt1UTkzWWUzYTBETy04aTJYM2sxSE1oSDUtVGx5TlR5M2Fxd0tZS0xKdUpwNEVDVzFKZ2RsdC02NnZwSlJlMVpjMWVSODRSeUttTHdpcUdfSkYtVWpZOWQ5Ng?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 20:02:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Syracuse University Launches Institute for Artificial Intelligence - Syracuse University Today",
+      "title": "Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDF0cGlNR1RWUXBTZE9aak44dW8yYmptYzh0Z2FpYmN0TkkxM0F3eFhwRlZ5dTNkUEVxM3NyLS1hWWlrUkZXdU92d0dNR2ptajhqbFI1VlI5THI3UHpfZGFjNmt5cFlsdm05bVZsWG9rV1lHOEdZS2x4ZWQ5bHBITFFSN1B3Ni1iUl9fVVo1QzB2Tk1KczZtTVZuOVQ?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 20:43:06 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Syracuse University Launches Institute for Artificial Intelligence - news.syr.edu",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE1XYmgyRkg3cWI2bmM1d2hVQmViV3lmT3NxQ05kQXFhbnBBYXFKVzZrU0E0dHpSRDRHbWY2eEJTYmJnR2pHX2hBWUJIMno1MWN3eWFHVHRXZFdUdmxJR0g3RzktemxNZWtHQkplOHhTbmJxNW1kR1lXS0ItblBZcWxOTGFLYlV5aXRQdVRva25MWjBHSGtPU1RpNmpGbjNz?oc=5",
       "publishedAt": "Wed, 23 Sep 2026 19:18:09 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Study finds trust is the missing ingredient for AI-driven food safety - Cornell Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHA1ci1SLThWTWV3NERva016ekR1ckFKZ0V4UWF1MVlQOHBER1NuWWFEM2lvSnNsSGl3ZFJPRXlJUXF1blZEVkxaTzFfMFR5SW10bnlKcVRMSVRIQ3R0MVBGWmpCUlhNQVFWSEVWZDVucnkzVnY0SU1kNjNOR0sxNFlodnQ5aEFOSUNoN0tZckUzaHFiUjQ4dC1QUmpKTVY5?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 21:44:18 GMT",
+      "title": "Ph.D. student advances research regarding AI integration with devices with limited computing power - kennesaw.edu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVJNOHAwQjlNY0o5RXJwQUI2QklEb1A1SnRQRlc5LTczNF9PNlg4RXdidi1XSWRpNEx0S1AxQ1lPSlROZjFxejZMSGx1OURINUZ2ellETEplb0ZzRUk2WjBIMHM2UjUxWmo2NU1vUTJzVnpJWmJ4Wm1pbW02NEFfVGQ2cS05UHlnNFlzbnVvM1UteEJHeVhvby1fblBUNjV2MjB3?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 13:09:48 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "MIT engineers use artificial intelligence to create heat-resistant RNA vaccines - News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZzJpMWhYRmszdWVESmRDbjRrQUpVeVI2ZlVuVlNtSDhuYW93R0J0Vm95YldyR1dXZ0l1TEEzaWhxOEFkMXRyWVZGZlV4c2dnbzh1WnB5UW01WlVrYzZLeVlQUTNpUTg3RzdfVWJHMDNpbWZJcGx3UGFDVVFsV1ZMTmZSOHNqS2lzc3dNc2t3MURFTVRidGNkS1IwbUluUW43UEdxckZ0bDc0RGlzMjI3M3lUSHFnc3RuUlh6S0JGaXFLUWxrb2c?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 16:39:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Singapore lab builds connections, drives frontier research in year one - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcGZUd1ZNUW5uZEVtNDMycVRQcFduYVBYVU01VmFoQll2THNsNG50VzdDQ1VXai14d0dUeDgzVlZFWWF4N0lJSk1IVzRNOXJmSF9oemtXS3RpYlpoVUJUdXRndjZRd3I4alBQd21YVUc5QVotQkhkR29ERzlwazFmTkdfdmhZM3BKR056WW9HOVotc3ZwbWNYNmRJc0VVR1ZkT3JFaE5PS3ZpS0RYWVd3TTlTLUVxdnJxQ0ZZa1d2NjFpUGZqSTRqNjFJcW0wYS1PS3UyVERtX0dCd0JOLVl2dWZ6d3Vjb3BWckNkUHNKOWZnY3RseVE?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 21:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 11:07:57 GMT",
+      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGdlc2xfYWhOcmxDclpEbnpsZXFfZTRtWXpwUU9CVGtKckVkeUd1TnpjdWFnOHEwU29iTDdCeFVGMlhxVDJ2ZGtTNVZIRTNlbFlBdldwc2dLeHN1TEN1eEhudlAtdG1zYzI0bWRBRWRKNmhRbFh1WmJkSlFNbHZ5cU82Z0NvM2dYdnJTeFkycnpWUEtSZ0NqUlFSS3N6QlI4WHRqMzZVZ2h4d0hpYTdtNzFHazlNU25C?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
