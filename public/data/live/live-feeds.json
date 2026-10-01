@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:30:10.447535+00:00",
+  "generatedAt": "2026-10-01T10:57:58.745667+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,87 +7,111 @@
   },
   "items": [
     {
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "url": "https://arxiv.org/abs/2609.35868",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "url": "https://arxiv.org/abs/2609.35869",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "url": "https://arxiv.org/abs/2609.35873",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
-      "url": "https://arxiv.org/abs/2609.35874",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "url": "https://arxiv.org/abs/2609.38346",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
-      "url": "https://arxiv.org/abs/2609.35875",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+      "url": "https://arxiv.org/abs/2609.38359",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
-      "url": "https://arxiv.org/abs/2609.35890",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+      "url": "https://arxiv.org/abs/2609.38369",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
-      "url": "https://arxiv.org/abs/2609.35897",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+      "url": "https://arxiv.org/abs/2609.38372",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
-      "url": "https://arxiv.org/abs/2609.35924",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "title": "Aligned Data Can Induce Misalignment via Context Confusion",
+      "url": "https://arxiv.org/abs/2609.38379",
+      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Ohio State, Google partner to expand artificial intelligence research and education - wowo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNFN0xzQm84NTZMakJLOEUzczBKRVpyVGdGVjFUTG40SncyMzc5TGU0ZS1HWkE5TG9CZnpUTUgyakFvb3AxSld1QzN0VG1DTmpSeFYxVGFqMnNROEJLOTUzSGtrX0szazlaQkdxbnZUY2RPcnVWV3NEUWVFWDktMUdBbnZWYkY5OUowcVkwdGphcVRjaXh5RjJMaVRBeUZ4ZlE?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 21:15:41 GMT",
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act - Congressman August Pfluger (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UGA expands AI resources for campus community - UGA Today",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZHdGNzAwdV9vbGJEelBhXzVLWDRiQVpGQV83NjlHcTJqWVR5aW1Oa3hLTzRoQUwyZ0tjTVFmeVJjZnZUTl9Sd1Z4cDVDNnZUT1JBaFpta1NzYWRPZDRPc0FlYjdpZjZVdUt3UUhSbHBSM3pzbmc?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 19:41:08 GMT",
+      "title": "AI agents tried to hack a Canadian government website, research firm says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 02:04:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Chen’s NSF CAREER Award Supports UVA Engineering Artificial Intelligence Research to Better Forecast Infectious Disease Epidemics - University of Virginia Engineering",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOWZHYzhUbUZYT2JzTG4zdTg0bDM4NG1lQVFubks0TUtZMXM5bEdPYmhXdC10b2QxLW44UjlIMHYyZm1QenQ5bDltUGp1ajlKQzBESmZMT3ZxYkIyTXc2Q0lBYzRKM2dZNE9DUjQyRlBvUDNtbjM3V1NYa3BIY3YxSjBpdFQyM0RQQ01US0ZVeEhnNUNfYW0zVko2UHlXcTRZcDNPcU4yb2I1VnJoWFpLaXFBWW9Hc1JZaWFTZ29wdUFPb29zR3pwTm8tMW9JcE5NOWMtZjExcUZSU1RyNTZtNmNIZ2dXZXlZc1VvNm9GSzR0VXVzZDFWRF81YndrdUEydURuQUFB?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 18:27:17 GMT",
+      "title": "Press Release: August Pfluger Introduces Reliable Artificial Intelligence Research Act - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnlWajdqUi1DVlAta1Q1eG1IQTl0Nk1JVjVDMEN3R1Q4NngweEV5czNoZFQyTDJodU9LZTFMSE5PMVA2WjZBdUhqOUhLRDVrVTU5Y3pLN3dsQUROTTEtd2VmbUtfaWR6VVg5LVNpZWFwLXJ2cFU2M0VvdFFia3hzWmlfalJ0S3pFNmNVZWVIMDdOdnV2NG52N0NzQWRKWE5ZMEhHUlJwLXRHSWZ6M0tiOUJyblZ3OVlBc1l3THhn?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 20:23:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "and is not – using AI in our work - Pew Research Center",
+      "title": "Clark Atlanta University receives nearly $10 million to expand artificial intelligence research - 95.5 WSB",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY0tpTmt0czN3VnJfZGdhOTd1RXpfZHBrMzc3WUVINUlIWGNCMHZ2S05PdURTb3RuSlRxWHhSV2ZoXzMwampaUzJJcmJYd3FzY3I4SEhpSkxxTkxwMkxFc1hwSnJTd3BRdUVWNU90WHVMbVMzZTdUZWFScW4yWGwtU1B2V3J2WjFjeHVsaXNpLXVvcGFfY0xjRHdPSTFnOHFzZTY4c2dGb3FOQmdtd1ZOcmt4NnZhMHNQbktUNUFDSnBJUmxfbUF5V05fSDduWm1JQjZLMFZnUGk2LVE0ajB0M0FfSEhWQkV3RXFN0gH_AUFVX3lxTE9FWXEyV0NnRGRObTBDcGdlZEs3d3lVZ0NiQnVMc0pUTHZqRGZVWlpZVkhEYlNqNFR3MmoyU05fSks3cHhjWHhqR05PZ3JWSGZEQW4yNUVmbExzSlRwc3lnaUVvNWh1YmZmc1ZYWFhxNjdKd3ctSXVoNUJmM0dvM3RvdGcybTJzTmJMZkticERTcXJVLWVjMzRaQ0xjV01WdTZNUERGNklVVlpOLXMzVGNMTjB2bWNEbGppNXJaeUVDM256RWZJSTMtVV9TQlk0NlZQYVdTdnZrTUl2T1d3RUp6Rlp1aU5JMnoxVTZoRHA3Rk15ZDhWcVNmaDJlX2Qzcw?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 14:33:31 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Pfluger introduces bill to fund AI security research, protect against manipulation - myfoxzone.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXR3OEtqT2RPRHJlZG95cDlUX2RQYWs2ZkprX29hQ1FEWEFsYkdDUXBjYUY2ZUNlbVB2b2NQVFhNWjZUdURZWlBpRWlhdDB5NXhpVzBvUEhZX1AtMm01eERJbUFja2tXamlEa18yUEpoekNzMzFydld0cjY4UHVGVG9lTXpRczJvSHVsQXVlRGlMcEtnZ2pLSmtLSENLdzZWTjkwdW9DYW9Da2REODRCZmhXWXA5dzlBZ19FNnpMZHRiVURmdHRFOUFPc0VjdEJ2cWZXaGFlZ3FvajE3ek5sY2puQlhhQ1hZYnFVNTA4bw?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 00:22:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Stanford Medicine researchers awarded ARPA-H funding for AI projects - Stanford Medicine",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zM25ycVFaODczLVBnbzdEU3QtWV9YS1VubmpoLVN0Z1hsNkR5RFVzQ3hDTHN5ZmU2Y09EUXM2QWJYVE1WZDdDdGtHOUV6TEVZeVFZVlNsWXBubEIxVUtwbFdpb19FMVNWUTJ6ZmhGN21nU2c?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 21:41:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "and is not – using AI in our work - pewresearch.org",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0t1U0o4NWl3YUJQVkpqNnlBcF9RRldQbU1JRURFRG50NTNfTkFxT2otU2N3eWJCLWR1UUZLa2tlRXRVMXNKanlIdTJPZkgzSndHYk00S1VacC1nRlJmWXhmV3prZU5td2Vhck9pcEpVVllNOHllelJBaktmdVh5QmtaY0xpeVozX1VpM0tId1hRb3FTSElqd21QVHhWWmE1MF9VeDlEaG5vN2lf?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 15:34:06 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Chen’s NSF CAREER Award supports UVA Engineering artificial intelligence research to better forecast infectious disease epidemics - EurekAlert! Science News Releases",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WYThUQ2UxT0ZzSUZkN0VQUXNJYmlkZ0pzUFV4dFNJT243N0Y4RTJwWnhqZWpOV1paRjNfMWpxcEV6eDhTTUd4REVXYzRWS2RYWFZWLV8tRkJkZ2d3?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -97,33 +121,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Syracuse University launches artificial intelligence research institute - syracuse.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdE9GeElkMkQ0VjNPTEpWUlFxcWJsRmp3N3p2aDZGNTBHTFpVQTU4QThjWEdlY0c5T1BzTGw2WDQ5SE1yTExndUdiTVFFWG1PNjZNWTFxX1dDSnVRWmExNEVMclJFNEdzblhrODlpaGt1UTkzWWUzYTBETy04aTJYM2sxSE1oSDUtVGx5TlR5M2Fxd0tZS0xKdUpwNEVDVzFKZ2RsdC02NnZwSlJlMVpjMWVSODRSeUttTHdpcUdfSkYtVWpZOWQ5Ng?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 20:02:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDF0cGlNR1RWUXBTZE9aak44dW8yYmptYzh0Z2FpYmN0TkkxM0F3eFhwRlZ5dTNkUEVxM3NyLS1hWWlrUkZXdU92d0dNR2ptajhqbFI1VlI5THI3UHpfZGFjNmt5cFlsdm05bVZsWG9rV1lHOEdZS2x4ZWQ5bHBITFFSN1B3Ni1iUl9fVVo1QzB2Tk1KczZtTVZuOVQ?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 20:43:06 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Syracuse University Launches Institute for Artificial Intelligence - news.syr.edu",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE1XYmgyRkg3cWI2bmM1d2hVQmViV3lmT3NxQ05kQXFhbnBBYXFKVzZrU0E0dHpSRDRHbWY2eEJTYmJnR2pHX2hBWUJIMno1MWN3eWFHVHRXZFdUdmxJR0g3RzktemxNZWtHQkplOHhTbmJxNW1kR1lXS0ItblBZcWxOTGFLYlV5aXRQdVRva25MWjBHSGtPU1RpNmpGbjNz?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 19:18:09 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Ph.D. student advances research regarding AI integration with devices with limited computing power - kennesaw.edu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVJNOHAwQjlNY0o5RXJwQUI2QklEb1A1SnRQRlc5LTczNF9PNlg4RXdidi1XSWRpNEx0S1AxQ1lPSlROZjFxejZMSGx1OURINUZ2ellETEplb0ZzRUk2WjBIMHM2UjUxWmo2NU1vUTJzVnpJWmJ4Wm1pbW02NEFfVGQ2cS05UHlnNFlzbnVvM1UteEJHeVhvby1fblBUNjV2MjB3?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 13:09:48 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey & Company",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGdlc2xfYWhOcmxDclpEbnpsZXFfZTRtWXpwUU9CVGtKckVkeUd1TnpjdWFnOHEwU29iTDdCeFVGMlhxVDJ2ZGtTNVZIRTNlbFlBdldwc2dLeHN1TEN1eEhudlAtdG1zYzI0bWRBRWRKNmhRbFh1WmJkSlFNbHZ5cU82Z0NvM2dYdnJTeFkycnpWUEtSZ0NqUlFSS3N6QlI4WHRqMzZVZ2h4d0hpYTdtNzFHazlNU25C?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "title": "UVM awarded record $38M to create ‘AI twin’ of sick patients - VTDigger",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDZJTFZWYWhyUTRicGo3MU9DQVlVbjZLM3BLWjdkV2VqeUtOYmREYlFqaHF2Z1ZwaHV2QXVFa0FZeWthX1NaRUFmY0pIM3dRNlppaFVvUGNLalZIYlV6c1c4d1ZDOGNOUFE5Z20zb3pIVmNablpzNUxEcjdBUjQxZTlUZm5IZEJHM1ZiRHpUdE5UMkc3QkJSUHFvVDhVdw?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 21:21:04 GMT",
       "source": "google_news_ai_research"
     }
   ]
