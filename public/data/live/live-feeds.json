@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:57:58.745667+00:00",
+  "generatedAt": "2026-10-02T10:31:12.875776+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,81 +7,87 @@
   },
   "items": [
     {
-      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.38282",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "url": "https://arxiv.org/abs/2609.38288",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "url": "https://arxiv.org/abs/2609.38294",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "url": "https://arxiv.org/abs/2609.38296",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "url": "https://arxiv.org/abs/2610.00018",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "url": "https://arxiv.org/abs/2609.38340",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "url": "https://arxiv.org/abs/2609.38346",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "url": "https://arxiv.org/abs/2610.00047",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "url": "https://arxiv.org/abs/2609.38359",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.00061",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-      "url": "https://arxiv.org/abs/2609.38369",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "url": "https://arxiv.org/abs/2610.00074",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
-      "url": "https://arxiv.org/abs/2609.38372",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+      "url": "https://arxiv.org/abs/2610.00084",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Aligned Data Can Induce Misalignment via Context Confusion",
-      "url": "https://arxiv.org/abs/2609.38379",
-      "publishedAt": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+      "url": "https://arxiv.org/abs/2610.00197",
+      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act - Congressman August Pfluger (.gov)",
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act - pfluger.house.gov",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI agents tried to hack a Canadian government website, research firm says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 02:04:00 GMT",
+      "title": "New safeguards could help protect young people from unsafe content generated by artificial intelligence - Clemson News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2h6WDd0cm5fdjJWcktmRndHV2VIVHhKWFBtWk8xcVVVaUZoWlE5XzFFbG1VdWdodVFiaWVaVXVpZzFuOHA5WDY2T21XMDNOcmxhdU16dGlmakppUXM5ZEIwck9mMHU2ckh2bmkyM3k0cWpXUFZOdmVEWVVQQTJFR2FNTVBFQ2NLUkxTb24tTFZHc3YxZU91b3dmUnNFckFIS01WeEJTQzlTWW45U0JjOG1Mckp1Y0hlekNLeG5Jc196WUxNeGNWNw?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 11:32:11 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Press Release: August Pfluger Introduces Reliable Artificial Intelligence Research Act - Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnlWajdqUi1DVlAta1Q1eG1IQTl0Nk1JVjVDMEN3R1Q4NngweEV5czNoZFQyTDJodU9LZTFMSE5PMVA2WjZBdUhqOUhLRDVrVTU5Y3pLN3dsQUROTTEtd2VmbUtfaWR6VVg5LVNpZWFwLXJ2cFU2M0VvdFFia3hzWmlfalJ0S3pFNmNVZWVIMDdOdnV2NG52N0NzQWRKWE5ZMEhHUlJwLXRHSWZ6M0tiOUJyblZ3OVlBc1l3THhn?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 20:23:00 GMT",
+      "title": "Chen’s NSF CAREER Award Supports UVA Engineering Artificial Intelligence Research to Better Forecast Infectious Disease Epidemics - University of Virginia Engineering",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOWZHYzhUbUZYT2JzTG4zdTg0bDM4NG1lQVFubks0TUtZMXM5bEdPYmhXdC10b2QxLW44UjlIMHYyZm1QenQ5bDltUGp1ajlKQzBESmZMT3ZxYkIyTXc2Q0lBYzRKM2dZNE9DUjQyRlBvUDNtbjM3V1NYa3BIY3YxSjBpdFQyM0RQQ01US0ZVeEhnNUNfYW0zVko2UHlXcTRZcDNPcU4yb2I1VnJoWFpLaXFBWW9Hc1JZaWFTZ29wdUFPb29zR3pwTm8tMW9JcE5NOWMtZjExcUZSU1RyNTZtNmNIZ2dXZXlZc1VvNm9GSzR0VXVzZDFWRF81YndrdUEydURuQUFB?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 18:27:17 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "On AI-augmented transformatizing in practice: protocols, quality criteria, and reporting standards for Human-AI Augmented Mixed Methods Research - Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14MzhramFyalFJUFFBYXJxMU4zZWtGemU4Z2ZJVTlyX05qamFSVkZhSlEyTnpRcUVMT1lwczlYZmtLU1ozODV3MnFuOXNxckYyRnBpNW4yZGN5bVdUSWJYSEIzNWQ2Z3ZNUTZWTURIcnk?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 06:53:50 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -91,39 +97,33 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Pfluger introduces bill to fund AI security research, protect against manipulation - myfoxzone.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXR3OEtqT2RPRHJlZG95cDlUX2RQYWs2ZkprX29hQ1FEWEFsYkdDUXBjYUY2ZUNlbVB2b2NQVFhNWjZUdURZWlBpRWlhdDB5NXhpVzBvUEhZX1AtMm01eERJbUFja2tXamlEa18yUEpoekNzMzFydld0cjY4UHVGVG9lTXpRczJvSHVsQXVlRGlMcEtnZ2pLSmtLSENLdzZWTjkwdW9DYW9Da2REODRCZmhXWXA5dzlBZ19FNnpMZHRiVURmdHRFOUFPc0VjdEJ2cWZXaGFlZ3FvajE3ek5sY2puQlhhQ1hZYnFVNTA4bw?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 00:22:00 GMT",
+      "title": "Press Release: August Pfluger Introduces Reliable Artificial Intelligence Research Act - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnlWajdqUi1DVlAta1Q1eG1IQTl0Nk1JVjVDMEN3R1Q4NngweEV5czNoZFQyTDJodU9LZTFMSE5PMVA2WjZBdUhqOUhLRDVrVTU5Y3pLN3dsQUROTTEtd2VmbUtfaWR6VVg5LVNpZWFwLXJ2cFU2M0VvdFFia3hzWmlfalJ0S3pFNmNVZWVIMDdOdnV2NG52N0NzQWRKWE5ZMEhHUlJwLXRHSWZ6M0tiOUJyblZ3OVlBc1l3THhn?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 20:23:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Stanford Medicine researchers awarded ARPA-H funding for AI projects - Stanford Medicine",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zM25ycVFaODczLVBnbzdEU3QtWV9YS1VubmpoLVN0Z1hsNkR5RFVzQ3hDTHN5ZmU2Y09EUXM2QWJYVE1WZDdDdGtHOUV6TEVZeVFZVlNsWXBubEIxVUtwbFdpb19FMVNWUTJ6ZmhGN21nU2c?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 21:41:00 GMT",
+      "title": "AI, Mental Health and the Common Good - Research Horizons",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORThHMXdHanVwdEFJaVZYTU54Q0ZodVpNN0JuT09FeXQ4ZE9XZGhyZG5qbGpSUGVxUmt6ZmxIOFdmOGUzcU9OQmxxYTdqQ2NJcEItV0ZmX21OTU1Rb3VWbktzS3NDcG9oYklWT3JUSVdGcUowRFdaY2ZhaVBXNnNtVzhEbFg4cGot?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 18:01:32 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "and is not – using AI in our work - pewresearch.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0t1U0o4NWl3YUJQVkpqNnlBcF9RRldQbU1JRURFRG50NTNfTkFxT2otU2N3eWJCLWR1UUZLa2tlRXRVMXNKanlIdTJPZkgzSndHYk00S1VacC1nRlJmWXhmV3prZU5td2Vhck9pcEpVVllNOHllelJBaktmdVh5QmtaY0xpeVozX1VpM0tId1hRb3FTSElqd21QVHhWWmE1MF9VeDlEaG5vN2lf?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 15:34:06 GMT",
+      "title": "AI-Assisted Applications Strain Research Funders, Funding Forward Post Finds - govconwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0RsMWRSejlqQ1poR0pGMDIwQXBic2pQTW1pWUw0VFl2UXU5TWozV1J5VDVvSUoyMTFjVUdudUtmSWZ1ODBNT0h6UmMxaG5Dd3JnbFVMR0hqZl9oajBWUEhqMlV0VlRfZTVlWUVDZmt2ODFkeWJ4Ny0ySlpQaHNUcG1PdGs2UVBZb2JtaGxxV3czUVpmZm5GMm04T2l0UW9uNmFNbnZvcUl5R0k?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 09:46:12 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Chen’s NSF CAREER Award supports UVA Engineering artificial intelligence research to better forecast infectious disease epidemics - EurekAlert! Science News Releases",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WYThUQ2UxT0ZzSUZkN0VQUXNJYmlkZ0pzUFV4dFNJT243N0Y4RTJwWnhqZWpOV1paRjNfMWpxcEV6eDhTTUd4REVXYzRWS2RYWFZWLV8tRkJkZ2d3?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "title": "Applied AI LLC Releases New Research on the AI-Native Future of Consumer Intelligence - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjM5WF9iS0RqUnpIcEhRa05INzRYNUJYeDlQcEhjUWtHYW5QdGNYRDlPRFFWTWxvczFvVUg4bl83UjFnUmxoa0pVaENTWDhhNE03TlpwWkRsN0M0RXExMVViRGJKeHA5WThFMl9hLUtRd0gtSWdPQk9nZUhtc3ZaMV9Yd05wNjdUVXNWSGtyU2Nlbk00QURtdEFtamg?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 23:10:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Three new research initiatives for artificial intelligence and quantum - University of Colorado Boulder",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFJET1RMaUFBd2t2NTJ1X3A5NFA3ME9fbzFmUS1tUjNzV3ZRZURqWFoyTmNrOE84NEd3U0ZFcEQwdUh3TUxYM2MzZlp4T3MwSnBMbWpZNVJWQjFWU0QzanBDdzk1bTFfSk5aRXA4aUZOOEs3eUFJSERhcWN4Z1ozUWRQZHpiZXRYclRrVFZlajlrY1VnUXlpRlZ3?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 18:56:15 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "UVM awarded record $38M to create ‘AI twin’ of sick patients - VTDigger",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDZJTFZWYWhyUTRicGo3MU9DQVlVbjZLM3BLWjdkV2VqeUtOYmREYlFqaHF2Z1ZwaHV2QXVFa0FZeWthX1NaRUFmY0pIM3dRNlppaFVvUGNLalZIYlV6c1c4d1ZDOGNOUFE5Z20zb3pIVmNablpzNUxEcjdBUjQxZTlUZm5IZEJHM1ZiRHpUdE5UMkc3QkJSUHFvVDhVdw?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 21:21:04 GMT",
+      "title": "Payerset launches AI-powered research assistant to help health systems benchmark payer rates - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmtPOXIxandLaERjWGZVXzdTZGFXa0JtNWttR1BVRUdud0h0S1ZWSjQ4WXhsbmVyN2tDeElPMmZzU0VjQXEtYXpBUl9ubVlUblBjdjZRSVJ2cHpSWXIyWnZXdUp5a0ZUc0F4RW5PUllMbno3U0ZVSnh5QlBJN1ltZ0RYVHdkU1BwMnBsNVZqSmk1eFdqbjZIUFBVSC1mZDFZSUVaZ2kwbEtHZXlPVXE2b2pTU3RpZ0JtdElqeHF2YUtGVzltTkJV?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 18:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
