@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:31:12.875776+00:00",
+  "generatedAt": "2026-10-03T09:52:49.139807+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,123 +7,63 @@
   },
   "items": [
     {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "Want to use AI to improve your work? Have it disagree with you. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE9LY3R2cVVaTWtlMnVmeEJ0cXNTMHJsazBkVi1BWG5IR3NFUHVoWmhXRUpEQnFvWTFHM3VXMW1FWGl1UWF6ZjlNQks1cENHOFhxX096ZFF4ZWV0T2poTWhkbGZ6SHBfX1VFR1V2NWVkNDRQaWFZTEJLcjhqRkI0U19oNTlSQUNvT2JNbk1pZXMtMV9LZjFoQm1Jam04OXVTUmsyOEN1MEFtaldUR2d2TQ?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 22:30:18 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "Google to open first university office at Ohio State for AI research - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkt5TEtxdDJqR2lrbmZYZ0I0d05NYUQ4a1d4aC15WTdGS0hDdW1jVFloRjB4a1JKNEl2TlN1b1dQZTJheVR3bU5EMlN4aTB4T2dCbjBEdVZzV1J4eHE1VmUtTThyVUtNN2d2ZUttWDdUTXBSSkxiVmFMSG96OU4yMHVieW9nVnlPdmlQMWNnbzE1TDRsTHh4MHlWUC1sN2g3T3E3Q2l4RExPLXoxbl9SNA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 16:20:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "AI agents tried to hack Library and Archives Canada website, research firm says - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dd1F6Qms0Q0wtSzZtVWhseGEzR0pTdHpRZW1vUzEyLTdSSUFLc2d1b1RnUFRYRjRaVEhuS081T0ZmdlVaWE5uRU1ralpZbEphN1hheGdrMkE4ZkNPRHBmZXdEcmZqLUZr?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 17:41:22 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "Tech bills of the week: AI research competitions; Prohibiting federal use of biometric tech; and more - nextgov.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTi1UdkZmNWZqX1VKUmQ2NjBTMFRhVlBaSm5pOFZsNVdXbjJxeElmbktWbS1pUHZ0eHQ5eml3OVctOU5FeGdnd0M4YVFZdHNtQ2JjRjZiNDk4ZHVQbk1hRUVQZkRzenVGYWZLa3RlWXV3LWctU2t4N2l2NXlNZTVRMUVTTFg3d3JiRlFZT2NyRlZ1U3dZTnhnVDNjdmdLazVleVI3QXBRN1pfNWNpNTZHN2FVNWlnN2ZkWTh0NF9PTmNmSUJ1QUtKeXNycGNsT3hBNUVBWVlrTXY0bHRnWmRDRGtjWGRZZThiZjk1ZzNZTHZJRl9FZ3RfU3h5czc0em81YTQ0VUt3?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 23:21:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "AI Agents Tried to Hack a Canadian Government Website, Research Firm Says - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjRnWGZlc2dKdFF1TUlIUEVpWWI4WEF5VFVlV1pJdWo1NWx0TnA0TmVwUHlGa0g0dVRoVWx4dEpyYzFiSy1NREx1amtUQ1FPQ2VGVUtCQVlPbzd1elRNZ0JTamx6dDY1QThDTE8zNDhzTjh5V2FsaUlncTVGcXhoSXFxZGJTQ3I0aEdKeGtxUklXT2RsUHBzOHhVdnlhSzVUMm9zQzV3aDBxcnFMMUNEZjRBVzduSEhyYm8yUndiWTFVRlpESXc?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 02:04:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-      "url": "https://arxiv.org/abs/2610.00047",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "What Is Artificial Intelligence (AI)? - IBM",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFJQdEloZk9lRkhTOGFWaENtb0FJUzdMOUZRY0REMDhhOFZWT2h5STBzU01FQlY0d2htVXYtMzlqcURGdHRiZU1nZnZMWGYyamZaN0Q3REFTWVJvM1ZmeEtKb3JrRTZMX05mZUozeGduUFpWOW00eXVfSkRiQ2FuVFk0TkVqMEU?oc=5",
+      "publishedAt": "Fri, 09 Aug 2024 07:00:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "url": "https://arxiv.org/abs/2610.00061",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
-      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-      "url": "https://arxiv.org/abs/2610.00074",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-      "url": "https://arxiv.org/abs/2610.00084",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-      "url": "https://arxiv.org/abs/2610.00197",
-      "publishedAt": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act - pfluger.house.gov",
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - Nacionale News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNObVNtcXk1Q1JUb1RPWlZLTXVkVzhOUzB6NVdjVDRSTkMwU0Jvc2YzLWtGc2pIYWtLekZnTkQ5SkNobHRyLVRyaW5wTDVSb1hsSklOOHp3RFRQVjE0ZjFqQ1g3NGRkZEtqa1ZPOTVrZTNmZWl1dlpTalNVYUlMS1lGNFllc3V5S19JZU10dTRJZw?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 16:20:44 GMT",
       "source": "google_news_ai_research"
     },
     {
       "title": "New safeguards could help protect young people from unsafe content generated by artificial intelligence - Clemson News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2h6WDd0cm5fdjJWcktmRndHV2VIVHhKWFBtWk8xcVVVaUZoWlE5XzFFbG1VdWdodVFiaWVaVXVpZzFuOHA5WDY2T21XMDNOcmxhdU16dGlmakppUXM5ZEIwck9mMHU2ckh2bmkyM3k0cWpXUFZOdmVEWVVQQTJFR2FNTVBFQ2NLUkxTb24tTFZHc3YxZU91b3dmUnNFckFIS01WeEJTQzlTWW45U0JjOG1Mckp1Y0hlekNLeG5Jc196WUxNeGNWNw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 11:32:11 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Chen’s NSF CAREER Award Supports UVA Engineering Artificial Intelligence Research to Better Forecast Infectious Disease Epidemics - University of Virginia Engineering",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOWZHYzhUbUZYT2JzTG4zdTg0bDM4NG1lQVFubks0TUtZMXM5bEdPYmhXdC10b2QxLW44UjlIMHYyZm1QenQ5bDltUGp1ajlKQzBESmZMT3ZxYkIyTXc2Q0lBYzRKM2dZNE9DUjQyRlBvUDNtbjM3V1NYa3BIY3YxSjBpdFQyM0RQQ01US0ZVeEhnNUNfYW0zVko2UHlXcTRZcDNPcU4yb2I1VnJoWFpLaXFBWW9Hc1JZaWFTZ29wdUFPb29zR3pwTm8tMW9JcE5NOWMtZjExcUZSU1RyNTZtNmNIZ2dXZXlZc1VvNm9GSzR0VXVzZDFWRF81YndrdUEydURuQUFB?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 18:27:17 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "On AI-augmented transformatizing in practice: protocols, quality criteria, and reporting standards for Human-AI Augmented Mixed Methods Research - Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14MzhramFyalFJUFFBYXJxMU4zZWtGemU4Z2ZJVTlyX05qamFSVkZhSlEyTnpRcUVMT1lwczlYZmtLU1ozODV3MnFuOXNxckYyRnBpNW4yZGN5bVdUSWJYSEIzNWQ2Z3ZNUTZWTURIcnk?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 06:53:50 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Clark Atlanta University receives nearly $10 million to expand artificial intelligence research - 95.5 WSB",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY0tpTmt0czN3VnJfZGdhOTd1RXpfZHBrMzc3WUVINUlIWGNCMHZ2S05PdURTb3RuSlRxWHhSV2ZoXzMwampaUzJJcmJYd3FzY3I4SEhpSkxxTkxwMkxFc1hwSnJTd3BRdUVWNU90WHVMbVMzZTdUZWFScW4yWGwtU1B2V3J2WjFjeHVsaXNpLXVvcGFfY0xjRHdPSTFnOHFzZTY4c2dGb3FOQmdtd1ZOcmt4NnZhMHNQbktUNUFDSnBJUmxfbUF5V05fSDduWm1JQjZLMFZnUGk2LVE0ajB0M0FfSEhWQkV3RXFN0gH_AUFVX3lxTE9FWXEyV0NnRGRObTBDcGdlZEs3d3lVZ0NiQnVMc0pUTHZqRGZVWlpZVkhEYlNqNFR3MmoyU05fSks3cHhjWHhqR05PZ3JWSGZEQW4yNUVmbExzSlRwc3lnaUVvNWh1YmZmc1ZYWFhxNjdKd3ctSXVoNUJmM0dvM3RvdGcybTJzTmJMZkticERTcXJVLWVjMzRaQ0xjV01WdTZNUERGNklVVlpOLXMzVGNMTjB2bWNEbGppNXJaeUVDM256RWZJSTMtVV9TQlk0NlZQYVdTdnZrTUl2T1d3RUp6Rlp1aU5JMnoxVTZoRHA3Rk15ZDhWcVNmaDJlX2Qzcw?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 14:33:31 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Press Release: August Pfluger Introduces Reliable Artificial Intelligence Research Act - Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnlWajdqUi1DVlAta1Q1eG1IQTl0Nk1JVjVDMEN3R1Q4NngweEV5czNoZFQyTDJodU9LZTFMSE5PMVA2WjZBdUhqOUhLRDVrVTU5Y3pLN3dsQUROTTEtd2VmbUtfaWR6VVg5LVNpZWFwLXJ2cFU2M0VvdFFia3hzWmlfalJ0S3pFNmNVZWVIMDdOdnV2NG52N0NzQWRKWE5ZMEhHUlJwLXRHSWZ6M0tiOUJyblZ3OVlBc1l3THhn?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 20:23:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI, Mental Health and the Common Good - Research Horizons",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORThHMXdHanVwdEFJaVZYTU54Q0ZodVpNN0JuT09FeXQ4ZE9XZGhyZG5qbGpSUGVxUmt6ZmxIOFdmOGUzcU9OQmxxYTdqQ2NJcEItV0ZmX21OTU1Rb3VWbktzS3NDcG9oYklWT3JUSVdGcUowRFdaY2ZhaVBXNnNtVzhEbFg4cGot?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 18:01:32 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI-Assisted Applications Strain Research Funders, Funding Forward Post Finds - govconwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0RsMWRSejlqQ1poR0pGMDIwQXBic2pQTW1pWUw0VFl2UXU5TWozV1J5VDVvSUoyMTFjVUdudUtmSWZ1ODBNT0h6UmMxaG5Dd3JnbFVMR0hqZl9oajBWUEhqMlV0VlRfZTVlWUVDZmt2ODFkeWJ4Ny0ySlpQaHNUcG1PdGs2UVBZb2JtaGxxV3czUVpmZm5GMm04T2l0UW9uNmFNbnZvcUl5R0k?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 09:46:12 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Applied AI LLC Releases New Research on the AI-Native Future of Consumer Intelligence - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjM5WF9iS0RqUnpIcEhRa05INzRYNUJYeDlQcEhjUWtHYW5QdGNYRDlPRFFWTWxvczFvVUg4bl83UjFnUmxoa0pVaENTWDhhNE03TlpwWkRsN0M0RXExMVViRGJKeHA5WThFMl9hLUtRd0gtSWdPQk9nZUhtc3ZaMV9Yd05wNjdUVXNWSGtyU2Nlbk00QURtdEFtamg?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 23:10:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Payerset launches AI-powered research assistant to help health systems benchmark payer rates - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmtPOXIxandLaERjWGZVXzdTZGFXa0JtNWttR1BVRUdud0h0S1ZWSjQ4WXhsbmVyN2tDeElPMmZzU0VjQXEtYXpBUl9ubVlUblBjdjZRSVJ2cHpSWXIyWnZXdUp5a0ZUc0F4RW5PUllMbno3U0ZVSnh5QlBJN1ltZ0RYVHdkU1BwMnBsNVZqSmk1eFdqbjZIUFBVSC1mZDFZSUVaZ2kwbEtHZXlPVXE2b2pTU3RpZ0JtdElqeHF2YUtGVzltTkJV?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 18:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
