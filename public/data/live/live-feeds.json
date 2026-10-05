@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:36:05.306903+00:00",
+  "generatedAt": "2026-10-05T11:30:11.671319+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,33 +7,93 @@
   },
   "items": [
     {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "url": "https://arxiv.org/abs/2610.02342",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "url": "https://arxiv.org/abs/2610.02351",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+      "url": "https://arxiv.org/abs/2610.02372",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+      "url": "https://arxiv.org/abs/2610.02378",
+      "publishedAt": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Contest invites examples of innovative use of AI in research - psu.edu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXdUSElDaXhoTUh3R0M4TjMycWZHbmR5YnZFU2ZYOElXNGoxcmRsQVFKRkJOcm9wNE4yOHBEM3c2OVVJYUowdmU4NUJncWgyQkF2NmJncHNTY3Y1UDVmdDJsX1pZdGhSQ3BjN29LcDFPbVNnLWtiU3lBeDB6QnZqVFM1NjNydUFxZEtibVJneHAzdDF0LWFvMHV3?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 09:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - pfluger.house.gov",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Mount Sinai and Hasso Plattner Institute Launch International Graduate Student Exchange Program to Advance Digital Health and AI Innovation - Mount Sinai",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX0syLXhRQ1JtTjhLT0UyZGVsU1l0enRULUJlbFNnMDFaSkQ5d1gyOTFXZHNVUGJpSm8wSFdUeDBSbW1OYWZnOWF2RFdJTHp2MTZndkQ1MXFjVWg3N2tDZzdFaVVsUU5PX1dIX1VQb0wyTUMxa0Q2a1Jid3Bmb3hzWVQzU2FvQlpUMTlma3l5TFQwcDRKV0F3cTRWc0dRX01Jckp1a2RqSTZtTFZwemxpNmFjWlVkSDdVX2U3eTIxY0ZaYXd5V0NtTGVkcHoyS3J0Z1ZBbjEtSjlRLW9fNEJKcHA1UjhrT09VQVpwd0VzMGo1SW80Y2pLMi1zTF9Ra1NnUndoNGFIR0ZXM2FDQXU0MlNkQUE?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 07:49:33 GMT",
+      "title": "AI, data science leaders join Cornell’s Radical Collaboration initiative - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOengyYWFwTEVELVZhUktrVzQtVGZoeDhXcWdvVlZET1M4UTV4QUNHbkdyNDE5UnB6SXg3WFFKemRIZjI2US1CVXh5S2ZFN3pQQzRxRmFMX1RaTDFpSUpRX1RMU2xWam44SHduT3dMMXcyWXp6MEg1Z0UtQU5uSnZqeVV4YWdXTlpBN2lSZDhUamozbWp2SlhJcF8wQ3V1a2Q2M3NheXkwcXBtUEppb0pQOQ?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 16:44:03 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "New safeguards could help protect young people from unsafe content generated by artificial intelligence - Clemson News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2h6WDd0cm5fdjJWcktmRndHV2VIVHhKWFBtWk8xcVVVaUZoWlE5XzFFbG1VdWdodVFiaWVaVXVpZzFuOHA5WDY2T21XMDNOcmxhdU16dGlmakppUXM5ZEIwck9mMHU2ckh2bmkyM3k0cWpXUFZOdmVEWVVQQTJFR2FNTVBFQ2NLUkxTb24tTFZHc3YxZU91b3dmUnNFckFIS01WeEJTQzlTWW45U0JjOG1Mckp1Y0hlekNLeG5Jc196WUxNeGNWNw?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 11:32:11 GMT",
+      "title": "Technology Officers Navigating ‘Age of Perpetual Change’ - Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzdlSkNVc0NiblFOTEQtVnhlS0dTTGhiSDVXTkpSYXVRbkdScUhnQmlSUXB5NWpLT1FQQklJalRRM3VUSFNsdThRN21xRUpTZE0tWTh5U3JHanQzQmg3Nzl4bWRwQU9RZHpQOWZpbVVTUEpmS0ZoYnp0YlFUejgxSkZ6QVYtVmZfUU1MT2d1VFZsVFBFaUhNeUJQLUw4aF9maHl4S0MxNTUzSjdpaENWZlltZ0FJWUZvQ3JCb3BIM19uVFU?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:01:52 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Sen. Rounds, Anthropic leaders talk AI’s future at South Dakota Mines - KOTA Territory News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWhXOFk2RHJpTndfQkNIX0NyM3M0U2pkMXZFcDdTR0Q4UEE3WVNjS3ZHeXpwamNVZFVHNXBXcHRqQkFkX1VUd3RpSWNEVHh0em1JTWFqTkJFZ3ZBRlgyVkpQX0NjOWdreXZwOG5GTEN1SVdVUmkyLTc4N1lwYnc5bHZOdGZYUlpqUVk5b2V4RzNMYTgxNE8yZWNyZURPZm_SAbMBQVVfeXFMTkZiWmJMdk44UVo2aE5YcFFCbFNOTk43ZGhuWFludFBVWnJCaWdzWUwyb2VwMDBfenZfRHY0UWRieGNUajR4RW5wQ1RLNkJIWmpJaEU4djhfd0JuakdFMkZxanpWMFFTaUNMeTV1QWZKQldIeG8zRndmb3ZQUEhPQlJFcFVBdjFLdWFqOHIxVzNvQzdlNXBsU3VsaHlmeUFMcmtfb1JUWW12aWl3R1pBcGlUVFU?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 18:30:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - Nacionale News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNObVNtcXk1Q1JUb1RPWlZLTXVkVzhOUzB6NVdjVDRSTkMwU0Jvc2YzLWtGc2pIYWtLekZnTkQ5SkNobHRyLVRyaW5wTDVSb1hsSklOOHp3RFRQVjE0ZjFqQ1g3NGRkZEtqa1ZPOTVrZTNmZWl1dlpTalNVYUlMS1lGNFllc3V5S19JZU10dTRJZw?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 16:20:44 GMT",
+      "title": "I have ALS. The promise and potential perils of AI are personal - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0dsQzhTY3FEcmtCSFRfQkdESng2bmcyT1pEN3MwSUdsdUhSUHoxWHFVaHhvd3dsRE14cWxUdGFmWExVX1cxbF9IY1JNVTRkMndkTVgzYVAtUWR5TGZLRExFdHBQQm5zaU42eUlQcXRLdkxZZC1Jb0J1WWkwbVV0SjJPTWNwZTBsbEF4V0w5VXZyV0k?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 22:39:23 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -43,27 +103,27 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Clark Atlanta University receives nearly $10 million to expand artificial intelligence research - 95.5 WSB",
+      "title": "Clark Atlanta University receives nearly $10 million to expand artificial intelligence research - wsbradio.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY0tpTmt0czN3VnJfZGdhOTd1RXpfZHBrMzc3WUVINUlIWGNCMHZ2S05PdURTb3RuSlRxWHhSV2ZoXzMwampaUzJJcmJYd3FzY3I4SEhpSkxxTkxwMkxFc1hwSnJTd3BRdUVWNU90WHVMbVMzZTdUZWFScW4yWGwtU1B2V3J2WjFjeHVsaXNpLXVvcGFfY0xjRHdPSTFnOHFzZTY4c2dGb3FOQmdtd1ZOcmt4NnZhMHNQbktUNUFDSnBJUmxfbUF5V05fSDduWm1JQjZLMFZnUGk2LVE0ajB0M0FfSEhWQkV3RXFN0gH_AUFVX3lxTE9FWXEyV0NnRGRObTBDcGdlZEs3d3lVZ0NiQnVMc0pUTHZqRGZVWlpZVkhEYlNqNFR3MmoyU05fSks3cHhjWHhqR05PZ3JWSGZEQW4yNUVmbExzSlRwc3lnaUVvNWh1YmZmc1ZYWFhxNjdKd3ctSXVoNUJmM0dvM3RvdGcybTJzTmJMZkticERTcXJVLWVjMzRaQ0xjV01WdTZNUERGNklVVlpOLXMzVGNMTjB2bWNEbGppNXJaeUVDM256RWZJSTMtVV9TQlk0NlZQYVdTdnZrTUl2T1d3RUp6Rlp1aU5JMnoxVTZoRHA3Rk15ZDhWcVNmaDJlX2Qzcw?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 14:33:31 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI agents tried to hack a Canadian government website, research firm says - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 02:04:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - Unric",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaWQyZ3BUUHF4bG9LcGtXY3FyQVVmYlZ5WUtjY0lCTldZWFFMcEhqTjVjR2o1cERRYTVLZmpFemRwQnhmOHAwa1ZlRUx2Mmt2SlRIa3lna0tyU0ZZZFN4MVR4ckRhQ2ZmV1d3?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 09:17:11 GMT",
+      "title": "Miami University to appoint board members for new AI center - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3ZobHpHUjZQM2hITmtLWFlZaXVwdksxdVpvRnFuWHp0ZW1mRE5pMGh2UllBOWNkNzBGRDRycVNHZWtlazhybzZWN2EyeWtld3psMDhsaEg0RXF1TGEtaEdGVnI1SjdiajBvN1lMVFZIYXViakpyS3NJVktjT3NaVk03NDJycHJrOHcxRFoxY2xpU0xFM2pxbXJaRkJpRGtvTGpLWGw3YkNmejBBa3lJ?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 10:29:00 GMT",
       "source": "google_news_ai_research"
     },
     {
       "title": "Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWk0bGVJdm9YYWxjbzlnV3dqQjdTSlc4VUFlVldob20zSzMyVi1MUUNzUll6Q2t6MjN2M2Z4Wk9nVkpvUkVaYzlkaUFqdkxyRjA0WEtydzk3ckF2aTFOLXZEekJtVFlLS3BWcnpFZDF0amowajNFNXA5THhnczZqN3hVVzdITG95cXZBVFJZVGJMcUN2Vk1zbV9PNEV6djhLWlpGeUZHY1ZjdjZIYVN2WEZZWGV5N211ZDZMZzdtN1QxUFBSdWtj?oc=5",
       "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - Nacionale News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNObVNtcXk1Q1JUb1RPWlZLTXVkVzhOUzB6NVdjVDRSTkMwU0Jvc2YzLWtGc2pIYWtLekZnTkQ5SkNobHRyLVRyaW5wTDVSb1hsSklOOHp3RFRQVjE0ZjFqQ1g3NGRkZEtqa1ZPOTVrZTNmZWl1dlpTalNVYUlMS1lGNFllc3V5S19JZU10dTRJZw?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 16:20:44 GMT",
       "source": "google_news_ai_research"
     }
   ]
