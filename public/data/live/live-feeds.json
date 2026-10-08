@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:05:14.593539+00:00",
+  "generatedAt": "2026-10-08T11:22:39.302323+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,69 +7,69 @@
   },
   "items": [
     {
-      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
-      "url": "https://arxiv.org/abs/2610.03872",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "url": "https://arxiv.org/abs/2610.08793",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-      "url": "https://arxiv.org/abs/2610.03888",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "url": "https://arxiv.org/abs/2610.08808",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-      "url": "https://arxiv.org/abs/2610.03894",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "url": "https://arxiv.org/abs/2610.08814",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-      "url": "https://arxiv.org/abs/2610.03934",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "url": "https://arxiv.org/abs/2610.08875",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-      "url": "https://arxiv.org/abs/2610.03938",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+      "url": "https://arxiv.org/abs/2610.08878",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
-      "url": "https://arxiv.org/abs/2610.03948",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Humanize: Judgement Engineering for Agentic Coding",
+      "url": "https://arxiv.org/abs/2610.08900",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-      "url": "https://arxiv.org/abs/2610.03959",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems",
+      "url": "https://arxiv.org/abs/2610.08901",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
-      "url": "https://arxiv.org/abs/2610.03966",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+      "url": "https://arxiv.org/abs/2610.08902",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Teaching Agents to Code Reliably",
-      "url": "https://arxiv.org/abs/2610.03984",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "AdaGuard: Enhancing Safety and Policy Compliance with Reasoning-Enabled LLM-As-A-Judge Guardrails",
+      "url": "https://arxiv.org/abs/2610.08923",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas",
-      "url": "https://arxiv.org/abs/2610.03998",
-      "publishedAt": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+      "url": "https://arxiv.org/abs/2610.08927",
+      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Can Artificial Intelligence Learn the Art of Surgery? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 09:00:09 GMT",
+      "title": "Super Intelligence - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 16:15:18 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,51 +79,51 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "$12.8M grant to lead initiative to get genomics toward the clinic via machine learning and AI - Vanderbilt Health News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1QtSW15RlBPclVpal92Mko5bEFBMkZfR3FBNUp5Vnh2UE1TUG00SGxLUFVoZGl6M21YbURid2pqbUlaNlFfcDRxRFhTMmZJNnJhTFotckljR2N2Zy1DLXlWLUpZV01xQ1J6cmMxaEtPVGtvbGYxQ3Z1ZUIzMW9aNWZSVGE4UHFoY29YRG5PcHk1ZGU1eTB1NldlYjNRclJXeEpyX1FBTlA0QlhXMS1HRkxoeUgxWHUzMlEtY0c0UGExQ1dE?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 17:44:52 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Maryland AI Research Raised More Questions Than Answers - Inside Higher Ed",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZFRHl0ajlFR3lkS1JQd2k4YkV2Y2FBSG5TYTlOdXJTODlxMGtwREZnUnVaT0pCSXo2WVdwbnFGN3BBYTl0NkNURHlIMjcxcnJxZVRPZVV0MHZSWGpVdWc1MWU0TF9fLTg1QndnV0M2anhQc0dyV1RkOXZVQ3BJWklHY0EzYzFWSjhXNzA4X29CWXQ2V3FHaVpyUW1ia2JQOWlsNmRaa25pUU9WQlQ5eU50V2gtYTh3Um0xdlhIUWp5ZHFIV3Y5Zg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 07:02:23 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
       "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios - RAND.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 13:17:54 GMT",
+      "title": "University of Delaware launches AI institute focused on mobility and rehabilitation care - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2taVWpsTERwSnFfSmZVUGRvRXBudW9nQXZBd0ZCMFFtZE5iOXhnSmlqVkg2THdNRG9VZks5R0V2UzJUUjVvMnRueHdSYUVrVkdQMkdodWJfLXU5YTdBc3ctX1hZQ1dYSDNqR0VaSzdsaDB1ZzJoeXZPcWQtOU9YMlhNc0V3eFUyQVd2a0M0djlyWUdqX28tQU56d2lmN1ZUVjJ3WTV0VU00TWUtTG0w0gG0AUFVX3lxTFAyYjlPU0pnRG1qYklLNThnaDdqcUxoZGVUNzhGUWlGdExoclU4S2N0NnFuR2I5ZlU5bXF4MFZiOWVrYnZOYWR5cmdqWmJEYklTZm80M3FWTkJRNHlIRHp2SnlRb1V3YW42T2dmY0JMLTNyOVpvb2U0N3JUclo1eUNfVkRGV1lEdGtScEFPQS0yT0dLU09icUcyME1IdVlkQ3JnMkl5Mlh3dUluZ2FRQlVBTDRjTQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 20:40:47 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "The Tao of Tao - UCLA",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZExmSjl4cHI1VVZldEtwajVnT0hUdFFXSWU1WjNEaE1pY19PRXRFUVk3MUZqVDdQUFpyN1lpdzcxZXQxdjhxcHJ6TVpJaF8xN0ZZS000ZVNmRVhZSllZQmprMlZwbmxTdi1JRDl6bU8zYWRKM0xsN1N1aEU3MERJZVVWOEN4c2JmekNpdVd6YjU5Tnkz?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 15:10:50 GMT",
+      "title": "Can Artificial Intelligence Learn the Art of Surgery? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 09:00:09 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "arXiv imposes submission limits amid surge in AI-generated papers - Research Information",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbG45NXJuYXlmUkYzcHladTF5MFlEUGlrVk1ERVdEcjZrR1RSeFBPaTZ6aGM3YXYxbXBkaldfdUZKaFExanB0Mm1VQzhFREx0TmVHUUNxWS00cGs1R1ozVEVucm56Q0hjNlQ0VVItZjRRcVdyUHNHSzd3Q0c0N0I0VEloTFRPWDBoQlh5Y2hZU0tZSUdGMVJHcjQ3VFdyRXFoM1RzOVJiem9vX2hM?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 05:44:44 GMT",
+      "title": "Harvard Weighs $25 Million Investment to Double University-Wide AI Computing Capacity - The Harvard Crimson",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjQ5V2hQLTZsbjdjNk5YT1VrQWZOWU9McDJxVmJlTl9LWWJoRjVVbHN0M19qWS15VEdCbVZ5RC1NdUlzSTB0RGpqdlBGelJJN1lPUDJiYkt2empORndaQXdPTk9VX24xUXJvUlJqY1pjWmNmYkpIbzgzRW5QVzA3OHpCdw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 22:26:42 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "ChatIQ Leads S&P Global's Latest Capital IQ Pro Update with Expanded AI-Powered Research Capabilities - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHJRTEZPS0NvejhHN0s3TTZKWHh3SUtGdmtGSUlpX0tlWnkwYUZOVWtBNE5idGJuVGtrYlZMSnpsWUp3NERmRkdmZ2lCWUZQaGFmRHJ0VWNWa3daSm1oTlk4S295WldWeFlkclcwR1lIVFU0NnZhalR2LUtSRVdIUnFOdXRNM21GV3gzZXZkMWQ0Z2JOU3VjQ0ZOYXVfUjE4bHNpcWJGVFprNmszQmY0SGxvbjlqOHVubDlVOFpRR1c1dEdGTzdIWm9QRmY0cnpmaF9YS3FkV2Y4M0FsaUoxMGFQYVVQd1JFMFlv?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 20:01:00 GMT",
+      "title": "AI agents are not good at interpreting science. What can be done? - Chemical & Engineering News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0hEd2RXRDd3NnJDR3VSQVBIWXNqWDNuc3QyOTdIT2dxRzIxRHF5TGQ1d3A2NmFNX2lNM2VCMWpHQUl5clhOVnZLV3ZEb0ZaWkVyNEdGTU1IOHpJbzVaeFRfY1M3VkxIQ1dFaGZnVlJ4aDlMbnZKLVhEajJrdzBFU0tXYjY0YmpzVWtFSQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 16:40:52 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Agendia to Showcase New Research on AI-Driven Digital Pathology at ESMO 2026 - BioSpace",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3Y1LVNmeEZfa1dqdnFyOGl2akFBV1B4UGV2SVpXMXdIaGdQRGVkV2pEUTdYNTlQYVBkVG5vZG5ld085b2tXOGNpVU55eUR0LXZpLThCM2N3MEhBSmREWWw1cjZqcnQ1NmZ0SXUyRk4wUmZoV2VQNk1CM0NmdFlOT3FYV1puMU5iSXFvNVd1bmtOT295Z0ZUUXlEYUZfU0E0VUdkR3pPRENTUkcxTVdqLW9TeEhRTlU?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 04:02:55 GMT",
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQjdvVUZMXzVVUHE0TDExcHh2ejJWYnJFazh4QTVYSjFfQkcwU21KVjJvRUs4VktZbnpkNzVhSzNhMzZteHp2QnhxTDBXbHB2TWNNYVFocVhFRWM?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 20:34:17 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "University of Delaware launches ‘human-centered’ AI institute to help physical therapists treat patients - WHYY",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXUyRmx0OFVUc0k4MGJqcjBwQXFtMmxIQVR3bWx1WGRvU0VIRndlUlpxcGdDRlpBOW01cEh4RmRYdjJZeTdLb21OQjR6VHNNbXlJLU1hVW9CZ2pvWFdacTREdjJIbEcxWFBDSVJwMXU4c19rSGxHQm9yTzBMOFJQODBzeWNLblU?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 21:26:37 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "$12.8M grant to lead initiative to get genomics toward the clinic via machine learning and AI - Vanderbilt Health News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1QtSW15RlBPclVpal92Mko5bEFBMkZfR3FBNUp5Vnh2UE1TUG00SGxLUFVoZGl6M21YbURid2pqbUlaNlFfcDRxRFhTMmZJNnJhTFotckljR2N2Zy1DLXlWLUpZV01xQ1J6cmMxaEtPVGtvbGYxQ3Z1ZUIzMW9aNWZSVGE4UHFoY29YRG5PcHk1ZGU1eTB1NldlYjNRclJXeEpyX1FBTlA0QlhXMS1HRkxoeUgxWHUzMlEtY0c0UGExQ1dE?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 17:44:52 GMT",
       "source": "google_news_ai_research"
     }
   ]
