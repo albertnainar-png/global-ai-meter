@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:22:39.302323+00:00",
+  "generatedAt": "2026-10-09T11:20:13.064338+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,69 +7,93 @@
   },
   "items": [
     {
-      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
-      "url": "https://arxiv.org/abs/2610.08793",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "url": "https://arxiv.org/abs/2610.10541",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
-      "url": "https://arxiv.org/abs/2610.08808",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
-      "url": "https://arxiv.org/abs/2610.08814",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "An Empirical Study of Agent Skills' Downstream Utility",
-      "url": "https://arxiv.org/abs/2610.08875",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
-      "url": "https://arxiv.org/abs/2610.08878",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Humanize: Judgement Engineering for Agentic Coding",
-      "url": "https://arxiv.org/abs/2610.08900",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "url": "https://arxiv.org/abs/2610.10635",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems",
-      "url": "https://arxiv.org/abs/2610.08901",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+      "url": "https://arxiv.org/abs/2610.10786",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
-      "url": "https://arxiv.org/abs/2610.08902",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "url": "https://arxiv.org/abs/2610.10805",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "AdaGuard: Enhancing Safety and Policy Compliance with Reasoning-Enabled LLM-As-A-Judge Guardrails",
-      "url": "https://arxiv.org/abs/2610.08923",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+      "url": "https://arxiv.org/abs/2610.10833",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-      "url": "https://arxiv.org/abs/2610.08927",
-      "publishedAt": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+      "url": "https://arxiv.org/abs/2610.10857",
+      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
+    },
+    {
+      "title": "Artificial Intelligence: Language Models That See Every Letter | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVdIBmwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:05:00 GMT",
+      "source": "google_news_ai_research"
     },
     {
       "title": "Super Intelligence - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 16:15:18 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Research reveals the ways students really use AI to write - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTJtMGJfZVJkMFRuclVJSEY3eTIwaXpMTjBPdmJadkhUanpXREhCaktzVHpFRy1sRkFtdjItX2JoWWM4SGdtWjd4aFZOalBLeHBOMnZyR2drU3l0a2ljMEptN2hRT3VrVG1qdTl3OXJuNzhMRmVON3ByTXpGTGlsbF9hOFNSV3hG?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 19:12:12 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Book counters AI hype by examining how researchers talk about their work - University of Illinois Urbana-Champaign",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUo5bmR3WDJ5ZUFFMzFWQVQ5UzhrN0doS1YtTWJ5LVc3RFFDNHVESkxRX3BKNXdHbWhXWnFmcHBneWJQSnh2YnRDcHFvWTlRMHJ2eHRJVmhYVEQ3NWZjV2M0aHM2NmpESHRtYzhOeHhoeV9WM1QtVERVdms1WGxrRzFyd201Q1RGMjBmS3lVX0J2cGNWdlplSkNueFhsbHI0?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 16:24:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how - STAT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVFTb3ZwMzRKUjdaZDhOcTRBemxEWGFaTU0zSHVnV3h5MVI0M2lFT3RtNXRxSTQtMFI3V3BCOVJWOU5UUVY2TnFDdUdsOE51YVQ3bmR4dW9sWEdxZ3kwZE9rVXJSRGw3MlVodXdzSmF2NkxGSjIzbXRWNzhpZUo4aWVaS1hxOXkyVmZldWtsRXByQU5RaGhjSGNwQQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 08:33:21 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,51 +103,27 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "Research shows how AI and mixed reality can enhance police work - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZRXFEQXVyV0xISkIxLThXU08yYkZOZnZpR1dURUY0UzVmc1ZXeUVlMU5sZGxybnpfMFR3SWl6OU5LeUprYlFTMUM4S2tEYmJxdEJIZ0lVd2l6aWxRNGI5TW53?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 02:00:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "White House unveils billions in investments for Genesis Mission - Nextgov/FCW",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2dsWlo4X08zSzR3cTk2eWlzVVhWWWVGM3J0aUU3ZS1TbnM5YWhmSng5MGdmOFNjcVlFcnBCUGc3NEZ5WUxxRzFSVi1acWlrdERDSDVoTGRzdDNIMjA2R2c0MUZRWlhJV0thRFVpa2FZNjBBT0RzSlhxZy0zTktTWHVpMzQtTlhSRzI5UGNlbGxMcjI5eEwwR1JYRkVVREpDMTRjZ25SckpjZDZ3RWhXNVBaZ3dfb0wzVm1YTHh1TGY1WXhyZzdRM2g1S1VkeE9FM3ZwSEgzLURLU1E?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 22:34:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "'Doomsday cults' and the Silicon Valley debate over AI’s threat to humanity - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmRDTG5DUnlRZWtKNTZQNHViSy04dTJCVGNnZGVUSnBjSlFCcklycmFxMkozSzRIY0JOYnoyUW5qT3c4RGFjeDFCdDdfaTYxaUJnMkV2UlhJS25UN0dxbUFsVFVVaDdRRFNlR2REV0NtY3Zrc2hkd0Izai05Z0ZBdHhQVURXbHBEMVJzLXVJOWwybzJ2azE4U2JNV294VWlMZmpF?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 20:13:38 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "University of Delaware launches AI institute focused on mobility and rehabilitation care - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2taVWpsTERwSnFfSmZVUGRvRXBudW9nQXZBd0ZCMFFtZE5iOXhnSmlqVkg2THdNRG9VZks5R0V2UzJUUjVvMnRueHdSYUVrVkdQMkdodWJfLXU5YTdBc3ctX1hZQ1dYSDNqR0VaSzdsaDB1ZzJoeXZPcWQtOU9YMlhNc0V3eFUyQVd2a0M0djlyWUdqX28tQU56d2lmN1ZUVjJ3WTV0VU00TWUtTG0w0gG0AUFVX3lxTFAyYjlPU0pnRG1qYklLNThnaDdqcUxoZGVUNzhGUWlGdExoclU4S2N0NnFuR2I5ZlU5bXF4MFZiOWVrYnZOYWR5cmdqWmJEYklTZm80M3FWTkJRNHlIRHp2SnlRb1V3YW42T2dmY0JMLTNyOVpvb2U0N3JUclo1eUNfVkRGV1lEdGtScEFPQS0yT0dLU09icUcyME1IdVlkQ3JnMkl5Mlh3dUluZ2FRQlVBTDRjTQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 20:40:47 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Can Artificial Intelligence Learn the Art of Surgery? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 09:00:09 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Harvard Weighs $25 Million Investment to Double University-Wide AI Computing Capacity - The Harvard Crimson",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjQ5V2hQLTZsbjdjNk5YT1VrQWZOWU9McDJxVmJlTl9LWWJoRjVVbHN0M19qWS15VEdCbVZ5RC1NdUlzSTB0RGpqdlBGelJJN1lPUDJiYkt2empORndaQXdPTk9VX24xUXJvUlJqY1pjWmNmYkpIbzgzRW5QVzA3OHpCdw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 22:26:42 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI agents are not good at interpreting science. What can be done? - Chemical & Engineering News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0hEd2RXRDd3NnJDR3VSQVBIWXNqWDNuc3QyOTdIT2dxRzIxRHF5TGQ1d3A2NmFNX2lNM2VCMWpHQUl5clhOVnZLV3ZEb0ZaWkVyNEdGTU1IOHpJbzVaeFRfY1M3VkxIQ1dFaGZnVlJ4aDlMbnZKLVhEajJrdzBFU0tXYjY0YmpzVWtFSQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 16:40:52 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQjdvVUZMXzVVUHE0TDExcHh2ejJWYnJFazh4QTVYSjFfQkcwU21KVjJvRUs4VktZbnpkNzVhSzNhMzZteHp2QnhxTDBXbHB2TWNNYVFocVhFRWM?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 20:34:17 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "University of Delaware launches ‘human-centered’ AI institute to help physical therapists treat patients - WHYY",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXUyRmx0OFVUc0k4MGJqcjBwQXFtMmxIQVR3bWx1WGRvU0VIRndlUlpxcGdDRlpBOW01cEh4RmRYdjJZeTdLb21OQjR6VHNNbXlJLU1hVW9CZ2pvWFdacTREdjJIbEcxWFBDSVJwMXU4c19rSGxHQm9yTzBMOFJQODBzeWNLblU?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 21:26:37 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "$12.8M grant to lead initiative to get genomics toward the clinic via machine learning and AI - Vanderbilt Health News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1QtSW15RlBPclVpal92Mko5bEFBMkZfR3FBNUp5Vnh2UE1TUG00SGxLUFVoZGl6M21YbURid2pqbUlaNlFfcDRxRFhTMmZJNnJhTFotckljR2N2Zy1DLXlWLUpZV01xQ1J6cmMxaEtPVGtvbGYxQ3Z1ZUIzMW9aNWZSVGE4UHFoY29YRG5PcHk1ZGU1eTB1NldlYjNRclJXeEpyX1FBTlA0QlhXMS1HRkxoeUgxWHUzMlEtY0c0UGExQ1dE?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 17:44:52 GMT",
       "source": "google_news_ai_research"
     }
   ]
