@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:20:13.064338+00:00",
+  "generatedAt": "2026-10-10T10:37:11.015494+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,73 +9,85 @@
     {
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
       "url": "https://arxiv.org/abs/2610.10541",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
       "url": "https://arxiv.org/abs/2610.10549",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
       "url": "https://arxiv.org/abs/2610.10590",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
       "url": "https://arxiv.org/abs/2610.10611",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
       "url": "https://arxiv.org/abs/2610.10629",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
       "url": "https://arxiv.org/abs/2610.10635",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
       "url": "https://arxiv.org/abs/2610.10786",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
       "url": "https://arxiv.org/abs/2610.10805",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
       "url": "https://arxiv.org/abs/2610.10833",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
       "url": "https://arxiv.org/abs/2610.10857",
-      "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
-    },
-    {
-      "title": "Artificial Intelligence: Language Models That See Every Letter | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVdIBmwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:05:00 GMT",
-      "source": "google_news_ai_research"
     },
     {
       "title": "Super Intelligence - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 16:15:18 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Why Don’t Some People Use Chatbots? - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTThidXVtVWh4ZGZ0Y00wa2tWMHVBMFJJUVJTY1lXMVZHVjNKN0UzM3Q0OFdhZVFBeWExUU9FYWlJS2VUYkhuX1pnZnVVYjE4QnZMYk9IckhRV0hvM1Nfa25CLS1VZmNHeFZVUmdteG9IOElMZzk4X053ajdZbm1MaVNDeHd3Rko5TWo2TE1R?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 16:55:08 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Collaborative research using artificial intelligence to optimize assembly line production - Auburn University Samuel Ginn College of Engineering",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJQdWVqWWJIdkVhUjZNN29ncTJndVI5MUI5enEtYk5lUkJIZTAwcnhzWDJHWkw5UlhnaGEwU1lPMWRFbmJTVnFmTWJIeU1DakJ6bGdmNXBOc0gwSndIdFdjY1pjN2ZMek1uYXc4aGwtVHZfR3ZFWkpyUE5CQm40dVJla2kxSlJpbVh1OXNsTzgybXV5UVNxVmJnZWhxRUU3NERiUmliQ3dMZWhZU3c?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 13:08:27 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Artificial Intelligence: Language Models That See Every Letter | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVdIBmwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:05:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -91,39 +103,27 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how - STAT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVFTb3ZwMzRKUjdaZDhOcTRBemxEWGFaTU0zSHVnV3h5MVI0M2lFT3RtNXRxSTQtMFI3V3BCOVJWOU5UUVY2TnFDdUdsOE51YVQ3bmR4dW9sWEdxZ3kwZE9rVXJSRGw3MlVodXdzSmF2NkxGSjIzbXRWNzhpZUo4aWVaS1hxOXkyVmZldWtsRXByQU5RaGhjSGNwQQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 08:33:21 GMT",
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Collaborative research using artificial intelligence to optimize assembly line production - Auburn University Samuel Ginn College of Engineering",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc09JM3dYRHJ5Y2t3QkphalZuQWNocEtRZUpvWDZ5Z2gtZll0RFA2ZFF0Ti1wRVJjbnlESHhYVnBaRVE2dmR6YzJPd1NMMFBQd2FwZ2ctenZZYTROa3E5RkVsY3RHckg2RzZBLXVHMjMtSVc1N3hVNzRiWGY0TGFLU1BIWFV0R0ZydmNMN0FEUVdvaDFZSVI2TXRJNkxrNld3TVFqM1ZFNA?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 13:08:27 GMT",
+      "title": "Loyola receives $200K in grants to harness AI for scientific research - Loyola University Maryland",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkQyWFYyTE9GT3dYXzNMS2hyQnhxOVpwNXJlRVJ4dmNyRXM5Vjg4QlhPYU1vZ0dNcFZUTUFuVTRoZkZYNUtOQ0VQRHJLZVMySS11MjFFREZkeEVNbXVrN2JuSGpZNHpfZVI0UlMxUVYzR1d5bzJlZ3hCSnA5UjkwVVQ1SkphUWo3bmc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Research shows how AI and mixed reality can enhance police work - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZRXFEQXVyV0xISkIxLThXU08yYkZOZnZpR1dURUY0UzVmc1ZXeUVlMU5sZGxybnpfMFR3SWl6OU5LeUprYlFTMUM4S2tEYmJxdEJIZ0lVd2l6aWxRNGI5TW53?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 02:00:01 GMT",
+      "title": "AI Symposium on Research and Teaching Across the Humanities and Social Sciences - University of Tennessee at Chattanooga",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejNvZS1hcUF3emh1Q3FsSzZOTXU3RjB5N1pJYUM0RHgzQTJkQ2UwTnBTNElURUZ5Q184VmNRdnk4dUZXaHdEaVQwcHdNTFFCZ3hSTDlzbGRZWkYwR294UlJXTDdkSzBweUJrc05qWkxsVGxtVERUVUxFeGlGbHM4VWlZYkh2SWxHRlZtdlpxcmRrTDI0ZHAtZTlNOV8xck5xcUU5STRmNmw5Qzl4c3h3UU05eUJxcW5UdUVudE4yR3k?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 20:41:12 GMT",
       "source": "google_news_ai_research"
     },
     {
       "title": "White House unveils billions in investments for Genesis Mission - Nextgov/FCW",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2dsWlo4X08zSzR3cTk2eWlzVVhWWWVGM3J0aUU3ZS1TbnM5YWhmSng5MGdmOFNjcVlFcnBCUGc3NEZ5WUxxRzFSVi1acWlrdERDSDVoTGRzdDNIMjA2R2c0MUZRWlhJV0thRFVpa2FZNjBBT0RzSlhxZy0zTktTWHVpMzQtTlhSRzI5UGNlbGxMcjI5eEwwR1JYRkVVREpDMTRjZ25SckpjZDZ3RWhXNVBaZ3dfb0wzVm1YTHh1TGY1WXhyZzdRM2g1S1VkeE9FM3ZwSEgzLURLU1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZU9qSXJXSjJMNW9qcUpzMENVMzBxT2FXdUVYT0w1YUNNd3FacnRDVVktSG5ETnUzaVg4Y3JKWDJNUlZXeWJrMklPVExIcHZoVldlYm9QV0ltdUpjOG9oRmszTldvLUpKZ1hHRzZ6Z3kzTkgxTWFLd3hLT0ZIaU90T0dpQ2lnWWxucHJZOS10eVdSdEtlWnpyY1RHYWNYODFLb1VDUXE5eHI0TjZwUkZ5b0RyVjBkWkJidU5NcQ?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 22:34:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "'Doomsday cults' and the Silicon Valley debate over AI’s threat to humanity - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmRDTG5DUnlRZWtKNTZQNHViSy04dTJCVGNnZGVUSnBjSlFCcklycmFxMkozSzRIY0JOYnoyUW5qT3c4RGFjeDFCdDdfaTYxaUJnMkV2UlhJS25UN0dxbUFsVFVVaDdRRFNlR2REV0NtY3Zrc2hkd0Izai05Z0ZBdHhQVURXbHBEMVJzLXVJOWwybzJ2azE4U2JNV294VWlMZmpF?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 20:13:38 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 19:11:02 GMT",
       "source": "google_news_ai_research"
     }
   ]
