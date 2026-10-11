@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:37:11.015494+00:00",
+  "generatedAt": "2026-10-11T10:50:02.015444+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,99 +7,21 @@
   },
   "items": [
     {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "url": "https://arxiv.org/abs/2610.10635",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "url": "https://arxiv.org/abs/2610.10805",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-      "url": "https://arxiv.org/abs/2610.10833",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-      "url": "https://arxiv.org/abs/2610.10857",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:00 -0400",
-      "source": "arxiv_ai"
-    },
-    {
       "title": "Super Intelligence - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 16:15:18 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Why Don’t Some People Use Chatbots? - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTThidXVtVWh4ZGZ0Y00wa2tWMHVBMFJJUVJTY1lXMVZHVjNKN0UzM3Q0OFdhZVFBeWExUU9FYWlJS2VUYkhuX1pnZnVVYjE4QnZMYk9IckhRV0hvM1Nfa25CLS1VZmNHeFZVUmdteG9IOElMZzk4X053ajdZbm1MaVNDeHd3Rko5TWo2TE1R?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 16:55:08 GMT",
+      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Institute of Technology",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFNiamg0VkRiaWdHbFYzcU1rRHdVbE5DNzkyZWpqWkwyQTE5SzF6S3g1QWdidUl4aHVkOUZYQTJrZ1I4SDhWYVF3Sm1PanBIRDZFV1BOeS1JTVhSeGNsdUZ3VlFmX2g4QWU5cUtYcjFaREVxSjVvQl9wUHl6OWVRMXM5d3JpZ2FpdnFoVDZMVVVRTS1nakprbUhaaU5xYjV1NmhERTJGYjZ6LTJDdzJ3NlZWUFdLbDA?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Collaborative research using artificial intelligence to optimize assembly line production - Auburn University Samuel Ginn College of Engineering",
+      "title": "Collaborative research using artificial intelligence to optimize assembly line production - Auburn University",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJQdWVqWWJIdkVhUjZNN29ncTJndVI5MUI5enEtYk5lUkJIZTAwcnhzWDJHWkw5UlhnaGEwU1lPMWRFbmJTVnFmTWJIeU1DakJ6bGdmNXBOc0gwSndIdFdjY1pjN2ZMek1uYXc4aGwtVHZfR3ZFWkpyUE5CQm40dVJla2kxSlJpbVh1OXNsTzgybXV5UVNxVmJnZWhxRUU3NERiUmliQ3dMZWhZU3c?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 13:08:27 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Artificial Intelligence: Language Models That See Every Letter | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVdIBmwFBVV95cUxNc2F4cW1KZ0xFcHVrc0xkUDhFa084LUlqMUxGN3kyZVgwWDFBeFRPV3pPVkU4bjVrODl1TUxtemh3bl9SUzdHUXI5WVpfNXVmc0RBTDEwcEZlX1YydlYteGhBUk5DeDFwN1Y2MFdkaFgwU0h1TU5MNHJQV0ZtRHNrYTl3R2tyZndBV3Z5ckpqRHVtdjBWOUFQRm9ZVQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:05:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Research reveals the ways students really use AI to write - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTJtMGJfZVJkMFRuclVJSEY3eTIwaXpMTjBPdmJadkhUanpXREhCaktzVHpFRy1sRkFtdjItX2JoWWM4SGdtWjd4aFZOalBLeHBOMnZyR2drU3l0a2ljMEptN2hRT3VrVG1qdTl3OXJuNzhMRmVON3ByTXpGTGlsbF9hOFNSV3hG?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 19:12:12 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Book counters AI hype by examining how researchers talk about their work - University of Illinois Urbana-Champaign",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUo5bmR3WDJ5ZUFFMzFWQVQ5UzhrN0doS1YtTWJ5LVc3RFFDNHVESkxRX3BKNXdHbWhXWnFmcHBneWJQSnh2YnRDcHFvWTlRMHJ2eHRJVmhYVEQ3NWZjV2M0aHM2NmpESHRtYzhOeHhoeV9WM1QtVERVdms1WGxrRzFyd201Q1RGMjBmS3lVX0J2cGNWdlplSkNueFhsbHI0?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 16:24:01 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +31,39 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Loyola receives $200K in grants to harness AI for scientific research - Loyola University Maryland",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkQyWFYyTE9GT3dYXzNMS2hyQnhxOVpwNXJlRVJ4dmNyRXM5Vjg4QlhPYU1vZ0dNcFZUTUFuVTRoZkZYNUtOQ0VQRHJLZVMySS11MjFFREZkeEVNbXVrN2JuSGpZNHpfZVI0UlMxUVYzR1d5bzJlZ3hCSnA5UjkwVVQ1SkphUWo3bmc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI Symposium on Research and Teaching Across the Humanities and Social Sciences - University of Tennessee at Chattanooga",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejNvZS1hcUF3emh1Q3FsSzZOTXU3RjB5N1pJYUM0RHgzQTJkQ2UwTnBTNElURUZ5Q184VmNRdnk4dUZXaHdEaVQwcHdNTFFCZ3hSTDlzbGRZWkYwR294UlJXTDdkSzBweUJrc05qWkxsVGxtVERUVUxFeGlGbHM4VWlZYkh2SWxHRlZtdlpxcmRrTDI0ZHAtZTlNOV8xck5xcUU5STRmNmw5Qzl4c3h3UU05eUJxcW5UdUVudE4yR3k?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 20:41:12 GMT",
+      "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios - RAND.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 13:17:54 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "White House unveils billions in investments for Genesis Mission - Nextgov/FCW",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZU9qSXJXSjJMNW9qcUpzMENVMzBxT2FXdUVYT0w1YUNNd3FacnRDVVktSG5ETnUzaVg4Y3JKWDJNUlZXeWJrMklPVExIcHZoVldlYm9QV0ltdUpjOG9oRmszTldvLUpKZ1hHRzZ6Z3kzTkgxTWFLd3hLT0ZIaU90T0dpQ2lnWWxucHJZOS10eVdSdEtlWnpyY1RHYWNYODFLb1VDUXE5eHI0TjZwUkZ5b0RyVjBkWkJidU5NcQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 22:34:00 GMT",
+      "title": "Book counters AI hype by examining how researchers talk about their work - University of Illinois Urbana-Champaign",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUo5bmR3WDJ5ZUFFMzFWQVQ5UzhrN0doS1YtTWJ5LVc3RFFDNHVESkxRX3BKNXdHbWhXWnFmcHBneWJQSnh2YnRDcHFvWTlRMHJ2eHRJVmhYVEQ3NWZjV2M0aHM2NmpESHRtYzhOeHhoeV9WM1QtVERVdms1WGxrRzFyd201Q1RGMjBmS3lVX0J2cGNWdlplSkNueFhsbHI0?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 16:24:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Why Don’t Some People Use Chatbots? - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTThidXVtVWh4ZGZ0Y00wa2tWMHVBMFJJUVJTY1lXMVZHVjNKN0UzM3Q0OFdhZVFBeWExUU9FYWlJS2VUYkhuX1pnZnVVYjE4QnZMYk9IckhRV0hvM1Nfa25CLS1VZmNHeFZVUmdteG9IOElMZzk4X053ajdZbm1MaVNDeHd3Rko5TWo2TE1R?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 16:55:08 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Research reveals the ways students really use AI to write - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTJtMGJfZVJkMFRuclVJSEY3eTIwaXpMTjBPdmJadkhUanpXREhCaktzVHpFRy1sRkFtdjItX2JoWWM4SGdtWjd4aFZOalBLeHBOMnZyR2drU3l0a2ljMEptN2hRT3VrVG1qdTl3OXJuNzhMRmVON3ByTXpGTGlsbF9hOFNSV3hG?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 19:12:12 GMT",
       "source": "google_news_ai_research"
     }
   ]
