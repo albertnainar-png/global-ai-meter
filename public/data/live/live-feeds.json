@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:50:02.015444+00:00",
+  "generatedAt": "2026-10-12T12:00:20.474677+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,21 +7,111 @@
   },
   "items": [
     {
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "url": "https://arxiv.org/abs/2610.12536",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+      "url": "https://arxiv.org/abs/2610.12542",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+      "url": "https://arxiv.org/abs/2610.12593",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+      "url": "https://arxiv.org/abs/2610.12596",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+      "url": "https://arxiv.org/abs/2610.12598",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+      "url": "https://arxiv.org/abs/2610.12655",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+      "url": "https://arxiv.org/abs/2610.12659",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.12762",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+      "url": "https://arxiv.org/abs/2610.12781",
+      "publishedAt": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "US awards $159m to 12 super intelligence research projects - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUxmWk9nZHpqQ0QwSVJHRG5vZ3cyYmNJQUlIeDFkd2l6YVRURmo4QlBjYk0tNml5bEY5dkdqX01DRHY0V0lzTS1PUVhwVnYyMHgtLXYtN0o2elFBSDVHMV9rTUZMT3ZUMUZvZ0tFM0p4M18wN3diSmFUdmNKLTBaWHIzby0tYW9qRVRHS0RUME03WS0xRWpDZmJlazV6ME5PSG9lcw?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:17:47 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Study Warns Automated AI Research Could Trigger an Intelligence Explosion - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMU92ZURqVnR6RXpWOUZQaDBabFQzZjBwdEVfXzhfOXVOcXRsQ0l1by1EZVVxdmxGRFJlN2tFTlFkM3ZfdUZmMmRMVGZjUU1HekEzVjVhNm0wdTVvY0VQVjNXSHZpN1QzOWxISkxJY2xqdlQtY2ZZdFI3RHpaU1hlV0tqTGRNSzFEb00yNmtsSEFUbDB4VWFFOTlsR25VcWI0M1o3WjJpSTBhRVhVMXpnX1RQc1kxaUk1b2NocEhnYjFTVnE4bXN6b3RyRlpFemdTTlhYNjlB?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 08:01:11 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Universities are making different choices about AI. How will they fit with their public missions? - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3dLOXdrd2IyNnpjakNSWlVQR3VybHp3UkxUSlJua05vZG1hWUpUV3B0aG5SNV9kVjI0OWJ1c2t3YnMtSWFnQThuZFUwbmRoV05Ybzc0bDNFUjRzc2VORnVJN3N3dmVoNjlWQkZPcjBOWXg3czg3RlQ0V1JRRE1MYjBrNjI1c2pYOWllM3JjQ1FWQy1BTVZOVkgwUzQ1akYxemM2RGN3eDVqNEFZRlhBX3lUd1hkRWRQY1JURWZPams4SVJmaXBSVzBn?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 08:37:26 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Super Intelligence - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 16:15:18 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Institute of Technology",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFNiamg0VkRiaWdHbFYzcU1rRHdVbE5DNzkyZWpqWkwyQTE5SzF6S3g1QWdidUl4aHVkOUZYQTJrZ1I4SDhWYVF3Sm1PanBIRDZFV1BOeS1JTVhSeGNsdUZ3VlFmX2g4QWU5cUtYcjFaREVxSjVvQl9wUHl6OWVRMXM5d3JpZ2FpdnFoVDZMVVVRTS1nakprbUhaaU5xYjV1NmhERTJGYjZ6LTJDdzJ3NlZWUFdLbDA?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "title": "Artificial Intelligence DevOps Market Research Report Providing Analysis on Growth, Segmentation, and Key Competitors - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWFLLTJFcE90NjlheWZtM3dlSFpnWXVUeFBZZVZNNWg5N0kyakxFNWh5UzhuNFRGNGo5NVlnRW5OcHp1RFRyWDE4LUlZcy01aThHcHlla19QZGI4Si1xRXd4d0l5eEVkZ3V3TldTM3F6WG5DTjhoNUQ1RzQ2LWdkU2dfUVRub19jSXE0TlR5Y1luLUtqVllFU3ZOTTNzWkZSNnEtMm1KdHoyR0pwLVVrdVJNckExcUQzaWhiWmgwVFdrRkU3ZXVQd0lkeU1lV21YNUhKTWNSX09ZR0s5LVFKTGlBc291cTBTbnV0WDFR?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 06:27:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Collaborative research using artificial intelligence to optimize assembly line production - Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJQdWVqWWJIdkVhUjZNN29ncTJndVI5MUI5enEtYk5lUkJIZTAwcnhzWDJHWkw5UlhnaGEwU1lPMWRFbmJTVnFmTWJIeU1DakJ6bGdmNXBOc0gwSndIdFdjY1pjN2ZMek1uYXc4aGwtVHZfR3ZFWkpyUE5CQm40dVJla2kxSlJpbVh1OXNsTzgybXV5UVNxVmJnZWhxRUU3NERiUmliQ3dMZWhZU3c?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 13:08:27 GMT",
+      "title": "New Mizzou-Google partnership expands AI resources for researchers - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFBSDNWSnRxNGtWZUNQalRHdExBSW1keXRfV2lJTk5HRmN2RTIxNXFGbFUxbDJOQ3VEX3NtTFZXTE0xTllHX0JTemtJVzVCVVEtOWtiVHZDelFZa2toMkVHRXI5RDVqUE85RjF4YkV4X29CVEhRZVFWRF9INE5RRHVxYVdNUE1vZ3l2RG1UR2dhanM3d1Y3bUtYVzFORkxKUG80QldJbk1Ec1N3andzY0FnNTBMOEZXS2c?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 08:46:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmZIMUVfdkJvQ19yTHdiLXc2SFJLaENvZzNnXzlGc1VLamZxQVlxSW9jcHMzMl9vbnVfOUN2NEVpMUp3aENYRC1SN19ZMWt4ZDMyWjQ1cldhZUVscnJNOFVGT1daVWlaTlY3dUlYanZCdFYwWXVMVkZ1VzNxYXNRQ2xuRHFkZDhvZnZlSXZiaS1kblpaVXJhZkhHVlN6aUh3b0Z0TmVQOUk1OUMzb1Ryd0JxRlRiRUJsdUJDU2ZnMmRtWmPSAcMBQVVfeXFMTzBTNkE5a3lkTVpLUU90MThBZHBvaG1tYV9wMmoxLW1GY3BCNkxRMGYyc0U0WTZ2UXFVR3h5b0ZFMlh6bXB5VWRQMDQyZXdDY1RrZEwxdkVwRUZtNUJhME9QUmloM2lLTXN6aC03azU5ZkF1YUhnOXVzM2QxQWxzNTZPb3I4WEhhRWxPdnY2YXhQNzlNLU1NcEN0OWwxdkVKVmNFaFpINGZFVnVudDV4WjFvTTVvVFhrNFRyOW1rb0N2MFRB?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 07:00:07 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things - University of California, Berkeley",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 17:40:46 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -31,39 +121,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios - RAND.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 13:17:54 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Book counters AI hype by examining how researchers talk about their work - University of Illinois Urbana-Champaign",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUo5bmR3WDJ5ZUFFMzFWQVQ5UzhrN0doS1YtTWJ5LVc3RFFDNHVESkxRX3BKNXdHbWhXWnFmcHBneWJQSnh2YnRDcHFvWTlRMHJ2eHRJVmhYVEQ3NWZjV2M0aHM2NmpESHRtYzhOeHhoeV9WM1QtVERVdms1WGxrRzFyd201Q1RGMjBmS3lVX0J2cGNWdlplSkNueFhsbHI0?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 16:24:01 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Why Don’t Some People Use Chatbots? - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTThidXVtVWh4ZGZ0Y00wa2tWMHVBMFJJUVJTY1lXMVZHVjNKN0UzM3Q0OFdhZVFBeWExUU9FYWlJS2VUYkhuX1pnZnVVYjE4QnZMYk9IckhRV0hvM1Nfa25CLS1VZmNHeFZVUmdteG9IOElMZzk4X053ajdZbm1MaVNDeHd3Rko5TWo2TE1R?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 16:55:08 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Research reveals the ways students really use AI to write - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTJtMGJfZVJkMFRuclVJSEY3eTIwaXpMTjBPdmJadkhUanpXREhCaktzVHpFRy1sRkFtdjItX2JoWWM4SGdtWjd4aFZOalBLeHBOMnZyR2drU3l0a2ljMEptN2hRT3VrVG1qdTl3OXJuNzhMRmVON3ByTXpGTGlsbF9hOFNSV3hG?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 19:12:12 GMT",
+      "title": "Georgia Tech And Emory Invest More Than $1 Billion In Artificial Intelligence - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUpTcEIzaHQycHcyWFpHcGdUdkh3aXVENjJDREdiTjl5cG8wYVZQREpORmdTdjJjTWgzLTdVQmhoX1hDR2ZLRGFPODRFRks5Tlk4MzBoNER2eGxSNTcyQWQyc1kxb0ZGXzU1d2ZObmJ0eTNlY2Q5WTkwSUZ2V0xOUEFQQ1NpUXU5ZXZnWXFFNlUxcEF3SEF2SUJPelfSAaIBQVVfeXFMT09FWlZuMFBIV3lCN3V5Z0lnRUk0UFFVZG1hV2VjWGxLX0kwU2t6eWxsT3UwMUN2R1hBZHV6NV9RQjBtNmRvUFRYMTdFU2xjMWFOcXgzMVNYNzg0RXZ0aXFmTVpnazBUQ3Fwd3dqaGQ4U0R6bEtoSjludTJTVEdWR0pqMDNfNnZiSHotdmZOWUVYZUdpZGQtdFFaT3l5ZlpOTzd3?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 17:42:01 GMT",
       "source": "google_news_ai_research"
     }
   ]
