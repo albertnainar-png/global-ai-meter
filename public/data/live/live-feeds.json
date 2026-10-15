@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:31:42.722023+00:00",
+  "generatedAt": "2026-10-15T09:09:23.516487+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,109 +9,67 @@
     {
       "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
       "url": "https://arxiv.org/abs/2610.14005",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "The Silent Failures in Agentic Data Science",
       "url": "https://arxiv.org/abs/2610.14115",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
       "url": "https://arxiv.org/abs/2610.14118",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Correction Training for Diffusion Models",
       "url": "https://arxiv.org/abs/2610.14136",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
       "url": "https://arxiv.org/abs/2610.14146",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
       "url": "https://arxiv.org/abs/2610.14149",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Unconstrained CTI-REALM with Open-Weights",
       "url": "https://arxiv.org/abs/2610.14180",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Visualizing the World Model in an Agent's Value Function",
       "url": "https://arxiv.org/abs/2610.14186",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
       "url": "https://arxiv.org/abs/2610.14190",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
       "url": "https://arxiv.org/abs/2610.14209",
-      "publishedAt": "Wed, 14 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Thu, 15 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Super Intelligence - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 07:59:03 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "The Virginia Senate receives new research on artificial intelligence - WVIR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRLRFJZa1JCT2d2V0RMNHVLVGpUekh5bkl1TGF6ZkVDcXZ6VEppazRYQ3JQa2xla0tlV1E4TUhzZk85blJiQXZxVzBwbEZSWmNjenloUFZ6NU1KOFowY3lLZUtjREZfcXBXV1NHMnVCV0hmTlVWUGpQQ3BscHg3Q21HRXI3Zm5NeWdYSnBqaE91TlZOSEJrRTNlMEbSAbABQVVfeXFMT1UtYmQydkVpdy1wLXJaOUxFOXRPcjZQaGpHTV9mUHhzVzZIUko2VERzc1hfdElpbmpoSjhpTl9OMDFDWHVJemljWERoLURodkhkUnM1RWJ5Rm81a2hrT0l0RHRWUk03a3ZOUzlyZENwSDJuRHM3U2V2dFNpNXdja19MOTBlUVRFV0RGUTZ4ZnoxS2l0SEk0OWFya1BoUHFHcXhEUGVlczZmdFdSS3lVeHQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 00:14:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "UVA students and faculty grapple with AI’s place in the classroom - VPM",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXU0YlNaTkE4SzRmOHB1aWE3V29oYjBweEFQak1pZlRwYWN4d25sRnlnOXBJSEVfQk5zY1BwRHNqTVhXSmtnbGVJZmN2UDBmWHJmRFdsSUFiOFNJamFOeFF2b3BrTTFPcjdBNk5nSWRhbm1vS3J5TnpBX3AyUzZrdk1ObjU0YTktT1lRelNIZXBNbjRHUFU0c3dwT0tCZl9iMi05dV90c21PdGxRX052V1F4Vnh5Y0lLMHpBbktB?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 09:00:20 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Inaugural X-62 Research Symposium represents demand for America’s first AI X-Plane at Air Force Test Pilot School - Edwards Air Force Base website (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOby1JUWJFQ0ExeHRkdDgzNl9Hem5KdFNfY1VxQ0ctTE1EQ3l1alptMmFLMkZTeXMwak1BU0NPcDlNUVgtbHUwaF9DR1Q2am8tNkVjZ3lTM3J1dDNCRlNzc2l4clUtNmlSeU45dnJFT2Jhd093eGh1WUhPRWdsZGRndzdYTHBYemFla3J3Vk9DZnJtblJONWVFWEtlSFNIRnU2UVNNZGExRGEtcUdPV0FRVHl0aGlNUV9EYndQaU1jbDFRN0FXNnBRUy1uUHhZbGhDWmc?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 23:33:25 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI-powered biotech could shave years off of drug discovery - The Stanford Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1ZtLU81NDlkVXNBeDVlM3BBbkE4ZmZVNVlEUDB1aXp2UTRKVm5KOXdXY1plV3g1LV96ZEVhdjIzc1pKYXpwT1pqS0tCZ1lQR3dqRDBCd202bTYtVFBCeVMtcGgyMHVscEVia2g0b1NsU1JBVF83Rk11WlItMy1SZF83Y2RrOHJEVmEwd0dDZ0w5QlhCaWdEYzVMdkQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 09:04:28 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "UA Little Rock students explore the future through new artificial intelligence degree - UA Little Rock",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThabjhNSjJHcDgtYjV1ZERFTTVoYXpXWE16SWl1WWpSalpabkRvSXg2YlVTOFc2azZMWEtkNmlWQkdYa1VaRWkwcENOR0h1SDQ3VzNhNkI1akxmVktwd2tXWkFPS2ZnSktaMEw1b1hNck9GQ1RyWFpPXzlLWHhvOUE3Rjg2WmtXbTllZ0N3emh2STdkOVRyUXFrMFZUN2JBaHhwVDd4Zk12WUViNXRhQzA5eklBVVlUbXdN?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 17:06:03 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnR6MTFXNzU5M3B0eXhNdzdFbFk3QnBkcWtEZTQxd3NfUkttOGJxeVdvS2VMazJIeEttVDM3aHh2VVkzY0ZvTmFoLXhEN1RKekdaemMtY1ZzRHdQbjZVaXZTUGN0Q1c5dzRacWg0X1BvaHpQR2s1TzhlUXQ2SzN4TjRJMEdNVDZZdHI5N3ZCdFg1X2NDUEwwOXFhR2lHR1BaZjdSZVc5X3RfTVE5WmJOQWZfQmNlNm9XVzM1YzRjMkthS2JXYXBoZw?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 17:05:11 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Rice launches transformational AI initiative with faculty hiring, new programs and facilities - Rice University",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWFhGb2JpUGQtQlQxVzZFRHNycVJNXzdkZ3ZSVGI2NEs4UFdaR05vMHpqd182YnpyTWV0VzRlMllqTFFRT3ZBV2c1RlFNbTZLZldNMlNoVkt2SE5FV2lsZnAwWjd1Vi1CQzdHTmJyV0N5eWFUWUducDZ2Zm1DTUw5WHlBX181VEpxUGI4SlRva2JuZ2x3aERvcVpMVU1CdXR4SVByU0IwdG80T2xyZVRCOFFrQXVCUDBXWVBF?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 14:54:45 GMT",
+      "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs — professor argues that the field must focus on building community over raw solutions - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQZjlUNWNxdzV2c2VGVUg4ZFVTMF9XZG4wd0ZwaDNkbnc4MF9yVks4aFZUUzdxd1NhQWVHdnZLZzkxSXNNZnZILUV3cjlfUDJjNHY2U3ZJN1ZId0ZZcy1FaVBuVlVxWWhNLTdZVWtDZ3RjcWh0QUswSmkzY19NcjRvamo1bGhsOHR6aG5URHVCMmRvdWxXZGhTdUs0N2duUU5qZ2tlRE5EWEFnbEVaZFBQZlZyM1pVQ2QxSTQzaFI0MHpKY1ZBTjVJbkNUWmZhMFMxNXkxRDBKLU1KZ0NsdElOTlFhaHFkQUNWUExwU04yVHVKTjBtVW5kcmpvZkdpSm9vZDRsZTRuTHF6YzE2NUhrRWYyNkVoMmF5MDlBcUdDblZRWTE3bEJRbmw1Z25KN3JEX1lUa2N4QU9URXBWYmhCLVVsY1BVQ25pd25iS2tGVjV5RG83d3k2VkhMU2czRGVGRlBQelBWVk5BTXdlR0VNNjV4X0puTW9VMmpkMm9UWmpkTHVLWkJ4RGNsN0lVdXk3NFE?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 12:30:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -121,9 +79,51 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "MSU named founding member of Southeast AI research partnership - The Commercial Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXYzdjRjOEx6SFVWMkRERGJfMlk1RThQSk9MZXVuSzc3VUFfOXhERGVZeUppbW10OTVYWUp1UUJZRWM2TkJKZGU2MHRyQzRXTmpPZjZPZWhTOEdqcFZBNmN4RGJOdmR6c09MNjlMUEJHdnd1OXBHdE5QRmtXazFfNlprUjJzZUpSZDBXVDV0TXF6ZVBX?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 13:01:18 GMT",
+      "title": "OpenAI's latest blow to mathematicians: 'They have annihilated my field of research' - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaVl1TzdNYTVLUGZ4YXo5MFkydzZsSHJfd05mdTI3eWgwU0FIclBibTJTeWxNUFVBZmoxZ3RZSHJpal9JUWRFcXhVdnV1aTllS2g1WHNiaU15SkhvM19DWk9PcTJmMTQ2WWdULVoxcE1mYlZBOE8wcFZCRzY0amtSTzZydDlIMENDcW5OZ1NhTW9manNLc3g1UXFOSzlRV091RzNvc3FHelNuNk8xR2g3NlI3cl9iU2ttQjU1NWN4aWVCRjR0bEtYRHhYTVNxQ2EwYUNpMUxNd2VSa0RlSzFTejcwcTM?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 13:30:07 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnR6MTFXNzU5M3B0eXhNdzdFbFk3QnBkcWtEZTQxd3NfUkttOGJxeVdvS2VMazJIeEttVDM3aHh2VVkzY0ZvTmFoLXhEN1RKekdaemMtY1ZzRHdQbjZVaXZTUGN0Q1c5dzRacWg0X1BvaHpQR2s1TzhlUXQ2SzN4TjRJMEdNVDZZdHI5N3ZCdFg1X2NDUEwwOXFhR2lHR1BaZjdSZVc5X3RfTVE5WmJOQWZfQmNlNm9XVzM1YzRjMkthS2JXYXBoZw?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 17:05:11 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Georgia Tech Receives $5 Million From Google.org to Expand Access to AI for Scientific Discovery - Cloned - Georgia Institute of Technology",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblVRVmtrMW44MS16ZXNBRW9walo3cVpZTXh5U3ViRHhfSWFaT25DaEU5QnBDNDZaazlIQ0lEc2pjX3o1U19VSXd4SUs5Y2xiSmwxRlFjNFBKR19hd1ExTlR6Y2RhYmFjTzJTTHYzcy1leklnYUd2WlgwcGlSVUl4S0FkQUY2M2puU0Fjd2pKci1MdEw2ZnBPeVgtMHBNdmFmZUprU1NQamY4Mmc5VmFqTUFwWkhSWFQyQy1UV3dBd0phRnRqc1B5SjdB?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUkdGM180aEIxVE1UejVVVTNMRGRKRzRpdVlta1l3LTI4cVBaTTlmWkFMQV9iVDJBQ3lfZEJSZS1NQkJlbDZIOXdhNnN4WlJwX2IyM2IyWEhMVlZ6eGpiaVhvODhaSnF3dHV1aEJfZkVEeWRwX2FxN251Q0NLQS1rQ2FhbGwtX3JEVGZyNHdpX1kyNXNFRmpxWmZLSmFYdmdReVR0Sy01NF9LMGxxSEhsM0R3eEk5R0JHaG9zTS1QQVFyd2M1SDlZb0hSb2FqdHViY3Y2UTBEdE5kSmZQa3A1WEEzZTBwRjlSNmd6T2Y4anJLbGpuMDJidGtwZ1FSTG9nY1B6UTd4LXVselhjM003bWoyalZxYVhfdTd0NG1LcUxUeE03UEduNjh3eTUxV1BENEtOWUpGZUtfVDllSk44OEVub0hKMzZlRWQ0VTlTQ05ydlp5bEpSUUhvb3RBQktFdkRSNjhPQ1k?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 16:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "A-State Secures $2.1 Million Federal Award for AI-Driven Steel Research - Arkansas State University",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlN1cGNUMC1JaklHcGljVTBPTmZXODhidDdIMVVmUklqUW1VZnFwWVllTVkwWHQ3S3FvRE5YeEJMLTNjcFhPdmxSSng5S2o4bkpRcXUxNGh2RF91RlJnYkFuaVhGUXhBM1NVdEJrOFYwWHlwMUNxMUNlWWdFNF9YY1dkSjM3TlBFTlljOHZ3U2xKdzVkeGRGdG1lLUNLcjRMTV9kQS1LZWNWMndD?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 19:14:57 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Super Intelligence - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 22:05:28 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Six New Faculty Join USC Stevens School of Computing and AI This Year - USC Viterbi School of Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJ2TUJLSXpGTG1EbnRtWVhTVm9XbTRhQ0ZQejJEQ25rRnUzNnRiRVoya3dmV0tIcHBCVEVUOHl1emRjblNqS2hVQTMxNEZOc0ZteHcwZDY1MnZvU3BMUERRR3ZkVlZpMTVVcnFwc0JXOGFITWhDZGZmdFZwQ1JoaDJLVHJiTXFTNTRTR0Q1ZmdPMy1YS1NvYl80QnZFVUh6bHN0MFd6ODFOYWZhSExzd2lpcw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 21:55:56 GMT",
       "source": "google_news_ai_research"
     }
   ]
