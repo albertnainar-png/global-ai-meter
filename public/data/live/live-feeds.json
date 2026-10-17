@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:02:06.379670+00:00",
+  "generatedAt": "2026-10-17T08:33:59.887768+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,103 +9,85 @@
     {
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
       "url": "https://arxiv.org/abs/2610.20665",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Evaluating Model Capabilities After Benchmark Saturation",
       "url": "https://arxiv.org/abs/2610.20667",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
       "url": "https://arxiv.org/abs/2610.20669",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
       "url": "https://arxiv.org/abs/2610.20675",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
       "url": "https://arxiv.org/abs/2610.20676",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
       "url": "https://arxiv.org/abs/2610.20679",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
       "url": "https://arxiv.org/abs/2610.20681",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
       "url": "https://arxiv.org/abs/2610.20685",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
       "url": "https://arxiv.org/abs/2610.20764",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
       "url": "https://arxiv.org/abs/2610.20780",
-      "publishedAt": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 17 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Summit explores promise & perils of AI - Inside UCR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzdMYlgwVXNtWWwxdVc2N2JXVElaeGxnWVYwUkZFWHd2SHBoV1BWeDExVGswVnl0WkFfeVBYSW9nTFN2UXY3VV80Qk12QmMxNlZpM0dkYXJiTUhMdl9iRTdHZ2dQdnk0TXVlRnZ3Snd1TFAzN2l0S1BhcFZqc29MOEIwU2k?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 00:01:01 GMT",
+      "title": "In Brief: UT-Led Fusion Research Team Wins Google.org AI Award - UT News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYURMRExkX2dvZU5Yek5Xb2Rld0hPUXhjSkVKSDd4WHNOUEpQR1RpTmpFY1VKVUpZMXlsSUplTHpSZkFqdkNHOTRCVW5FbWM5OW9QZ1cybDZPd2FtVlNpWEFNQU9YSTFjRjVpRHpLQTByWGVKQTdEMzF0ZlR6am0xZFRhZ285WlJLQTZvQU1xR21rb0o0RjBjb3FYNFh3QQ?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 18:02:15 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "NSF Awards TILOS $15 Million to Continue Advancing AI and Optimization for Intelligent Systems - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp5elhob2VMcXJlSUtqQlhoVkRhTjkwUGJOdTUtWjRVMVhtZGdsUzRXcElpRkRtaWpNNVlqQ2wtamtSa29fRVVIVEFxeXQ5MUJwcHlySmFHR0Nrb2loRHczbkVKck9FMmxWRGdoMm5QY0NUdEgxcEJyb1pfWUtTTXF1US1jdFlfLWFHczhLX250TS1MZVpuLVB6UXdFUE1ORDJuZ2ZpYVV1cV9SemVramdCNk9XU1FGS0p2Y1pHbVI3TDFnQlE?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 20:37:52 GMT",
+      "title": "New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 08:24:20 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI use in STEM PhD dissertations reaches 29%, study finds - Chemical & Engineering News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc242U25saEMwNFdRaVdubks0dlp4WVdPWlhubzBJTHh4cFB3UFpNYVZnRFZXRjF0LU5yX0RKUVg4TjdSZlAwc0dDVThucWtQVGQ4b2ZJaFY3Y2cyZ3ZVczJQaHU5RXd2Ri1VYTN6TWxDeVZSWFdRZ2M3UzZxLVFNX1ZZWXg3S0xtMlUtanJ1TkNnbWY4QlZKOTFleHowbFlpMnc?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 20:28:48 GMT",
+      "title": "DOE Releases Genesis Agent Skills to Support AI-Driven Scientific Research - ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMkVrR1E1LUFoVmtkWW5WOUZzRE95SEVmTXNwZW5BSjkyNlZ6V29CakYzVHNndllqZ2l6NFFTUHFhWXhKM3FWM2xKWUNScklmOGpzMUJJVmFlTUZuUVlfTjNCMG5XTHBsa05xd1Q1VndMLURLYnhNVEVrMFViUE0?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 20:52:42 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "First Large-Scale Study Shows How Doctors Use AI in Medicine - Harvard Medical School",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVNxc3V6eUptVHlSaU9zUzAwTkRfVlo5MlpBQlVNenpSbC03djN5M2lRWFNJdkFtRUxPWFRUUjhjdXlwS2JBcG9IWVNPZERSUUZmMW1EdXU0V2xPOHpwM0MyUEt5cEh4MndqTzlUNXk2bjQ5QVQzc0ptVlB2RWJabDU2RW9sVEwteFNfeXJSOA?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 21:13:59 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "A-State receives $2.1 million grant for AI research in the steel manufacturing sector - Talk Business & Politics",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUhDWG9ycnFyNDktQWxKNktTNGhWRk84Vk5kS2puT04wNVFrWkJTelRkLW9zc0pBaXJiSUVIbGNzQk9ObkRHMHU0MGROc3cyVnNjTVQ5ei15TFpNUERFbkdzU1BjTjBYVlNpS1VuUHExc0RIdlBnMTh5Sk1HaXJpeWF4VjFFVDBsM1RUTy00azZpWEZ5TXJOY1J2Y3lIN19mRUZFTWgtcklSOVJvRGtwZDNUcVpsanhRQmc?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:00:41 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Transportation turns to AI to trace research grant recipients’ links to foreign adversaries - Nextgov/FCW",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZGEwSHdBOE9WeXpIbkJ6VWJMMEpJYmloSmM4bm5nWTNCSGUtSGlpVHpkVVExVlBwWHNFYVRlWEZkT0ZWMFZKa3VYd3UxM3Rjc01vQlNHVkhBamlIMXZ5SjRoZk5JTXR4MVNza2h3RFJPRmd2UVNSTnFsaGY1WVllVmxDQndaRFZ6ejc2UWRSdUZZY3d0V1g1ZG9VMC1qTmtOTTNxRnVmQ2k0N1p6dzBwQ29FTDRQVjNLeE9LSjRXTmEycUZPN3NXNXBIRGQ3ekNKdEF3SnhTYUQ3WVR1ZFN6Vjc1SC1pY09xaDVURjlZQm1DdUJIZ2p1aGdpMDg?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 18:13:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "We Need Research on AI in Schools. The Feds Should Fund It, Report Says - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNU5VelktQXc5eG81bm1mRmdnaWpxSkpId1M0TjZ3eW15ZXY2S05kMzZIZ3A3WER4ejYzX3R6Q1YxVDdrX1Z1Tl84bHVRNjVFdzZjWjI2RTlsMHZCMjJ2ZnFSczF0U3hQOHp5dXdiNk8wZEhTWWJfT2dJMmd0ZGhvZ0NGdUd0b1lWSS1mT3o0ZTZqVExtQUY2enUtY2VScWY0Nktmd3gtdEdpWl9OSEFDbg?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 20:52:30 GMT",
+      "title": "UA Little Rock’s Nitin Agarwal Shares Expertise on how Social Media Shapes What We Believe | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGZLVVBta3d4X0ltVFpzNW4zdTFRODJwdHlnbEdZdzM1Z0NRMk1RTHA5QzJhay0yNWVNcXkzTjRTQjJEQWRDTG9tNEg0dnY3ZVk5QlM1Y3hTcno3UjhkajZoU2N5UXl1eEl4UW0yWjJmakUxRnpUQjFPQm11TFlTRVdkcVp6cy12LTNxUGJlUU93TUsta2RJRHlnMlYxaHBNckttYm5JTmVkOHYybzZEcF8zZTNwUlBqbWM5NHRPTkpoQdIBwgFBVV95cUxOMGZLVVBta3d4X0ltVFpzNW4zdTFRODJwdHlnbEdZdzM1Z0NRMk1RTHA5QzJhay0yNWVNcXkzTjRTQjJEQWRDTG9tNEg0dnY3ZVk5QlM1Y3hTcno3UjhkajZoU2N5UXl1eEl4UW0yWjJmakUxRnpUQjFPQm11TFlTRVdkcVp6cy12LTNxUGJlUU93TUsta2RJRHlnMlYxaHBNckttYm5JTmVkOHYybzZEcF8zZTNwUlBqbWM5NHRPTkpoQQ?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 23:15:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -115,15 +97,33 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "New Penn AI platform allows patients to communicate directly with their medical devices - The Daily Pennsylvanian",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkQ2Vnpjd1hhTHlPSmJLaTJHdFVueW9OM3Fta2d5UF9abVRjdGpNOGVKRkFEOHN4c3d1by1DVloxb1JOeV9CM1ZVMGlYZ2Mtampya2tGSUpaS3Y1S2Q3blBvR2lzRVFmQk5qOFlUU1h4cExuZ19Wck41R3l4RGtyVTV6Y2FOc2VUanZ5bHBCWXFSUVlJWEhxSElGdkVVMkJrMkR3U2QxM1pYbEVEal9VVg?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 03:54:56 GMT",
+      "title": "GU Awards $100,000, Year Leave to Three Professors for AI Research - The Hoya",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxtNlZxWHlLcDQyejUyTGV6ak1XcEQyTDNUMkN4MW1oOXRGZ09Dcms2eWk4MFhMWVZjUFRaTDFwX1UwZV92TWdoLXhYNDVoeURIVzBWZlhrM2pJY3RoYXJJb1pDWWUwTjBXVk1pbHBWckVkOWc5akN4NXRNaUE4NzRXRXoyVUdEb3l5UFpfMEFCYUk?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 17:38:22 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "The Future of Competency-Based Education and Generative-AI Solving the Scalability-Verification Paradox through Process-Based Assessment - SCIRP Open Access",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmUWd3TzcxSFZOWHRnT3hHWHhmUHZRZ21lZ1NSVHlzSmJOQ044UmtaRDV1dmdJT0lpWF9DNjJUS1ppeUZQQzNfMGpuMGQzV01jcGlLU3hLZkQ5R3BUNTQ5Y2JHaDROX1dmWTk4ZnVn?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 08:17:29 GMT",
+      "title": "Summit explores promise & perils of AI - Inside UCR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzdMYlgwVXNtWWwxdVc2N2JXVElaeGxnWVYwUkZFWHd2SHBoV1BWeDExVGswVnl0WkFfeVBYSW9nTFN2UXY3VV80Qk12QmMxNlZpM0dkYXJiTUhMdl9iRTdHZ2dQdnk0TXVlRnZ3Snd1TFAzN2l0S1BhcFZqc29MOEIwU2k?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 00:01:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "NSF Awards TILOS $15 Million to Continue Advancing AI and Optimization for Intelligent Systems - UC San Diego Today",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp5elhob2VMcXJlSUtqQlhoVkRhTjkwUGJOdTUtWjRVMVhtZGdsUzRXcElpRkRtaWpNNVlqQ2wtamtSa29fRVVIVEFxeXQ5MUJwcHlySmFHR0Nrb2loRHczbkVKck9FMmxWRGdoMm5QY0NUdEgxcEJyb1pfWUtTTXF1US1jdFlfLWFHczhLX250TS1MZVpuLVB6UXdFUE1ORDJuZ2ZpYVV1cV9SemVramdCNk9XU1FGS0p2Y1pHbVI3TDFnQlE?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 20:37:52 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Mini brain organoids ‘reading’ Braille marks key step towards biohybrid computing - Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTlYwaVZfbHZfT1BsQ3lhWndiRUFNWGRKZ3lZY05ZS2h1RHhyWVR0RmwtLURMbnZndFBnUVFjd1M0dTI3RHA2TXdDZXNFSU41eHdFcGJzYkk1czZJbjR2UWhrTjdQTEttTUJ3bzQ5TnM0UkRPUWh2N0R4cGh3UVdMd3VzT01iX2Vtb1hxUnFoOXExcm9TX1Q1WUNtZmllZ3drM3R5U3RvNzdsTDJ3V05KYzJ1Wmx6THFDZU5MMHhaVm1OQ2YtN0JQdkJ3ekNZb3c?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 04:01:34 GMT",
       "source": "google_news_ai_research"
     }
   ]
