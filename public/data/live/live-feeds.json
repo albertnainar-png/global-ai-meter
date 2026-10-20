@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:54:55.469170+00:00",
+  "generatedAt": "2026-10-20T09:26:00.952727+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,63 +7,123 @@
   },
   "items": [
     {
+      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+      "url": "https://arxiv.org/abs/2610.23866",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+      "url": "https://arxiv.org/abs/2610.23921",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
+      "url": "https://arxiv.org/abs/2610.23962",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "What Social Media Teaches Us About Accumulative AI Risks",
+      "url": "https://arxiv.org/abs/2610.24006",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
+      "url": "https://arxiv.org/abs/2610.24010",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
+      "url": "https://arxiv.org/abs/2610.24024",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.24051",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+      "url": "https://arxiv.org/abs/2610.24061",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
+      "url": "https://arxiv.org/abs/2610.24090",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Cache2LoRA: Understanding and Improving Context Internalization",
+      "url": "https://arxiv.org/abs/2610.24107",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Health Services Research PhD student uses AI to study quality of life After Sepsis - George Mason University",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDZYb0djVGJiYm9sSU5acDBJYVhjMlYzTzJhZVI4WG5tb2JNQW5vNEY2UHJ0UmhKOVNUWGZQdDBFbFZIV0ZaVUl0UXctN0JlR3hXdTZSMUdIeXpseE9PUTF0ZXdLQjRhWTF4V2toT3FDalFDRDNBQmZYMU8xSWt1MFhHaDVIdFN5ODk4Ujk4TVpBZnFJQVdFMklzZXl1ckVmSW5WRXY0X0liYmZVbWNMZk00Yk9hSkJKbWc?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 05:26:15 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001 - Santa Fe New Mexican",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
       "publishedAt": "Sun, 18 Oct 2026 00:30:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "NMSU launches high-performance computing system for AI, water, wildfire research - Organ Mountain News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmNpSDhTS3Rma2dWalFWVGYyeXB1N2tsSlVxWi1zdDFBeUdIRmo1WmhEQWZzazN5a21ULUg3Zzd4QXc5MnBKb3NYSjhvMUU5aGgxVjRpWWdZRERHZWxsYWIwYnRwSVRTNzVuY0VwcjBXTUdxbzlQYzQ1TlZLMm04SGFuVFZ1VC0xUE9SZU5nM3FFRTZpa3c?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 19:05:35 GMT",
+      "title": "Researchers use artificial intelligence to design potential antiviral compounds - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:00:06 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Use of Artificial Intelligence by Bangladeshi Doctors and Its Impact on Medical Learning, Research, and Clinical Practice: An Internet-Based Pilot Survey - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPejYzTml5STJnZnB3MWdxSkdNOHc0YTkxYmNLWC1OQ1ZWRVlPVG05UHgwT3R3MDVqQkNEQ1V4SjBLQzd5LWEwR21nbmN2UktkVVNPdjhGYlUtOTFQZjk5QlZnZXFOMTlOeGU3OFRqRUp1Q1NwNzc2U2twWExGY1A3SldQZUExNVJac2NJSEEtTWloTVRlallmbWY4MTRXZzZxekxZMHBvM3hLRUtRc05yanlpR3lQVmhweE01UXR5OTdqVGkzYTdESjRacUVKS2NiM0hpN1haeXJ3Zmlrc2JQbTcyNGdVU0dlNlpHZE9vX1FlVjBieDI1T0U1RVJXenl0YmlsMFFlV3NWSVExdldmUUJTTlF3bWVz?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 14:10:04 GMT",
+      "title": "‘Just answering the questions is not the point’: Dartmouth mathematicians weigh artificial intelligence’s role in the future of their work - The Dartmouth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNnlVVWxwZVFuNHVuWlA4OFgwUGZBNFM5Z3FlMW9HZmJqTXAtVWFjRmdrUDhjTndjTVNFZVg3ZXZPMXI3c25lNElxNW85LXBZQ1hWd19VaC1GVTZiRnctQ3E3UmwtYjlSWWF0Nzhhbk5rNW8zSjdjTFo5Zk5JMVpqOHltbXYwNGNfQi1PNzJFcml0YXJ1R24zdWtMbS1KVWUyalBDenhUMzhkV09Yb2xjZm5pX19SOW5UVC0zYnU0SDJFQXV5X3hWS1pxRlMzVml1WFlqMEhScUVJTEJ2ckh5SGkwUQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 09:05:26 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Open-access journal AI Horizons looks to expand the outlook of artificial intelligence - Physics World",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2ZIdVlnWWljMEZFdDl1Q2NGd0JTZUl0STVBeHdfdTRUYVFJTVNVYldNS0V2SjZ5ZkZnVXlBRGhfb3p5eFRfazZTN2o3bnBUZWtneFZoam9DT1l0aDVpTm1wclBPYTJVQ1dHRGRLMDNNallDRXRVQVh2SHFQbTM5azZuLURoQXFuU3FWVDR4cVcxVU0zNDBaUDE3b3hDSy14dHgzeE1OYmhPUlpmQmVrM2VUc1g?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 08:10:21 GMT",
+      "title": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVJpY0VOc2tLVk9kZTE4bEZHaWJBbEFmaUFqbTBPcHhBODc3SUdwdnJBU2NuanRVVmk0NDNlZElOZWlTM1ZIOUpoekE2aVlvUmlra1N3dndiZWVTZVFGUXI2QXhnWWF4eHg2RFhlOC1hWDF4dzc5a2dIcDhvQWVGZkRSYU9nNlpkNVlRS0RYNUpDQ19lUnl4X1dYaGFGRWpoTXpFbkVHb3h0QUFzYXZF?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 06:10:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Researchers create machine learning framework for better long-range forecasts - KXAN Austin",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTzBlYWFXbnotVkJsaTVqQW51QzdUbFJWdklabkc1R1Z4dWJpcjJZUnVHcmpGcUR5a0tTd214UzFvRy1LWDlNbS1QRnVaWDJ6aW1LVUtzVC1oeUIxT1NZOXhmNVZoM0hwOUlBLVk4a1UwT2wyOUZmejNlRWJtYVJkNzVvVFJwNGVab0RQQ0tYRWxfelhqS2g2Y3ZTMXFNeDZmOHFkbl9IQVZjeGYzYTg4a3c5Wm83RlM4RHBEMNIBwgFBVV95cUxPX3gyWWdMUmZpdkNXRjNER3N5M2x0dG1Ub01vWEwtOVFkVHZKUlh4OGszV1FKbG9Sai01VldUV1RoSjZmd3d0RXpIRHNKTVRLZHpmWm9EMTNzdmFRRGdVbzJYUFJySW0wN3ZaTi01ck5UazdIbk9wYTFOTnFHaFY2VzNaeHl0VGJibHVYQ1JMajNpbVVrVEdEa0U5NWRVQlh6SUg1MUY3QWpNU1cyYkl1UGxFTm9RYktvVm55dFNadFdZUQ?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 16:39:10 GMT",
+      "title": "AI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment - Mass General Brigham",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenVRcm9BaHN2LV9udXdIRjRWNE5SVkhoeWppMlB0N0YteHBkc2lfMGZXNEFkaURxenVtTlpqRkNGU2xPR1YySV9rSWlZaUlIQWNFUUFYWFFGbzNCdkdmT1FNTUs3WHd6RmpoQUI3X2ZZcGJ4NjBqRDNjajhYUl83NXRfbThBblBxbnZQS29WNjZqZTVUNFdNOWJ2bXVHSGM?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 20:24:41 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Why Artificial Intelligence Could Threaten The Future Of Science - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE1wVU9SRFc5LWdXRHVTWU9ZZlBTNjNpdFV2aXZoSVBUTWY4blVnRk11SmtHLWEyc1VDWXlRN0ZINzdSeWV3bTRLUTF6Z0ZFZjRJazBUZXJ1SUh6MTNRRm9KTWRPUVp2ODVaVXZmdDdxbWhCalFOV0NEbDlDMktWM1FPRDZvWG9fcl9YdXpweFdOZFg4V1BUODB6aGxmU0E1OG1uMzVWdWFyRXNIM3lXYkh1ODZDeW5tNVRqek94SDhfUQ?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 20:54:11 GMT",
+      "title": "Lukasz Kurgan inducted as a member of the National Academy of Artificial Intelligence - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUhFUVFqR1NtdnJFMFFpZDdONFg2U0JQWkRpZlhkTmQ2cm00cnRNQ09QaDdtN29jam42Nkd0d0owQ0l4YU5Oc0MxSElCM2lLaE5qbDllbUlERU1HV3l4a1FmbHRCUnFtOVZleGx0SWUycWI0MXVTaVkxWVhwaTFKZzZ2U3BsSG1IZE1ZZ013UTlRR1FDZENuRmtzNm5RT3NDa0tsdDY5WVh1TzFuNGJHeUNPY1c?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 14:55:57 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "HKU and Global Cybersecurity Alliance jointly establish Centre for AI and Cybersecurity Research - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGNCYktrSU5zZTRrUWtnVlFBVDdldXFXdS1hb1Jhc2tCZ0h1UnlHYi1VVXJ6MnZaTmlNV0hZb0cyaU1HeWFaNVBxZGxjSHJCZXhBOGJEWkN1U0xQdDFfYTlqNVdwNHJ1MjlmSXpfQ29HZEJyaHZBYkhUaHJOdFRQRW1hOG1YaXpEVmh3VWZFSERyNjNYLXo2dkNGdUEwem1ZYy1qNUwyNXA?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 04:05:00 GMT",
+      "title": "Research report: User experiences and community responses to generative - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWk5NdGlvSVZ5T0lnUkYtbWJtYWc4S0FTdk1Zc3FlNlBVMGtTRXdiSHBJWWtFWDVfQ3hFYTJlM3hxeTExSnNEd3JLeHA0RkgzMThsRnR4SGozN25tNWJPeExBZDdMeklIZVJsT19pbktZamIyVzl5RnR5ODE3T240bVpKNENCTzBXNGJyT3RJdDVrb19laEROVXYtNDdWUWZGbTRYZ194Z0JPVHZzc2dtalE0eW1rNmtWdDFrT3pGbmxzLVM1dXQ1NGlWdzZJeGp6bGQ5WEQ0REZ2UVB3cVBwXzN3NXFhUWVLaXFLblh6VWttWnZYcE51emVvanZxWDdnSjdmUFFkbnVQMjFaZjJEX3RhYw?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 03:26:39 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Jisc and Google launch two-year partnership to accelerate AI adoption - Research Information",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzBkVVFtRmIzZXdQbEMxUFNaS0RBZEtDR2tBQ2RBSnA5dUtBT0JYVWRtbTgxSXZmTGlCYVpMQ0F5VWRucjU4S0RLM0UyallIbzRjbUx3MV90bWlvN2R1WjRiR1lwYUt6enlHU1FPUWFJa20tQXI1Tjd3eTE4clBXUUxnZmtnYVc5RmY3TzI4SlRSNndPcWR4ZFY2NDktMko3Yko3MXFRTWNqR1JjOUhLWURR?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 07:56:04 GMT",
+      "title": "Rice University launches AI initiative to spur faculty growth, collaborative research - Community Impact Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORm0zOXpleXZ2c1FwQkRtdFVjaVRLQkRTR2luVElUSUhHUVRJUG5XOUdPUXRCQmx2Qk5uWDhjVkJfTXZXSi1rTk1lVnRGUzVkOXpKLVNrOHdiOUl0QWctbWxIXzdwcEpYYmNpTDluMW1UbUcxeWZMYmxpOWk1UkIwNE9OTjNKYnpEYlZOdG14UGJMMHdHUVJsam45em1ITWI0STBTUmtUN0lvLXFfZEdST0Jnd1Q2Wll4SkdiSUNDUEdrRzR0S0szYjl4UGlTWng1YzMwaFE2UHc2SXNoR3VQWVdBS2Jwc0hUV2w3S1Y5VQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 20:25:15 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "ARI Applauds Reliable Artificial Intelligence Research Act - Americans for Responsible Innovation",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfM0JCcVhyWjRSQVpVVlVmY2tIbVEtT0xtVGM2Y3k1RHhnc2tYZVlXaU1yUkI5TG9zWTVuYTllV3VuMEVVck9yTi12d1dDcXlFdDREdERpN0NrZU5CbUsxbUltTE5GSFBxYUNTZ1FwV2NjdWx0b1FhT2tpQjhUTkE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 19:35:09 GMT",
+      "title": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeHZ4SFBsLWdWUi1jWC1qSWpDVlJoUWdicERad3Bna3hmVVJLUXBTWkxSYm1mbkhOT045SzlkVzM1dklGSURTd1ppb2FfeGVjOGVsV1RHSWlkNzV4bjVzdDdZSlZ2WkJwVERZamQteHhhdjdHNnhwNHdxN0JadTB6MlBjaGJzWXB1cWk1alpudjBNUjJXOVRxakN5YTItQVBoMThDZG9ISEljYXI1UjhEazZKXzV1c2JNNnlDQ2c0V2FVbnByWkF0MC05czJrWmVtRGJiSGF1NWtxcUc2bjlwTEg0bnFwdWFEdktSWk1Tbw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 16:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
