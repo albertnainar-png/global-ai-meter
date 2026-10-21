@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:26:00.952727+00:00",
+  "generatedAt": "2026-10-21T09:22:25.328193+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,111 @@
   },
   "items": [
     {
-      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
-      "url": "https://arxiv.org/abs/2610.23866",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "url": "https://arxiv.org/abs/2610.23921",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
-      "url": "https://arxiv.org/abs/2610.23962",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "What Social Media Teaches Us About Accumulative AI Risks",
-      "url": "https://arxiv.org/abs/2610.24006",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
-      "url": "https://arxiv.org/abs/2610.24010",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
-      "url": "https://arxiv.org/abs/2610.24024",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "url": "https://arxiv.org/abs/2610.26941",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2610.24051",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+      "url": "https://arxiv.org/abs/2610.26942",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
-      "url": "https://arxiv.org/abs/2610.24061",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
-      "url": "https://arxiv.org/abs/2610.24090",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+      "url": "https://arxiv.org/abs/2610.26948",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Cache2LoRA: Understanding and Improving Context Internalization",
-      "url": "https://arxiv.org/abs/2610.24107",
-      "publishedAt": "Tue, 20 Oct 2026 00:00:00 -0400",
+      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+      "url": "https://arxiv.org/abs/2610.26964",
+      "publishedAt": "Wed, 21 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
-    },
-    {
-      "title": "Health Services Research PhD student uses AI to study quality of life After Sepsis - George Mason University",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDZYb0djVGJiYm9sSU5acDBJYVhjMlYzTzJhZVI4WG5tb2JNQW5vNEY2UHJ0UmhKOVNUWGZQdDBFbFZIV0ZaVUl0UXctN0JlR3hXdTZSMUdIeXpseE9PUTF0ZXdLQjRhWTF4V2toT3FDalFDRDNBQmZYMU8xSWt1MFhHaDVIdFN5ODk4Ujk4TVpBZnFJQVdFMklzZXl1ckVmSW5WRXY0X0liYmZVbWNMZk00Yk9hSkJKbWc?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 05:26:15 GMT",
-      "source": "google_news_ai_research"
     },
     {
       "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001 - Santa Fe New Mexican",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
       "publishedAt": "Sun, 18 Oct 2026 00:30:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Artificial Intelligence-Enabled Triage Tools May Reflect Human Biases | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkM5dHJuSHBxN1k2eHoxSWlpZFZ1d2t1ZDNwTUZXeHBzWTJuZGhvUGFKN2FJT0I0VXhYcFBBUi1JdWRLcFB5SHY3VU1ZTU1JTUZiT3VtN2ttOVRxWVpTQ0h2TEJjMVE2Y2NYQkVqZ0ltTE5ZTTNEdlRkTWs3SC1td0ZlV0ZVS1BBTnMzckVWbC1rUzMzc1RXcGpINHRkM3dXdGxSdEJR0gGmAUFVX3lxTE82Qzl0cm5IcHE3WTZ4ejFJaWlkVnV3a3VkM3BNRld4cHNZMm5kaG9QYUo3YUlPQjRVeFhwUEFSLUl1ZEtwUHlIdjdVTVlNTUlNRmJPdW03a205VHFZWlNDSHZMQmMxUTZjY1hCRWpnSW1MTllNM0R2VGRNazdILW13RmVXRlVLUEFOczNyRVZsLWtTMzNzVFdwakg0dGQzd1d0bFJ0QlE?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 22:25:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "CSU uses artificial intelligence to improve hail forecasting - Colorado State University",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2tUQ0hVMVV6bHkxNEcydVdtNnIzU3AzemNDZHE1V0E2ZkpGUkJFdHdIeHYtQWYzaUFjU0JqbnZkdEtScUZjOWk2Y2wzZUJOaGNQUC1VTHFINE91ZlJuci1XbUpUdFlkSG9BNWxPd1lOclEyMkpGMU12Nm02clRZZy1feElETUhXSkFSUm5lNE5aOTIzcGVMMTNETQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 16:29:21 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "1st-of-a-kind federal lab in Tri-Cities to use AI to speed scientific discovery - Tri-City Herald",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QZDhNOFY5eUNVUnQzSm00dmd1S2YzZkVEQnVmd2VEb2g1YjRweDBVRk4yUmxZMW5YR0ptRmtVc1U0NzRBdmFoWG9VSzJHdkt5ai11TEdQLVRQblhRQVdOWUYwaWhzMjdtempzWEJTX0XSAXBBVV95cUxPaFo1cGhDa0hOUkl6VWxZcXpyckVFR1FpM0xPVHJ1WThYLUdLem5hQmhRTzFrMFNwdlhIR3RlVjVNaEN2V0xiczNXTWR6c1BtVEtSUXVxU3FvZ2E5QVA3SDdKSU0yek1xVkNadGgxMTRN?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 01:03:34 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Dean Jain talks funding, AI initiatives, community engagement at annual ‘State of BioMed’ address - Brown Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNGg1c3k5NU5sY1M5S3VZU2Q0UXhfenZSbTRiVjgxQ1VsY1BIR1dPVDFsVE9Bd1V6R3I0NXowNE91NmJhMjNoaGNFa3ptZzE1c2o4SE9ER0E0TFUyWUwzMV9vT0xVMlF0WGkwS0dVMnFnZkdya0libF9FX29LZkdFWjFueHlvT253a3FfQlptY2Itc2FYMDR4MlJwdmI0TWpHemdOYWpmdU85blhUZ0x4cDFla1FnUTZ5SnU3WllNNVQ5WG1LWFpwalNwSzkwSEdrRFFXQnNBSUFaYWs?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 04:43:04 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Research report: Artificial intelligence-based analysis of digital media - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeE5WMVlsdXJrQzVJWklUN3ZyWVFnSE0zdVZENGMwZ0tfVDg4SnFuWWVMXzVOTi1IQzFlTzFlQXRaUElHUTFjUllvZUVEMEpTdWlGRFV2Y1dJcUoxbkdnV0RPT3lmdkpuSEhnb2ltR1FiMGlVWndOcmxCTmg2UUlDb0JtcWlsNVZwV3lQa1dkZDVyRWZKa2FYTHNZVTNWQWRPYVYwXzJoNFR6Y0lKTlNLUGpFODlNbmhsTDM3d2NhRFU4d09RakdhTnE2OGFxYU01ME45TG15Umt0TWhqdVNkZVdSZWRzV1l3VGtUYm83SHdiQQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 20:03:14 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Is AI cybersecurity a game? Local researchers part of NSA grant to show it can be - University of Dayton",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUFYd0VHR3M4a2ppOW1fdG5JQnFFSTZRd0JGQmJuYVJJNEFPREx5LWpVWGZVTlhEaVl0WlAzejdZRERSRVJ5c08zRk8yYjlCSzktcm9PSWI4bDVwQWFsN3pITFdIRmpvT09Zbk52TmZYSDJMbDh5ZFFzNDJKcGdvYmRtTENfMlNQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 15:18:05 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Predicting weather subseasons with machine learning - Harvard University",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWjhPamZINVh0RTZwcjBQa0RreFJTdGh2cnVQYUpBOG1KUzhBWUNzYVRMV0t2NHhzTFozcHc1MTdXUHYtMjZkcmt3UV96Qk83TllyalZsWkZFNkpMS2R4ZV82YW85dTV1SnE1ZkJYclc3VVNqUUtPRjVMdWtIemRXdml3?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 12:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,45 +121,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "‘Just answering the questions is not the point’: Dartmouth mathematicians weigh artificial intelligence’s role in the future of their work - The Dartmouth",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNnlVVWxwZVFuNHVuWlA4OFgwUGZBNFM5Z3FlMW9HZmJqTXAtVWFjRmdrUDhjTndjTVNFZVg3ZXZPMXI3c25lNElxNW85LXBZQ1hWd19VaC1GVTZiRnctQ3E3UmwtYjlSWWF0Nzhhbk5rNW8zSjdjTFo5Zk5JMVpqOHltbXYwNGNfQi1PNzJFcml0YXJ1R24zdWtMbS1KVWUyalBDenhUMzhkV09Yb2xjZm5pX19SOW5UVC0zYnU0SDJFQXV5X3hWS1pxRlMzVml1WFlqMEhScUVJTEJ2ckh5SGkwUQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 09:05:26 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVJpY0VOc2tLVk9kZTE4bEZHaWJBbEFmaUFqbTBPcHhBODc3SUdwdnJBU2NuanRVVmk0NDNlZElOZWlTM1ZIOUpoekE2aVlvUmlra1N3dndiZWVTZVFGUXI2QXhnWWF4eHg2RFhlOC1hWDF4dzc5a2dIcDhvQWVGZkRSYU9nNlpkNVlRS0RYNUpDQ19lUnl4X1dYaGFGRWpoTXpFbkVHb3h0QUFzYXZF?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 06:10:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment - Mass General Brigham",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenVRcm9BaHN2LV9udXdIRjRWNE5SVkhoeWppMlB0N0YteHBkc2lfMGZXNEFkaURxenVtTlpqRkNGU2xPR1YySV9rSWlZaUlIQWNFUUFYWFFGbzNCdkdmT1FNTUs3WHd6RmpoQUI3X2ZZcGJ4NjBqRDNjajhYUl83NXRfbThBblBxbnZQS29WNjZqZTVUNFdNOWJ2bXVHSGM?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:24:41 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Lukasz Kurgan inducted as a member of the National Academy of Artificial Intelligence - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUhFUVFqR1NtdnJFMFFpZDdONFg2U0JQWkRpZlhkTmQ2cm00cnRNQ09QaDdtN29jam42Nkd0d0owQ0l4YU5Oc0MxSElCM2lLaE5qbDllbUlERU1HV3l4a1FmbHRCUnFtOVZleGx0SWUycWI0MXVTaVkxWVhwaTFKZzZ2U3BsSG1IZE1ZZ013UTlRR1FDZENuRmtzNm5RT3NDa0tsdDY5WVh1TzFuNGJHeUNPY1c?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 14:55:57 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Research report: User experiences and community responses to generative - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWk5NdGlvSVZ5T0lnUkYtbWJtYWc4S0FTdk1Zc3FlNlBVMGtTRXdiSHBJWWtFWDVfQ3hFYTJlM3hxeTExSnNEd3JLeHA0RkgzMThsRnR4SGozN25tNWJPeExBZDdMeklIZVJsT19pbktZamIyVzl5RnR5ODE3T240bVpKNENCTzBXNGJyT3RJdDVrb19laEROVXYtNDdWUWZGbTRYZ194Z0JPVHZzc2dtalE0eW1rNmtWdDFrT3pGbmxzLVM1dXQ1NGlWdzZJeGp6bGQ5WEQ0REZ2UVB3cVBwXzN3NXFhUWVLaXFLblh6VWttWnZYcE51emVvanZxWDdnSjdmUFFkbnVQMjFaZjJEX3RhYw?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 03:26:39 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Rice University launches AI initiative to spur faculty growth, collaborative research - Community Impact Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORm0zOXpleXZ2c1FwQkRtdFVjaVRLQkRTR2luVElUSUhHUVRJUG5XOUdPUXRCQmx2Qk5uWDhjVkJfTXZXSi1rTk1lVnRGUzVkOXpKLVNrOHdiOUl0QWctbWxIXzdwcEpYYmNpTDluMW1UbUcxeWZMYmxpOWk1UkIwNE9OTjNKYnpEYlZOdG14UGJMMHdHUVJsam45em1ITWI0STBTUmtUN0lvLXFfZEdST0Jnd1Q2Wll4SkdiSUNDUEdrRzR0S0szYjl4UGlTWng1YzMwaFE2UHc2SXNoR3VQWVdBS2Jwc0hUV2w3S1Y5VQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 20:25:15 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeHZ4SFBsLWdWUi1jWC1qSWpDVlJoUWdicERad3Bna3hmVVJLUXBTWkxSYm1mbkhOT045SzlkVzM1dklGSURTd1ppb2FfeGVjOGVsV1RHSWlkNzV4bjVzdDdZSlZ2WkJwVERZamQteHhhdjdHNnhwNHdxN0JadTB6MlBjaGJzWXB1cWk1alpudjBNUjJXOVRxakN5YTItQVBoMThDZG9ISEljYXI1UjhEazZKXzV1c2JNNnlDQ2c0V2FVbnByWkF0MC05czJrWmVtRGJiSGF1NWtxcUc2bjlwTEg0bnFwdWFEdktSWk1Tbw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "title": "BIOCRAFT Project Uses AI to Develop Resilient Crops Copy - SeedWorld",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXV6RDZHRkx4aTQtQVlNYi1ZdGpaLURpc0NoYXB0TnhDN3ZmQ2FKeXJnY0R5UERxRUt3MHVqVEZPVHBsZ3c0RDJjZ1ZyWGZJelVjV3M4ak4xRkJfSGZqNTlFRXV1X3dLN2h4OVF0bVdXNmRza0xEUDhUZ2pjZFFKdjUxaFRwdEJJd0FlY1c3Um5nYTNiSFJuVQ?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 05:23:59 GMT",
       "source": "google_news_ai_research"
     }
   ]
