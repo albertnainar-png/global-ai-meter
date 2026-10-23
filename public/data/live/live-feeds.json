@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:24:57.158709+00:00",
+  "generatedAt": "2026-10-23T09:21:37.605218+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,69 +7,93 @@
   },
   "items": [
     {
-      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2610.28686",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+      "url": "https://arxiv.org/abs/2610.30151",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-      "url": "https://arxiv.org/abs/2610.28698",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "url": "https://arxiv.org/abs/2610.30157",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-      "url": "https://arxiv.org/abs/2610.28706",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
+      "url": "https://arxiv.org/abs/2610.30170",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-      "url": "https://arxiv.org/abs/2610.28763",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Neural Networks with Differentiable Belief-Function Layers",
+      "url": "https://arxiv.org/abs/2610.30173",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-      "url": "https://arxiv.org/abs/2610.28815",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "When Stable and Preferred Semantics Agree: A Path-Based Approach",
+      "url": "https://arxiv.org/abs/2610.30176",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-      "url": "https://arxiv.org/abs/2610.28826",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
+      "url": "https://arxiv.org/abs/2610.30205",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-      "url": "https://arxiv.org/abs/2610.28836",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
+      "url": "https://arxiv.org/abs/2610.30277",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Speedrunning Relational Foundation Model Pretraining",
-      "url": "https://arxiv.org/abs/2610.28855",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
+      "url": "https://arxiv.org/abs/2610.30351",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-      "url": "https://arxiv.org/abs/2610.28875",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning",
+      "url": "https://arxiv.org/abs/2610.30391",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Fig: Automated Multiagent Behavior Elicitor",
-      "url": "https://arxiv.org/abs/2610.28891",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
+      "url": "https://arxiv.org/abs/2610.30429",
+      "publishedAt": "Fri, 23 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
+    },
+    {
+      "title": "Argonne’s OutLoud Public Lecture Series explores how super intelligence is accelerating research and discovery - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWTlkbFFyVnFpTFRMQXAyLUc5OThiNVpZMm5ZNVlIREdLcThQSHNGbjd6R1hHaVFEMUduZmlfYW5xTW9LcUhKYnZzb2lHaTQxYnFGQUhIdmxCWjNPYzZ3RVBVczJsQU93QWl6QnlXT19zZVowUF9JLUhHSW1OS3ltdUJHeTk0cXVQdGR5WTRycm9SSFJ1SnFkZjFkNGFVUUpPQmh5ZERNRWZkUUVTUzNIVVFwdFhwRTItYVJkU0p0a3RqM1M4eGtJeFV3d0pUb1phM0FWOExBWk9reEpYSHFHTEFDZFpoYUpsT3pzWjNpRGlaWHZPTEs2V9IB-AFBVV95cUxOWTlkbFFyVnFpTFRMQXAyLUc5OThiNVpZMm5ZNVlIREdLcThQSHNGbjd6R1hHaVFEMUduZmlfYW5xTW9LcUhKYnZzb2lHaTQxYnFGQUhIdmxCWjNPYzZ3RVBVczJsQU93QWl6QnlXT19zZVowUF9JLUhHSW1OS3ltdUJHeTk0cXVQdGR5WTRycm9SSFJ1SnFkZjFkNGFVUUpPQmh5ZERNRWZkUUVTUzNIVVFwdFhwRTItYVJkU0p0a3RqM1M4eGtJeFV3d0pUb1phM0FWOExBWk9reEpYSHFHTEFDZFpoYUpsT3pzWjNpRGlaWHZPTEs2Vw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 03:05:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Another Proposal to Rename AI - Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 17:51:02 GMT",
+      "source": "google_news_ai_research"
     },
     {
       "title": "UTC computer science team’s AI research paper accepted to NeurIPS 2026 - University of Tennessee at Chattanooga",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDFtYm9CcDFyNWI4Mjh0SHFMWW53T2JQaXhSZHNnOVVtMzdfa0JLZWN5T3A4a1dYeEtZanJGSEowWG02MThaZUVHRFpIWlM0RkY4a2tFOVpwcHpkel9scVNEWUlkWVhQeFNPRVNyWWs5VEY5VmxZYkJGcUNjVDF2UlVpc2hJVWEyeXRDcHc3VVBFbFAtZF9aT2NMeXVtZVFNLWRqT1Zfcw?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 14:41:28 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "AADL panel discusses impact of AI on academics, research - The Michigan Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTE9ZcHRRajlId1d0UDdZRm1hNnd0Z055YnotaklRbVpYYjZGR3I3WVZ3aE9IR3VKbHhnUnVtdXVDZ1pScVdkWkZ1aTNsX1pHaVFaNENCX1NvWWZuVUw1MW9WUmxyTy1wZktzN19ZZGlmaVJGSW9sdlpnb3RCdTVqakxUcElmd280UVdzMHd4VU52NHYzQUlLclJGTGN6SklPMnNn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:41:43 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,51 +103,27 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI’s role in learning, research, and career exploration—using tools thoughtfully, ethically - Harvard T.H. Chan School of Public Health",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTBDbFlQdXg0UlNfNVdOdHRUTmF3djNhVzRsbThwYVJtNmdOc2Y2ZFpBam82NVBPMU9uOVVpZk1JVE1FRW5GU1RpMFJrb0ljdGxubDl2djJLU0tvOWxvc2dBWmIzMHpKUGlrRHlJM2FmVFA3bDAzSUxTMnE1TmxwV3BCQTZOalhUNWFMc296YmprMWFkbmlmWWtTX25pYmxGb2J1LU50NlN2SUQ0NzA1UUNGTEZDeHBSclE?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 18:35:13 GMT",
+      "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 10:50:49 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjRUTXBvX0NuTXVNOGdRclpOTHNNVXI3alRXeGFqSWk4Vl96bklfU0gtZUJlMllGd3NkRGRGUzYyS0xrMEs2R2dBalFfcmNadGtuN3VvQm9PZVhHY2hiTGpic3gyNUhZMklleE8zWTVGVGhnSDF2R1o2VFp5WmV0ME1fTU1lUmxnTlVLbkNsWC01dzgxYjJmZHQ1YVN1NzJ5MWFlYTNOeFdFQ3IwY2lfRDh2VV8xdjBP?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 22:18:00 GMT",
+      "title": "Hopkins researchers explore more personalized and reliable AI through faculty research awards - The Johns Hopkins News-Letter",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOE5PNFROSjN1S0hMVVRDZW81WHhYVlVZS0toRzNoM2FSVmt3X2hXRkFkaWdZUHdwSFBaNGlLT0c3MEtqWVNxZ0p4ay1tYzhYQ1JVQkFzeUVWYVNpZ1U0eV8waGlNUEd0a213dmZTdHdLUGwxZjh6LUNQUWVyc0Y0eVpCQUNWdWloM1JzYW92WlZuQmRscnZHY1NubW0wb3ZxXzg0eE4xWlF3VHVtTXVDNFhtRUo1d2RHMjFOVHRlekpsRXBobXVrSExwOFhLel8wSDVZTGNR?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 22:30:24 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UW-Led Project Selected to Advance AI-Driven Nuclear Fuel Research - University of Wyoming",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3QySDJEZzc3Wkh3aWk1TnMzbURyWVU2YmpDcUdwZklDSl9tdTNxUDBISHNLN3FqUERIdzRPRkdoV28teVp4ZWpGamtvakxOWTBZb202SGw2NTV1ci16am1pa2k5UE5wUGw3NGtiODBGTHJpUWhnZWQ4MXZ5UldCYlhaUXJQM1FkbTloc0VaMjZpa2JsZWtXNURaajRjUkVDeGFCVEp3WUY?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 17:19:44 GMT",
+      "title": "Flint-interactive: A language for creating interactive data visualizations - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjN2WUluMG1NOGFDZExXR2Vkc185NnBkR053SjU4RVlJZ2l6eDg0QUIxU2xVT0MzeUZfaXh0RnZlbHVKVE9rRkhWdmIzdk9leVY2RGRnX0dvOGJoRFpNZVhXdEk2RDJWNUh5WGw4MUt1VVhldG8zSmlpWkpQbkpVNVJVMWsweS1faTIwa3YzeGdWdW5Hc1llZ2Y4YnV1SmpXRHg4R080aGhYcTdVc3ZFQUZUNmN2TmFrQjd2Xw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 16:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "FSU Google Days brings hands-on AI learning to campus - Florida State University News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWFLMFJNSW0yZTlIai14ZW5HSlZrY0tEbmxEVlQzVlgwT29hZ2RXejROcFMta3N6bktXUGlTUHJxQUVXYVZGcHhSTVdaUGRqX1NFS1EtTzUtLURQRFEyOHpfb1RKX1dTZ1NqeHBwNHdXek1Ha09OVi1NSFFNQ19fdjBWM1pWZDg5QmRSZ2JGV0xsUmY1b01VY1lYc1RDS2N3MEZPbFJFdFNyU1U2NEVr?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 20:13:33 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Research report: Artificial intelligence (AI) anxiety and nurses’ - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxON0RLQmxQOVl3THpsdjNpQzFIZ2hBZWNmQnBtQWExVmV3WVN6QVBYcTFzTHl2ZEhGZEl2c0tLbGk3SDNjU0lxVnRla2VxeUFvcVdBR01STWdKZ3R6bHJCaFRFSm4yNFRGdVVfb3RQejYwX3RZR00zcWZncW5KYy1oTTk4QXBhblQwdTdNcWlRS0k0UWlfTDVxWlJKX0lMRy1MXy1ja2FjQjhRVEt6TUhlZ3ZFQjZJQjhaN1ZUWDY1QXkzYlF4aHVVNGp1cVZqQkNKUWZzb3k0QUp0UzIyM0N5RVlZbVgxR05ZUklCd3VPT1hQOFUwZ2hGeklraE54N0h6R0hkRjlQWGJvU3VJVzIwOG1OQmh2Zkpt?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 08:21:19 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Clarivate Demonstrates Global Demand For AI-native Web Of Science Research Intelligence - Clarivate",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0xCbkd6aGdrclpEODZKUmRIcWNLQlUxY0hXaTZ5N1NUTXZnYkZyZGxyVVk3d2VlZTFWaGZ0M1pGLUNxN3dMVHdCd3czN3NfaDg4bUw1dy05WTJ2SVhzamtYZEUzY01oT3BPbTQ5OWFVTDByeE5OWXBZMXVwdmpGNEtNUzdUNXUxN1Y3Y21FblBna0dOWlFfa3hkYW9mS0N6TGhfX3RzSFM4R3pjZ3BGclpNdUdTQQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:08:42 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI could turn scientific papers into research assistants - Science News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOU5wTHBvbEE5b040emZFQzFQZlA3ZmxIc2xOYUVJdHRKU0t2RWlRc09DekZhZkY4Ul9tb2NPRWg5b295dDZPdFB2QlNMMGFWbjhYRFN4UEZrZG1NaE1SeFRRMEhnV3FZV1otbGFWQS1CejFRdFZCQXBuX0RQcUpRMg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 17:01:39 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Harvard Mathematicians Divided Over AI’s Role in Research and Teaching After OpenAI Breakthrough - The Harvard Crimson",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQzJEODcyZzRTdHl6d1ZxSFpSY01uNUdtMS04ODI4b19MZ0lSd0E4ZmJoeGFIWkhxODBmakJKUDF2dHNkYW02akJaWDcwTnl1aWhFOTZFOENvVTdKT0ZBdXhnTlR3LVJQWG0yT1lFeUhuVzM3WjIwRzFn?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 19:16:09 GMT",
+      "title": "Scientists Use AI to Figure Out How to Speak Whale - Northeastern Global News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISnY4N3F4QU1MSC1UbzFjdlNOZkJaRmx6Rl8xMWROMlVoeTZPcEVCZHEwejdLOWRKM2MxRHk4dll4dDdPNW1oR0pxTzVXbjlfX3Q1VTFNS0dfLWNxNmVHMWI3c0sza0dpaXNTYg?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 21:09:28 GMT",
       "source": "google_news_ai_research"
     }
   ]
