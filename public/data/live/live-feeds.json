@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-24T08:53:04.465318+00:00",
+  "generatedAt": "2026-10-25T09:09:43.794458+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
     "huggingface_papers": "unavailable: HTTPError"
   },
   "items": [
+    {
+      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk9VQ3BTSXpXMldfNmtNZWlybzUwellMSnNzVmJ2YzhLMi04U3lsZ0NhZXhWRWRjaDNpUklTVXU5UkY3RlFkR19FUXhyc3lRX0ItY18zd0RBTTJSN2Z1MV9wMm9vYm16ZWVzY2ZTWFJzZzFPSG9ia3VLVUhyR0FqQjZlOFNPSE55Umw4eFpRZ1d1ejdaSkJ6S3J4VmFRQVE3TFpfMDhKeUhzTEthVkpnM2dMeng1bGxhQ0s00gG7AUFVX3lxTE5WT1VDcFNJelcyV182a01laXJvNTB6WUxKc3NWYnZjOEsyLThTeWxnQ2FleFZFZGNoM2lSSVNVdTlSRjdGUWRHX0VReHJzeVFfQi1jXzN3REFNMlI3ZnUxX3Ayb29ibXplZXNjZlNYUnNnMU9Ib2JrdUtVSHJHQWpCNmU4U09ITnlSbDh4WlFnV3V6N1pKQnpLcnhWYVFBUTdMWl8wOEp5SHNMS2FWSmczZ0x6eDVsbGFDSzQ?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 16:25:00 GMT",
+      "source": "google_news_ai_research"
+    },
     {
       "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5",
@@ -19,15 +25,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Argonne’s OutLoud Public Lecture Series explores how super intelligence is accelerating research and discovery - Argonne National Laboratory (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1VKaXNjdXlIZzdVU3B4U2twdHFxekpMSWNfajNXRjhfclJMZDBaQWdCNnVDVVhIYUtDa3pEYmpSU1BoUldGc3RFeGMxQUhsaERwRGEybWthcTJDR1p1aDM3dzhORi1XUXh1SWVDNXlmZnRzVXFuY01QT0V6cl81UFNCSXdaODU5UGN3V05VWjFXMkxaXzI1UEx3ZS0yMjliTW9Ya0dTbGlqT253UXFsRm9OcW5rdWViWFk4S1Nwc3ZnZUs2ZXc?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 12:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI that serves society - The University of North Carolina at Chapel Hill",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oMEN3anJWNTd3ZnJhZEkyZmV2dU9NdnVYM2hPajgtbUp3SGZxVFNZMVlqMEdrbXRpeXNFSHhNcTRlZEdKVXhrV1FNLUxNNlZQQkpOamRtNXBmZ0ZwLS1OSGN2blhmdw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 14:13:18 GMT",
+      "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 10:50:49 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -37,33 +37,33 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:50:49 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "BioVid Launches Mimetics™, AI Research Audiences Built on How Physicians Reason and Decide - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDdyQ2wyUGFSZE5LdHVaeGtqaE05X2xFT00tckk2SWFIbWJjMzBrXzU4WXotR1l3TlI4S0JxbHZ0OWFsX0JDV0lkdmV3OGNlWjBycWtjeU9XWGNoeHl4TF9VRl9mdkxYMFNNdlM0N2ZUYTBWZTNZeGNoOThRUU5seUw1N2dPYjhXRG9vYVpwVGdKdDBnaDdLYmdKSDVNVG83OHpfNXVkUGhva0ZqR3BVOGpTdFdnYWstRGNWaDFhSQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 22:35:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "LSEG Pays $3.5 Billion to Feed Wall Street’s AI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVFEYTJBeDJrREtRZW5PbHdJOWh3dkJ1dUkxV29zYTNXbEJrWGtNMXVlSG9WbjIyYnAwOWxIenBXVkV5RWNzVVNNdFBsNTR1TkNOTGM0X1NndURzMjRGenMxOXRQaUZoZkNEdElDZ2JfcEloU0xYYVJpX0NCVVJmYV9QQjdBdjl1SEJyNG9la2xOa1B5bkpNbHhITVphc0tJSmFhOExiNjc?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 17:52:08 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
       "title": "Another Proposal to Rename AI - Communications of the ACM",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 17:51:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "US residents favor AI training for workers, Northeastern survey finds - Northeastern Global News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBweE1KbW5nTm9zcUZTSjUzSW5nLXdLbXB5bUIwaS1JYU8xV1N6VzFHaDcweDRhNVZLR0FVSG9rcjhET1o4aUZVTTJyNG9xT1hNSHljTFVLRDRWVmlFSFY0UmloaDM5RTNaeVprZQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 18:30:25 GMT",
+      "title": "Artificial Intelligence Advances CNS Autoimmune Disease Care - EMJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGw2ckNQSURfaVFLNTg2MUhERWI4WGhTZllVVDhVTFFqQWppSlhyWUIxOC1fNTJ1V2VQTTluS0VkM242S0RjTnJFdVgwX09NdTNTcWlTMUlPTkRoN29Lc0QwZU8zSWJYYU5HbkNQS1l4d3BPU3pfTmpJd05lT3c5bDJzZ1lsNlFnV3J2SHMwQjBwS0JEMEh3LXBsZE9nVWlCSEhCSXVn?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 11:05:23 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Study explores how AI use affects performance on math and reasoning tasks - University of California, Berkeley",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "In the age of AI, what does consent mean? - Sudbury Star",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSZ1E1dUkycDJLZVZBbU5aWEgwdV9SQjFoWlhyNy1yZWVIOXpBNXplVHo5NGp4WUZfXzVYTDMwLWtkQ1BRdDkyN2ZmUWlESkhMQkJ5bXNMVjFjUlQwNmRLS2FDWQ?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 08:12:22 GMT",
       "source": "google_news_ai_research"
     }
   ]
