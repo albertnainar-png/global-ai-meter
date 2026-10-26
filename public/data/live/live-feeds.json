@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:09:43.794458+00:00",
+  "generatedAt": "2026-10-26T10:08:31.375742+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,9 +7,81 @@
   },
   "items": [
     {
-      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk9VQ3BTSXpXMldfNmtNZWlybzUwellMSnNzVmJ2YzhLMi04U3lsZ0NhZXhWRWRjaDNpUklTVXU5UkY3RlFkR19FUXhyc3lRX0ItY18zd0RBTTJSN2Z1MV9wMm9vYm16ZWVzY2ZTWFJzZzFPSG9ia3VLVUhyR0FqQjZlOFNPSE55Umw4eFpRZ1d1ejdaSkJ6S3J4VmFRQVE3TFpfMDhKeUhzTEthVkpnM2dMeng1bGxhQ0s00gG7AUFVX3lxTE5WT1VDcFNJelcyV182a01laXJvNTB6WUxKc3NWYnZjOEsyLThTeWxnQ2FleFZFZGNoM2lSSVNVdTlSRjdGUWRHX0VReHJzeVFfQi1jXzN3REFNMlI3ZnUxX3Ayb29ibXplZXNjZlNYUnNnMU9Ib2JrdUtVSHJHQWpCNmU4U09ITnlSbDh4WlFnV3V6N1pKQnpLcnhWYVFBUTdMWl8wOEp5SHNMS2FWSmczZ0x6eDVsbGFDSzQ?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 16:25:00 GMT",
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+      "url": "https://arxiv.org/abs/2610.31937",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "url": "https://arxiv.org/abs/2610.31971",
+      "publishedAt": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data - STAT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmxwbWtZcDNLSENHQzVDTUd3Sm5KaVdKQmpFV3VINVYtVS0yQThJSkN0bkY2RFFYbzV4RzY4TEV5QTU1U3VlR2E5R0pFenFPS2xRMExnSGw5Nk00Y2xWQ0JUaUpCai0wR1FmeERVbzhLZWpQNFZTWjFTZVZoTHBRT1pGOHJQSFU1LWViNDFXaw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 08:34:20 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbk9wa0ttSmk0RzlyeHBCZ19BQ0FxUnNhcmVLUzl2TW1HT2pNTTN0M2JlS2ZYRlMxRjBSUEdnSVB2dkQ5YmJTLVRWcVpTcEw2a0lmakpURklzb002c1d5bUt3XzhCRW1teElIUDUyN2oyQ0FKbUlqN0owTGU2U3NObTdlemU5UFJiakY5OE1BaXBqN0dYTG9VbDBRcFdLczAwUXZxVDlGR3FPcnVFZDI3dExMTTY1SFEyLWRVU2pQOTl3S3ltTjhsUHFZQUlpMDRyMEFNZ25jdzI2T1hN?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "An Audit Finds Serious Flaws in Research on AI in Education - KQED",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnNBekJjR18xR2F5cExhUC12RVg3WENNeFpUY1p6X2xkcGpyOVVBTWxpdGpKZF9aY2htWUtaT2syLUpaVUxVZTdVak0yeXhENzZHV2pveHQ1RVV0Z0pxSkhudE01RmYxTTZrcmdtb0Q5ZUdiS0NiaS1ULWQ1SEx1Rnk3NGhFcHNlWjg4V3dTMUE0ZmhWSUVpM3Y1aXA?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 10:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -19,51 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information - Rutgers University",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWlsblpZOW1MN09hd0JPOGtyV2J5TGNvaWtEZllKSnFEdVoxN0JQaEtEa0NLLW9Dd3JCQ2RzT3NtTXRJbnk4Y0N0OXFYcnFfbkxYclpkNC1kSXJEU3JVVGNFOG5DQjE4WEdzSWV5d251TmFCbl9PN2YtQnp2T3pFYWxGcS1tcW9JTEwxRF9mN3FwenlCZzY5aHowRkZuZi1yVzJBUQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 15:49:14 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
       "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:50:49 GMT",
+      "title": "Springer Nature and Google DeepMind partner on AI peer review assistant - Research Information",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjFjOFh5UnpOUXlfc1VoOGhyXy1ZNDJVZHhDM2VwR2hLaU1tb2FCbWpWVGZuTFRlNm9RV1FHbk5KNk02bEtFbGNlaTNlX3BvazZ4ZUY0a1N3RlFUb29KWVJtSGJXUXZYajRBQkpmQlRxSUg2OTJYZnVpWTlmV2dlRFpmbWhVdmpRYkg1Y0d3aDlTU2FpZVJkejFGajJFc2lGVENHZGpGTGRtVFRmNjFPYWxNSmk?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 08:44:40 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001 - Santa Fe New Mexican",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 00:30:00 GMT",
+      "title": "Inside the biggest feud in artificial intelligence - AFR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWVlanJfeUI0LTFlTmxtX3VVYURzMUdnLUtOS1VueW5iWTkxSVhNQkRWaGd1Ulhhc1l2M1MtNGVQLUphcHVjZ2cyd1E2aXhYYmE3bVlLb1RoS0gxdHdGWTU1TlJPeF8tejJ6Q1dKMm1Oc3dqWTZ2MHcwT01keXc4NkF4Qko1c2wyOU5jNFVoczdtSjYzdDlqZXpIRDkzQQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 05:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Another Proposal to Rename AI - Communications of the ACM",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 17:51:02 GMT",
+      "title": "A new world of possibilities: How AI is transforming physics at Argonne - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXdMY2tSSjNadGVfYktZU1ZKWl92R1JpTEhyUU1ZeUZsdVZpbmRuM0lwc0pYSk5aQ3lqS09LaWNteUR3Q1pQZW1fWENWUDVESU8xZ2lqMm80VVhTaWkwN2toT1htdWNSRThSZlpVUTRYQnVyLW5WUUcydG0xUlBQRVBPeXA3QUY0dUFwSVNmZk8xdUJJTVZSNXd0MHFTc1M1LU5TUjNVVm9sWlRKU3JQdGpINWladw?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 07:56:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Artificial Intelligence Advances CNS Autoimmune Disease Care - EMJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGw2ckNQSURfaVFLNTg2MUhERWI4WGhTZllVVDhVTFFqQWppSlhyWUIxOC1fNTJ1V2VQTTluS0VkM242S0RjTnJFdVgwX09NdTNTcWlTMUlPTkRoN29Lc0QwZU8zSWJYYU5HbkNQS1l4d3BPU3pfTmpJd05lT3c5bDJzZ1lsNlFnV3J2SHMwQjBwS0JEMEh3LXBsZE9nVWlCSEhCSXVn?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 11:05:23 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Study explores how AI use affects performance on math and reasoning tasks - University of California, Berkeley",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS095NGg1SGdvMzZKSjktTWo5ZkFWMkJmdGsxRHJuRHJ6bUYzcV80V3RnUkpIYmp2OHlhNDZxZjVuaWJVQUl4WUhSX1JQZDM4eXlYMGVGRmh2ZUZ1bDljYVZSSDRocGR5LUUtYU56QVh1d1RoUVhFcDZZWGxXWGw1SFpSSVcyVEtWZVh1b2kwUlhfQURUOXhPOWVLOXNtTWNzem9PRGdfMFNoaXFvbGx2MVln?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "In the age of AI, what does consent mean? - Sudbury Star",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSZ1E1dUkycDJLZVZBbU5aWEgwdV9SQjFoWlhyNy1yZWVIOXpBNXplVHo5NGp4WUZfXzVYTDMwLWtkQ1BRdDkyN2ZmUWlESkhMQkJ5bXNMVjFjUlQwNmRLS2FDWQ?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 08:12:22 GMT",
+      "title": "Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study - The Lancet",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnBqeGYzUklNTEctcl9KRzNBTEdteDM1N1BqWmtxNUt0LTV5VjV3N05vcVFscjk0Sm1tQ3phMTJRQjhCUXNfdGRjWU9xWmp6R0lyWDB4ektzaWRFdWVLYlUxcHBFdXhzZ3F0UWZOa01ONzJLcGVhMFdLdUJReUhMTmhZdjNQUldsdGNiWldWYU8wUS1RMkVqS0pLRmZ0ck90bFo1VjNRRnRwQjlfbE9yZmIwX0FjYWk5aXBNWVJyWmJwc00?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
