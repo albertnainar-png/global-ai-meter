@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:49:18.588558+00:00",
+  "generatedAt": "2026-10-28T10:35:28.810149+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,117 +7,117 @@
   },
   "items": [
     {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "url": "https://arxiv.org/abs/2610.35942",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "url": "https://arxiv.org/abs/2610.31789",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+      "url": "https://arxiv.org/abs/2610.35984",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "url": "https://arxiv.org/abs/2610.31808",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "url": "https://arxiv.org/abs/2610.31810",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+      "url": "https://arxiv.org/abs/2610.36100",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "url": "https://arxiv.org/abs/2610.31846",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+      "url": "https://arxiv.org/abs/2610.36116",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "url": "https://arxiv.org/abs/2610.31882",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+      "url": "https://arxiv.org/abs/2610.36146",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "url": "https://arxiv.org/abs/2610.31916",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+      "url": "https://arxiv.org/abs/2610.36169",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "url": "https://arxiv.org/abs/2610.31918",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+      "url": "https://arxiv.org/abs/2610.36183",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-      "url": "https://arxiv.org/abs/2610.31937",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+      "url": "https://arxiv.org/abs/2610.36188",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "url": "https://arxiv.org/abs/2610.31971",
-      "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+      "url": "https://arxiv.org/abs/2610.36234",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Did the Hardest Problem in A.I. Just Get Much Easier? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGdlRklqWWRYazUxTGpJTFZsa1M2OEVxTmdHZE5jWVd5MDJfbDJ6RWxYaW9HSzFubUFRQnRwRHNiakJpRFQwX0t0QWhidm4yVEU2ZFQxc1ZhNUdBV2NCc3g0UWdYUHRza2JoMzFTXzM0NUdHMTdmRFJTOHlzekFPZg?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 09:02:59 GMT",
+      "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence - Florida State University News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzlBdmhsTHVOSlZBbmpqZE5UeUZySUxLMFZYdzRkR2JBc3ZyUnRXM19fRTFkNWJhYk9VUzl2RkplWWpERGpTMjFaQVV1VFA1aHd5U1BPSFNqZk1xdWtIckRXMzFZV0lYU2ZRazRwUHJiVk93eXE1akhUOEpONHctaEhtVk1wVVpQY0hlMzBCZ0E5RG1ERTQ0MUpUc0hQVVI5N0haWVlHV0tsTm5QOUk5MFk2UjdIdjJVMWkteWlMdTB2cm9WRUZzSVhIZ0RIWXEtYkhFLXdn?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 15:36:50 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "FSU highlights approach to AI in education and research during United Nations event - Florida State University News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUJvODdTalRxbkw4c2d6ZlA4dVNGV3ZIQUVRSDFIbks1ZGcxU1R3UjNuSDZQMWlGZjU3N2ZjRGZ2Ny1IQ1prUklCUGJ2ZFNUcW5JMHRURnBZN1hCSjFoQ0p1T2U3aS12WGNlOFpGTnlzRnY1VVRMZ1FVMXdwRF9XaVRvdG83UkZaLWpGLVFLaXZqVUxEbFlQUnE2UUpMNkp0ZThQWjg2QWhndzUtV29USXh0UFpTckpjbk44ZDR3?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 16:30:56 GMT",
+      "title": "Before the storm: Doctoral student earns international recognition for AI research on cognitive decline - Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNENBYjhQZlRuZE8xWGtCZUo5UlR1NmU3a0RlWjlwUzAtbDBZWThURG10TkllS3RTX0lzVXBuaDNtYXhmMmxNeWhrRU9ZMUh2VkY1aGU1QzA1ampYVzFCQS0yMzNOc0xzTHBDa3FhU0hKWkN0SVdiR19UejNuSV96MTJzVTEzbFJMeTByZWdKTFBWbTVCYjdwemNNTXRFYVQxQzVIN0luSXAwZHI0WktyMjB5SUVqR25WVUliOE81V0JHM3BpMXRsMDVtdUpoRVRZMUo1Q3RB?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 16:27:47 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UF AI Days returns, Oct. 23, 26-29 - University of Florida",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95T1dRX2FyRWtCek44NWFVNXlNSFdsaU13dGNhamJVLU9sNWFzV0JJNnIzTXMxVm02ZmJqTFFZNmwtM1l0cVB0X2ZRS3ZtbGFuSmctYQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 18:51:00 GMT",
+      "title": "Beth Israel Lahey Health launches new hub for AI research and validation - Healthcare IT News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmdRekF4T3g4MVljM1ZuOEpfRE1pc3k1eUlVbTdRMXdNNEtfVVJOSFUzTUFVRGtQLUlkVndHaUh4aXhoMGFMT2VOTEtWY3Joa3FTUlBNQnVrcjJISnNNN0xWci1qdkdXMy1WQnBBZ3B4MzVmeDctV2hMYWZfNUU5dXBYYjJlX3N4WEpHcGcwTThtQ21vQWFpWFZPSWE1ZTg0ZkxlVzAwaVRtQQ?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 14:30:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Crowd-sourced collabs: Using AI, social media to find potential brand partners - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGMzbGpCdVRGdFdHT1BMcHI3eG9zT0hfbXF2dEZfQmNTeGF3cDJOVmdlTUc4aEFrUWlMSkxhaGU0SkZxWGctM244aVBNb3ZUaV9YeUpVWHhvenI2bVh1SGF6Z2Zya2RtVGdsbko3V21oX2lPM3FyblFZWlU2S1IwNktVNmpxaXFUdUt5TjNIRzd4WlZJRVJRMjRSM3I0a1IyeV9SbzlmXzBUMUZRcEZSSGViaw?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 19:04:11 GMT",
+      "title": "Student Research Makes Meaningful, Real-World Impact - The College Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVM2Z2NDYWdYNmJDOXhJd2M5VFkxYWpsSU52WkYyS0hmUEFGTVF5alJFbEp5a3Z3empEWXk3ZGJXcDJrdDRUWVU4RHA3ZWNXN0RLNWJkMXdPOGsyNGxKMzNWaWV4TUJ4UnVSbEJVTm5XU0tFdTFIUVNzZkZ6eEw1NTIwX2xuU2EyRmUyQzQyQW55Ympic2d3?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 18:58:58 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Machine-Enabled Forensics - Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3VMUVF2Rnkxb3pIcUczN0VBdUpuMFhfNTZBNHBhc2NvMlRYTG93aThjWUFyZldQdVY0elVwTTV4RHdoa05HWlRSVDI0djFndjFUdGZvUUNqclFFOEhVdVVKMUY2OEdMVnctenZSZ3ozclRRMUcwMjE5Wk1wVFAwc1N6QkZqZ1M1TTZIVEo1ZW9MR2hMcno2MHFlbFp0MTNTSGQ5OExER0xmbVhsUjFSTXBKNnRIWWVrZWgw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:00:01 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Anthropic says Claude generated 35,000 designs in allergy drug research - WCIV",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa250YjZiTTJrYkRCQ0IxeWMySkptVkRtSWl0T0lUazNnTXl0Mll1MVBaQnNzSXBzdGQxcFJZdEJLTkRZUzMzVUpfT2FPci16VmVwaERNX3FTTnlONlRVWjFOMjQxVFZOZXNaM0NiM0xUakVlaEllQWh0SElLdF9raEdKTUNQeGxFX2pOdTk5dndtSkhrc1o5UzctU2pZLVdkZVdnNG9wUzd5b3hOMnpWRy15ckJVOElCLVg1Y2Z3?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 23:52:25 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "World's Best Employer Combines Artificial Intelligence and Research to Evaluate America's Employers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOE1oWlVPNmQ3RzJ1RjYwcDVRS3lhVEZnLWNxVlhnQ293dm83dkp0NTVIVmtoNnlkWlBMQnJsaGtCWkw4NVlfUFJiaE5mZ29TZXhublNNc3RucUtuZW1HTW9va1VFM3JGZ2tVZmE3WnhMRGRuTmE0RllfaWJQVy1ROGVwTmlzNjlrTU5zQ3M1ckpMMDlhcjJZakJkUnlZRlotWmVibFlvaw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 13:35:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Research Sheds New Light On DeepSeek’s Safety Risks - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUVud193eDRXVzJfbmUwWVY2a0Z5T25VRy11MWJBdGQzMkptdVBWc0tpcmVIUjY4QzktWTUtLWhHWjl1OTBmbV9scnBXdWdRUUxGVzRqejh6WERSWUs1WlNnNHIyZXMtYUhBVWhmUkR3TG55SFdKT3lFeFlCcFo5VHZfYWNjbThw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 17:45:20 GMT",
       "source": "google_news_ai_research"
     },
     {
       "title": "Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Penn GSE launches hub for responsible AI use in education - The Daily Pennsylvanian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ20yVnBWWVlncktoRUZYelo5d2lHT2g2WW1JY3NYbVpVdHoyZ2xBeFhLbW9jS0V2LXhIUHlvZFl0bl9TZ1ZNX0VscFpFT0JOLXpvUE5vMklIVkZlcE84QTQ2UUZ5WWRjYThWREwzNmVpUl9NNkJTNWZ4NGhrZDVjS2JxRUlQV0tmbTJ5RXJmc01kN2YzT2RGRkVYVkdsa01BT01JLVNB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:06:25 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "From AI beginner to international research presenter: LSC-University Park student showcases power of AI/ML program - Woodlands Online",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teUlaZVBrNkhXOEM0WjdQcG93T3AzU2xwcmlJWmF0MjJ2dHl1UE9nNGZUTmllMzN2UWJsV2djSVc4dlRIMnhmbnM2aHN4SmdXS3FCNURjaEExcm9kOUJRMTFYUmFmSmpfUURB?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 15:07:47 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Anthropic IPO Discloses Plans for Life Sciences Growth - Genetic Engineering and Biotechnology News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnJ3bWN6M1FkaktuQXNKSU5zNGtwNEE3TXp4eXBXcHM1TWtOamRSMV9QSUIzWFJZRTFTNXlzMU4wVDhkWExKaGVRYzR6cXpBNlhTVWhaR2tVY3ZicENNcENfQmc3RjB4OUt0aThEMlVZQVFOc2cteWFRRFB1VXF3Q09GZ25aSno1TWRIUUtId01KdDktTDBkYkt3N3o4dzRsZHo5Zkl2OU1rVFJIRC13by1sWQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 20:57:02 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AI Multi-Omics Analytics Market Size, Share and Latest Trends 2026 to 2035 - Insightace Analytic",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0dCUERMN0kxOFpoRGZvNElZMXpmQnFkNGNJOWpyUVNGYndKbG82Y3BaUEwwbVJPcGhsa256RXlydFVtaEpkSkR3RE80MGtweWh0cUE2My0ydUFrN18ySTNyUHpmOHNwQkJ2STA2RW9zRlJmMW9NZk5OY21wR2lndWl2ckM?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 09:39:02 GMT",
       "source": "google_news_ai_research"
     },
     {
