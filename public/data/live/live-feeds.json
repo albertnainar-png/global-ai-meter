@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:54:07.005410+00:00",
+  "generatedAt": "2026-10-30T10:52:12.941799+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,123 +7,123 @@
   },
   "items": [
     {
-      "title": "Counting the Bandages: On measuring the time that AI saves",
-      "url": "https://arxiv.org/abs/2610.35942",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "url": "https://arxiv.org/abs/2610.35984",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "url": "https://arxiv.org/abs/2610.37731",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "url": "https://arxiv.org/abs/2610.37732",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "url": "https://arxiv.org/abs/2610.36100",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "url": "https://arxiv.org/abs/2610.36116",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "url": "https://arxiv.org/abs/2610.36146",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.37809",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "url": "https://arxiv.org/abs/2610.37830",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-      "url": "https://arxiv.org/abs/2610.36183",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "url": "https://arxiv.org/abs/2610.37849",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-      "url": "https://arxiv.org/abs/2610.36188",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "url": "https://arxiv.org/abs/2610.37851",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-      "url": "https://arxiv.org/abs/2610.36234",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:00 -0400",
+      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+      "url": "https://arxiv.org/abs/2610.37859",
+      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "Kaplan's artificial intelligence research published by leading marketing journal - Lynn University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWhtV2VyWWs0UjM0Mzg2WEUxeHlxQURmZzlmSW5KSlNTWGpPVHhZc2dIWVNySHIyeGg3c2pTajJpTGxjMWI2YjJ0RlBkRVRnbzRkaXN3X3EzWEN6aVQ2Y1VfM21BZHpQd0tISTZ5VHpWQ1JFSTNySUl3cGZISnZ2Vk15QjVweHVoUGZzNjlR?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 20:50:00 GMT",
+      "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEViRnNjZG1JUWsxTUdYRG5fRnZQNWl0b1dKRU12V0xNZW5xeGFWMzlmRmliUTAtR3N3YVZPSmtLUG54YkpEcmpHb2xnZGVYd2d4VnJDdU9GdlhYemFYYWl3OVMzd0RlLUhaWmlINXZHVzRuUzlkaFIwSDJ4cXJGdHRLLVp6Wk5HeWNTQUN3?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 17:27:28 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UC San Diego Launches Center for Principled Agentic Intelligence - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlJ6VXMzeHliQ3Z3enJTV1p4emhaM2ZVbDVHamtTUHdZbmE4UUttV2NpMTRkdlZCcnZITExjNllmMm1iUnhHelV1bWJ5eWRVcWJScWJ1Z0hvTEZjRzhJS2dDTWRWdEctN1dXcV84V2p0VTV2eWQwWEZtRXYxcmFwWWZybVdTT0RPdFRldFp3SmZiSm9lUnNsVg?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 22:34:21 GMT",
+      "title": "Expanding Research Initiatives Connect Artificial Intelligence, Agriculture and Engineering With Hands-On Student Learning - Alabama A&M",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRlR4em51a0tZN3kwdHBTd0FlVlAxTFd2dFZlOUtZQ05fRkNQWkpMMk9KOE4tdkdtallfbUpwY3pEMTdGSHFFb0NISUVFY253SXMyQko1YmVvYmNpN3BHcGQ2STdocWppTDE1RmVwS2pmVW1UbW0wLW9oSWVHZUlHamxadmJicDFHNXVKWjRqcW9VV2tteXI1UHpDS1NFSG92WXFLMFdKS3F2RUt1eEFJd2FvZ1ZuTkEtQ1Rnalk3QWlDQzYzUkdhWXVINmJwV3Z6dDdWdjlnNnJOZEpOOUdyRUJJSmdTTEhDVWVFaFFXbTl1ZHV3TzhMbmlpZFBMc1U?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 09:59:22 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence - Florida State University News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzlBdmhsTHVOSlZBbmpqZE5UeUZySUxLMFZYdzRkR2JBc3ZyUnRXM19fRTFkNWJhYk9VUzl2RkplWWpERGpTMjFaQVV1VFA1aHd5U1BPSFNqZk1xdWtIckRXMzFZV0lYU2ZRazRwUHJiVk93eXE1akhUOEpONHctaEhtVk1wVVpQY0hlMzBCZ0E5RG1ERTQ0MUpUc0hQVVI5N0haWVlHV0tsTm5QOUk5MFk2UjdIdjJVMWkteWlMdTB2cm9WRUZzSVhIZ0RIWXEtYkhFLXdn?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 15:36:50 GMT",
+      "title": "Georgia Tech Machine Learning Center Celebrates Student Research at Annual ML@GT Student Conference | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGhzendrWTRuUG5DYi1FVjN2NzFWWGhseWRrVGhaVU5PbmZ5LXY0aEVtWG15MkYxTVo0ZzJ5SjU4elg0RW1Fd2dqa3ZMczdiY3JoWmVMNTRGSFEyVG91OUxoTVlISEFQTXUxaVhQWjhSWlgyRjlfbDVZT29WMjF3b1p5LVBONGRFR3UtbG9NUWFWb25IUVNobFZSYUh4c3lWVWhWOFdYNm5haWhVOXRJOWFQaldmUWdIemVuOUFXcDB4Y3pqajRjU1oyYlVpUdIBzgFBVV95cUxQNGhzendrWTRuUG5DYi1FVjN2NzFWWGhseWRrVGhaVU5PbmZ5LXY0aEVtWG15MkYxTVo0ZzJ5SjU4elg0RW1Fd2dqa3ZMczdiY3JoWmVMNTRGSFEyVG91OUxoTVlISEFQTXUxaVhQWjhSWlgyRjlfbDVZT29WMjF3b1p5LVBONGRFR3UtbG9NUWFWb25IUVNobFZSYUh4c3lWVWhWOFdYNm5haWhVOXRJOWFQaldmUWdIemVuOUFXcDB4Y3pqajRjU1oyYlVpUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 00:35:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure - Purdue University",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9vclNrXzlpdXBFdGZ2TmxOUkluZnQ0c0xXUVBvckNacHlRZlRWdkpIbmExcHppTDIxZGtJZWMzWUZhRmREQ2prNW54a2ZvdGNnd0JHUERRY1V4MVBraUpET291aFQ3VXhWSFNaei1ZYlFSRFpGazVHOFNpc3pRcDc2Q3dsSERvejhBc01tZVVyV1NpRUwxdWhpZEZTRlhnajlYRDZubkRNMGg4TFE?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 19:12:44 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Donation from Sanjay and Charlene Srivastava Advances AI Innovation in Education - UC San Diego Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeERYeVV3X2pPUndTc0E1bnZFTkFzVzNsZk1kOVI5RkhxV2lqdGI3ME9PMGlwLVdzWkg2Q2EzbHlaRnQtSlJldHlwbmJvWGN2M1hWMDVFQmUwTVRPa0o4OFl1ME4tVEJuVXBZTjM3WDdQSTBmZ3AzbGJROXVYUXBSdHdDZGViUTdmazB1NmdmM3dqZGcweXRRZmJkSF9wcWl2SVBGaE5mXzYzSUNWVkE?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 20:35:59 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0tmbENqSFV4d2NCN2NNUG9hakdWc3F2b1F2OEViWnZCcERZSVRrcVRCZmloY1JWLVhtWG9xRW8wNVVSY0RTTDgtYWxmUWxCakpXdVoyT2ZYM1dSbGdOWVBIbWd5Mm00akJscUh6S1pfRlFoSGYtckNUY2Fqd3cwbDRaQ2gtRURkVEFTc3hfcWJ4X0lzVmE4dm80cXQzM2o4SHc?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education - Association of Health Care Journalists",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 18:56:37 GMT",
       "source": "google_news_ai_research"
     },
     {
       "title": "Is AI more a partner, competitor, or crutch for biomedical scientists? - STAT",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmh6OHVvVjJPSk9qUGZlVGR1enBNNC1zNUc1MnNVelV1UzRONzFEM0xrS1BzRGlST1ZFeURGMm1GWnQ5ZTVtNjllUUY2OWd1cGZ4QmFFLUpHVmliLWd0ci1BaUVzM3FWRVNWTkxXQWpsaFlPaE01LVNLMWZsR1RtVHItSXBBb19LQ3U0QWJGdFVPYi1NRDJyZkVUSWl0OExH?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 08:36:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0dTbW9ISVdDWU9PMDJIQUdoOEVOTHNPWU8tYnZZZjV1aGdYZWJ3bmZ4aHZKV18wdFlWUmt6WDdQcVptZmlUSE1SSElYS2pJWVd3bHBqcHVCYlc5dnBtYUtqb3o5YUNvaFJka1IxS1RNandTczBRWC1EbDZDbXk1dzJkZWVMbXJNWlE?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 22:40:32 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 03:28:00 GMT",
+      "title": "Meta to fund radiology AI research at Ohio State - Radiology Business",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzJTN3diX0tFSEpCTlZQaXp6RU9MSmczbnZ0eUJ6Z2lzTjc2YkdnQXVuUkJjaHBmenJzd1lUd21rbnk4N1BHWXFrS2RCQ0M5WXctNzQ1MEZNRllOSjdVMldFSHdRa01RdE5FM0w4X09CZlNSajg5MV9LbzFpQ0wwamJRNVl4eDNMYkNwb2dFQXdGQXNSdEdHYTRwTkxXZ0lpaDhLWi1R?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 18:04:01 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "$20M grant renews UH role in AI research to improve engineering design - University of Hawaii System",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTEs1cTVjN0g2Zy1ZeTFIMHZRdDVIMHpHdzNjUjBPdmY3OU5XakUySC03NE1ReDNaYmIyaWw2Qk9CYW81Y1VpbHBEV2QxMmpYQnpGZHdIT1paMWl5bEZHb3pzNTdmZDVWS2dZbHE0MG5PaDlOT1hB?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 22:55:58 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "KRICT Global Forum Explores the Future of Self-Driving Labs Powered by AI and Data | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDBQbnFLWTlUVlJJWXFQTXhPYjlLVE1aZWYyV29SYzZkNnE5eURFenY5YjhpcEo1Ym83M3MtV2hKeXJfYW54ZkJ6MVNWOTNLZEZ6aFJaNHZ2TG92TFM5T0wzVDQwVnQ4dV8tVkJMZ3k2aTFvajFKQjhnMk4tRFZaZzdlQzBDNUs3ZXZ1Y0JRYTRpZGY0NmFTYWc4TjZMNWszbnlZaEZXSE0xSGtrc2NGZzBySy12WVHSAbcBQVVfeXFMT3AwUG5xS1k5VFZSSVlxUE14T2I5S1RNWmVmMldvUmM2ZDZxOXlERXp2OWI4aXBKNWJvNzNzLVdoSnlyX2FueGZCejFTVjkzS2RGemhSWjR2dkxvdkxTOU9MM1Q0MFZ0OHVfLVZCTGd5Nmkxb2oxSkI4ZzJOLURWWmc3ZUMwQzVLN2V2dWNCUWE0aWRmNDZhU2FnOE42TDVrM255WWhGV0hNMUhra3NjRmcwckstdllR?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 09:15:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Quantum, fusion and AI stand out during DOE leader’s campus visit - UW–Madison News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHlrTVdjWGpJR3dfaWZRMi10a2xTdk5Lc3BxSldVZndsdUJuRUNRRklsVW92QWtvQjFXcGtZLWhSQXVNZjg0V1VsdG84a2FNbThNRzFSTjg2T0FqOEcyaWF2VEc1eHZ5R3Z2MkVRWjZ6M3JWMGxFTFhzQlRCM3JEMElRX1RvMWdEYVhkR3VxSQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 20:06:19 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "ICDS announces 26 co-hires in support of AI initiatives - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZk9wOVFiOGk4bEEzcDRSX0QwODVXNDJUbVctb0Qta1JLazhSOWZYNkRtVEhidF93MHkteVZJR0thU2t4bGh0QXJ6TEhXT0l0aTgtUGlEUnJYd29HVGRLamgtY2x1ZC1kREJObmZZTXhlSWtKWWZHazl1cmp0U2JLLURSLWFZY3ozRW5oVUwxVmhVXzNoeVRHRVBwQkdkVVdtM0hsNTZRZUo5eU45M0puckF3cUlvczdEOVFMX2ZCOA?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 16:51:56 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence - Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdkNLZDdjYUZKTWJ1d19uNzlGU05Ubk40cFBrMXNMOWNwZjluOVF6c1d6ck9Kek5OaTdDMGlQOTV6OUV6bVZfRFBCWnozWW1iaVZtTTZUVlhodnJPeVNfbGlyME9BTmlBcXBuOGN4Rzg?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 07:33:35 GMT",
+      "title": "ITC takes down unknown number of websites following Wiz Research AI-assisted discovery of global cybersecurity vulnerability - The Dartmouth",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM0lHMkl1T3FidzA0YlkxV2xDV1lvV1MyZjkweGk2SWJDOWc4VkVZY01OSXJVYzNGaEM0ZzJmV3BiR0NZN3NWc3FoZUIxRUpNd2ZRaWdtY25MVmFGRXY3Q01RXzRod3BxWkdzd2E3RUh2bEpseW1PZVNPS215aTJMREJKVXI4aHR0cDNPVHlxT1J6VHYzWFRoaTJUTTR1dUNCQmVpbGgzZGVnRjh1aWV5Wmo1MzN4dk9Gc3dnVlYyRWl5T1pvdDdoUXlvU2xRSEtKcnpmaWdncmg0aE1wR2h4OGxRekFOaWlFT3QtSGx6cjVCRkpQalRCNzBYSmlUY1lwcElUQ3ZEMA?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 09:05:38 GMT",
       "source": "google_news_ai_research"
     }
   ]
