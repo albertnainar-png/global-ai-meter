@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:52:12.941799+00:00",
+  "generatedAt": "2026-10-31T10:23:57.081029+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -9,67 +9,79 @@
     {
       "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
       "url": "https://arxiv.org/abs/2610.37720",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
       "url": "https://arxiv.org/abs/2610.37731",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
       "url": "https://arxiv.org/abs/2610.37732",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
       "url": "https://arxiv.org/abs/2610.37739",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
       "url": "https://arxiv.org/abs/2610.37786",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
       "url": "https://arxiv.org/abs/2610.37809",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
       "url": "https://arxiv.org/abs/2610.37830",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
       "url": "https://arxiv.org/abs/2610.37849",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Evaluating and improving AI agents for sequencing protocol understanding",
       "url": "https://arxiv.org/abs/2610.37851",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
       "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
       "url": "https://arxiv.org/abs/2610.37859",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:00 -0400",
+      "publishedAt": "Sat, 31 Oct 2026 00:00:00 -0400",
       "source": "arxiv_ai"
     },
     {
-      "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEViRnNjZG1JUWsxTUdYRG5fRnZQNWl0b1dKRU12V0xNZW5xeGFWMzlmRmliUTAtR3N3YVZPSmtLUG54YkpEcmpHb2xnZGVYd2d4VnJDdU9GdlhYemFYYWl3OVMzd0RlLUhaWmlINXZHVzRuUzlkaFIwSDJ4cXJGdHRLLVp6Wk5HeWNTQUN3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 17:27:28 GMT",
+      "title": "Super Intelligence - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 15:37:41 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Energy secretary visits University of Oklahoma to review AI research funded by federal grants - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRqLWM4XzQxTkNGaTViSXNsZkVlMUpNeXlickU4VjFNbFNreXFrLXg3NmpmZzYzWE82QzNmaWNXWWM5OS10SEtwN094Ry1jY2tfaTVVXzdtYW1CRmh5TFE4MUN0amtNRnZrajhZRXg0Q0lERUp3T1lLcWJFbkFfckhld0Jta0IwY0JLd0NlSUtGZU9MMkdfQ3FFU3Q0czFOU0YtSl9oRQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 23:09:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Purdue researchers explore how students engage with artificial intelligence in STEM classrooms - Purdue Polytechnic",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOek1fSmNpTUZ0cklfSDRwbC1zQ050RlNWNmVzaXg1TC1ubjhYU2dwVk9rSTQ3Tnp0VE9KRWwwY0FpTFhrSkVOWXRuLUNaeHhrMDdGTjFPNl9VdWlrbU9UekxpSVJGU1FISDJDOTNNbEdzS2FjdkxqUzJwakRXaGhyNzA2NFlnRzRldmt5dUJDVlZoUldVSzJRcDBpamxkeXdFZXY0ZmhkdlJjUkFubHR2Zm94UHJmTnlINUI0bmhFVHdURkVC?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 20:43:13 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,51 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "The Liberal Arts Approach to Teaching with AI - Wesleyan University",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGNNUk80eUVxQ0xybEhfUVhvRjF4MTNmRDRQQ1A1a1NhczNlVVpKSjNEeWFOZ0NvQjZyRlNFZGVqaDUyUnN6Sy03UHhCcjZOU25oeXBRQm9UMHVGTmVhUmJJRzZqazhqd01oMUV1YWxxMXB4M01xSkJsMl9HemRMWFFCMEpRQ1U4WFBGbXhlbmhVM0RkNW5NRm9R?oc=5",
+      "publishedAt": "Sat, 31 Oct 2026 04:10:37 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVRMdjB6TTlBMmVCeXpUdTdBUlJ2NlNJcENfZnVWWUo0SUxBWXZqekJuTnlBNVZWemxoU3U0Y1pUQi1mNzJsdmhuSGQ3YUNnY1JkVm1oU0oyV1oxUExNTkRWa1dTcWUzNjJFWFd5Vm56Ykt3N3JpVHllOV9xN1lraTRxaWtaUDFHQU4w?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 20:15:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "NIH New Innovator Award supports Luca Bonomi’s research on AI and privacy - Vanderbilt Health News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0ZUUTdRNUc0X2VCT2ZDOEhDSHRZcjN5cmZyc2VYaEliNzNKZG52ejJDaklpQXVQdDdmZEhiQW96enB5SGZneWM5ZUJMLWg1bG1QQ1FZSko2bDNZVXZxbzVEWUlFcjVZUlRRM1l5ODAzblM0MjZsYTY2bnNZQ1NfNFo0R1B3LUZPZjNvWWJrOE4yLXdlSzR1TkpfMlFINmlNQXdUTXFNOEduQQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 14:45:29 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkNia1hLMUlZLUZrTy1fNkwzMGRINUprOWlhM0hraWtXeW1seG1vWWlhX0gyREFCU0xHQVBacGM1RWh5ZHczTVVncUlaNEtjZU56d0VxNXBsR251LVNVT1BTcVRpYWl6dFBtZmttSlFweEtXVlNFUng5U0hOMmJJZDVyT0ZlZGFBd1FkdUx2a29sN2ZXZ200ZzlkemlQSEhudjZJQk5mSURVeG1nWUN0emsyajJMcktnS2tqXzF3?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 13:56:38 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Georgia Tech Machine Learning Center Celebrates Student Research at Annual ML@GT Student Conference | Newswise - Newswise",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGhzendrWTRuUG5DYi1FVjN2NzFWWGhseWRrVGhaVU5PbmZ5LXY0aEVtWG15MkYxTVo0ZzJ5SjU4elg0RW1Fd2dqa3ZMczdiY3JoWmVMNTRGSFEyVG91OUxoTVlISEFQTXUxaVhQWjhSWlgyRjlfbDVZT29WMjF3b1p5LVBONGRFR3UtbG9NUWFWb25IUVNobFZSYUh4c3lWVWhWOFdYNm5haWhVOXRJOWFQaldmUWdIemVuOUFXcDB4Y3pqajRjU1oyYlVpUdIBzgFBVV95cUxQNGhzendrWTRuUG5DYi1FVjN2NzFWWGhseWRrVGhaVU5PbmZ5LXY0aEVtWG15MkYxTVo0ZzJ5SjU4elg0RW1Fd2dqa3ZMczdiY3JoWmVMNTRGSFEyVG91OUxoTVlISEFQTXUxaVhQWjhSWlgyRjlfbDVZT29WMjF3b1p5LVBONGRFR3UtbG9NUWFWb25IUVNobFZSYUh4c3lWVWhWOFdYNm5haWhVOXRJOWFQaldmUWdIemVuOUFXcDB4Y3pqajRjU1oyYlVpUQ?oc=5",
       "publishedAt": "Fri, 30 Oct 2026 00:35:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure - Purdue University",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9vclNrXzlpdXBFdGZ2TmxOUkluZnQ0c0xXUVBvckNacHlRZlRWdkpIbmExcHppTDIxZGtJZWMzWUZhRmREQ2prNW54a2ZvdGNnd0JHUERRY1V4MVBraUpET291aFQ3VXhWSFNaei1ZYlFSRFpGazVHOFNpc3pRcDc2Q3dsSERvejhBc01tZVVyV1NpRUwxdWhpZEZTRlhnajlYRDZubkRNMGg4TFE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 19:12:44 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Donation from Sanjay and Charlene Srivastava Advances AI Innovation in Education - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeERYeVV3X2pPUndTc0E1bnZFTkFzVzNsZk1kOVI5RkhxV2lqdGI3ME9PMGlwLVdzWkg2Q2EzbHlaRnQtSlJldHlwbmJvWGN2M1hWMDVFQmUwTVRPa0o4OFl1ME4tVEJuVXBZTjM3WDdQSTBmZ3AzbGJROXVYUXBSdHdDZGViUTdmazB1NmdmM3dqZGcweXRRZmJkSF9wcWl2SVBGaE5mXzYzSUNWVkE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 20:35:59 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0tmbENqSFV4d2NCN2NNUG9hakdWc3F2b1F2OEViWnZCcERZSVRrcVRCZmloY1JWLVhtWG9xRW8wNVVSY0RTTDgtYWxmUWxCakpXdVoyT2ZYM1dSbGdOWVBIbWd5Mm00akJscUh6S1pfRlFoSGYtckNUY2Fqd3cwbDRaQ2gtRURkVEFTc3hfcWJ4X0lzVmE4dm80cXQzM2o4SHc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education - Association of Health Care Journalists",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 18:56:37 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Is AI more a partner, competitor, or crutch for biomedical scientists? - STAT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0dTbW9ISVdDWU9PMDJIQUdoOEVOTHNPWU8tYnZZZjV1aGdYZWJ3bmZ4aHZKV18wdFlWUmt6WDdQcVptZmlUSE1SSElYS2pJWVd3bHBqcHVCYlc5dnBtYUtqb3o5YUNvaFJka1IxS1RNandTczBRWC1EbDZDbXk1dzJkZWVMbXJNWlE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 22:40:32 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Meta to fund radiology AI research at Ohio State - Radiology Business",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzJTN3diX0tFSEpCTlZQaXp6RU9MSmczbnZ0eUJ6Z2lzTjc2YkdnQXVuUkJjaHBmenJzd1lUd21rbnk4N1BHWXFrS2RCQ0M5WXctNzQ1MEZNRllOSjdVMldFSHdRa01RdE5FM0w4X09CZlNSajg5MV9LbzFpQ0wwamJRNVl4eDNMYkNwb2dFQXdGQXNSdEdHYTRwTkxXZ0lpaDhLWi1R?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 18:04:01 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "ITC takes down unknown number of websites following Wiz Research AI-assisted discovery of global cybersecurity vulnerability - The Dartmouth",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM0lHMkl1T3FidzA0YlkxV2xDV1lvV1MyZjkweGk2SWJDOWc4VkVZY01OSXJVYzNGaEM0ZzJmV3BiR0NZN3NWc3FoZUIxRUpNd2ZRaWdtY25MVmFGRXY3Q01RXzRod3BxWkdzd2E3RUh2bEpseW1PZVNPS215aTJMREJKVXI4aHR0cDNPVHlxT1J6VHYzWFRoaTJUTTR1dUNCQmVpbGgzZGVnRjh1aWV5Wmo1MzN4dk9Gc3dnVlYyRWl5T1pvdDdoUXlvU2xRSEtKcnpmaWdncmg0aE1wR2h4OGxRekFOaWlFT3QtSGx6cjVCRkpQalRCNzBYSmlUY1lwcElUQ3ZEMA?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 09:05:38 GMT",
+      "title": "AI Researchers Warn Human Misuse Outweighs Rogue Threats - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUh5cGdtRXdqam5DcjJXcjMxSDY1X0Q3VXpQbUJFMkJLSzBWaHZJTXRkdVhGZXBfNnZTNjVQWFQtckVxekc5eXRUWHJpMVo1aWpVUjJpYWpaSVVvSldIYUJxb21rbFg5UkVrWTRpbGZMRFc0R2RjUkdyOXpvWERXTnBqODBhdDZXM3J1UVNPQzN5NVlZYmdxV1VXcllMVlJOTS1NM3huaDB4Wlk?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 20:58:46 GMT",
       "source": "google_news_ai_research"
     }
   ]
