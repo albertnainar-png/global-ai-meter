@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:16:49.141407+00:00",
+  "generatedAt": "2026-11-02T12:25:45.846786+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,27 +7,81 @@
   },
   "items": [
     {
-      "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEViRnNjZG1JUWsxTUdYRG5fRnZQNWl0b1dKRU12V0xNZW5xeGFWMzlmRmliUTAtR3N3YVZPSmtLUG54YkpEcmpHb2xnZGVYd2d4VnJDdU9GdlhYemFYYWl3OVMzd0RlLUhaWmlINXZHVzRuUzlkaFIwSDJ4cXJGdHRLLVp6Wk5HeWNTQUN3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 17:27:28 GMT",
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "url": "https://arxiv.org/abs/2610.40798",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "url": "https://arxiv.org/abs/2610.40831",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "url": "https://arxiv.org/abs/2610.40883",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "url": "https://arxiv.org/abs/2610.40906",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Towards Portable Specification of the Agent Harness",
+      "url": "https://arxiv.org/abs/2610.40917",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
+      "url": "https://arxiv.org/abs/2610.40938",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+      "url": "https://arxiv.org/abs/2610.40939",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "source": "arxiv_ai"
+    },
+    {
+      "title": "As federal research priorities shift, Brown’s Division of Research considers how AI fits in - Brown Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGQ3cFBWc094MENlVTJiYzUtZjlGSnZ3eW9Cb3J5X3VBOVdNVXliTFhpUkpZT0ZFYXRheUNyb1MybHp4NFZ4eWpEOTR1R0g5c0RvZFMzVWtEejlLVUxraXlKR0dMRFZWRlhpWUVoVld2LWJIWThUWWN0ckhjTUxoNEdvLTczV21xQ1ZiSDBoNV9uNnFBT2toOVh0RDdJNWR3bERaU0RneTlXdER0YmVweDJ2OWNqOEMzbkU1UFB6VlVNMFN2RGpkLXF6a2RhdHRZbE5OcTV3?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 04:13:11 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Super Intelligence - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 15:34:50 GMT",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Kaplan's artificial intelligence research published by leading marketing journal - Lynn University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWhtV2VyWWs0UjM0Mzg2WEUxeHlxQURmZzlmSW5KSlNTWGpPVHhZc2dIWVNySHIyeGg3c2pTajJpTGxjMWI2YjJ0RlBkRVRnbzRkaXN3X3EzWEN6aVQ2Y1VfM21BZHpQd0tISTZ5VHpWQ1JFSTNySUl3cGZISnZ2Vk15QjVweHVoUGZzNjlR?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 20:50:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence - Florida State University News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzlBdmhsTHVOSlZBbmpqZE5UeUZySUxLMFZYdzRkR2JBc3ZyUnRXM19fRTFkNWJhYk9VUzl2RkplWWpERGpTMjFaQVV1VFA1aHd5U1BPSFNqZk1xdWtIckRXMzFZV0lYU2ZRazRwUHJiVk93eXE1akhUOEpONHctaEhtVk1wVVpQY0hlMzBCZ0E5RG1ERTQ0MUpUc0hQVVI5N0haWVlHV0tsTm5QOUk5MFk2UjdIdjJVMWkteWlMdTB2cm9WRUZzSVhIZ0RIWXEtYkhFLXdn?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 15:36:50 GMT",
+      "title": "Same researcher, opposite results - The Hechinger Report",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PMHdLbG8wbGk1QklHclMwXzVPRGNyRGdjZHZ2TUZ0akgzbkhHTFgyMlJDTDRrYzlHc3N4bkhhc255bVBnS3J1ZHBqMy1DRnZ3eDVWbUdibzNfcTJCVlNJNGF5WFg1aVJuWEE?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -37,33 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkNia1hLMUlZLUZrTy1fNkwzMGRINUprOWlhM0hraWtXeW1seG1vWWlhX0gyREFCU0xHQVBacGM1RWh5ZHczTVVncUlaNEtjZU56d0VxNXBsR251LVNVT1BTcVRpYWl6dFBtZmttSlFweEtXVlNFUng5U0hOMmJJZDVyT0ZlZGFBd1FkdUx2a29sN2ZXZ200ZzlkemlQSEhudjZJQk5mSURVeG1nWUN0emsyajJMcktnS2tqXzF3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 13:56:38 GMT",
+      "title": "Bright spark: Robots and AI track solar cell fabrication - Asia Research News |",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRV96TTdoN2I4dUc2OVR6NE9paXVTN1RQaXhYcEU3QmFsbzlvRklna25SWjMtZGlrMDdyYWU1Sjl6TUg2QmdETDlYTGphVEJmN1V2Y2FZOW9DVHNXX1ZUelJ5LXRyU1RNWEJ1N3JXSkJEeFoxcGNzSjRhMnFpeVJGSDNyMG5MLUlWalU0UXhUUU5scm1IR3hIalVYQjQ?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 05:31:35 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Energy secretary visits University of Oklahoma to review AI research funded by federal grants - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRqLWM4XzQxTkNGaTViSXNsZkVlMUpNeXlickU4VjFNbFNreXFrLXg3NmpmZzYzWE82QzNmaWNXWWM5OS10SEtwN094Ry1jY2tfaTVVXzdtYW1CRmh5TFE4MUN0amtNRnZrajhZRXg0Q0lERUp3T1lLcWJFbkFfckhld0Jta0IwY0JLd0NlSUtGZU9MMkdfQ3FFU3Q0czFOU0YtSl9oRQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 23:09:00 GMT",
+      "title": "AI acceleration of science – a personal reflection - Wellcome Sanger Institute Blog",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2Y3ZEVuUlJscXJla2QtdlN4TEw3eEU1d2tvMUZrYUpPQ3hWMTVhQURRbm5oVEkxZ05FQ1psSlJidkxyaE9XcDgyTVY0THc4dUFuVjBYQTBqVU83Q0tsTDlSbWU4UzhyTC1FdkhGREdsYjh6T1BzVm5XQ0ZLeTRwYkdpaG81bG9RazZXTHlfVVVRR28?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 00:01:50 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Artificial Intelligence and the Future of Biosecurity - Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGZPYVhOTlE5TkdvSk9xTjZmTHh4TWo5NEhaVVVMeGlZOW9xb3FqUTQyeHIydXY2ZWxJRGJuUEFqX1g2ZVoyWWFCNjZ5VGE2S1BMS1hSZmszV3Fzb0lnVDlWTHVrdHplQzZ4TUV2Vnl2TnFwTU1VMGtSUy10M0FmQnc4UG4yWFFaM1MzSnNtZl9wajVhTTJPUUN0anowQmV3S1ctSVRuVHpvNW4wd1dmUVhB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 14:48:30 GMT",
+      "title": "Why mandating AI use in the workplace can backfire - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc01IeDljYkxEaWZBUHVSTmVQMnJJbmF1OUtJbnhUVUZ0TGI2TEYzZ0lYbTRKTjZYVWg3cGtHVlFHcmo1a1N5UDhHcmk0TmtMNHpvWnNtbk5xd2YxQ1FRU0FYMUNSWGJRUzJvdFJhWmpDelJnNGtQY2JFREdFVmYtYW41U0w4dzJCQnlMc3NaMVo4ay03YnNuY2lkMA?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 11:07:28 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Pfluger Introduces Reliable Artificial Intelligence Research Act | U.S. Representative - Congressman August Pfluger (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SnhQcG55ZjI4SFdvV1ZkVEhYQnIxYVFsT2VMcGdkV1Y3ZmpYM1N0UE5EQXZueklrVmNTQUNpTHBQRE5MRkdqSzEwNU41MzdRTG16WHlUN1h0VXFBVzhCZzZ0eElWam84d0RNUExCdDAtUjdU?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "title": "South Korea marks launch of supercomputer capable of powering AI research - MLex",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnZyYXRGWkVLR1ZxLU9nSHZ4TTl3cVBmWHo0MjY4NHI5LUFsbVJfUHZodDk3V21UZVlMZzhoeDZ2UDBCRkZKVjRndG5TbFA0T2NSZ3FUOVljYW43T1N6d0d6aERtRjRUbUlZY1lURVQxOWNQMUxjVW92UDBVUlBycXlHMkJVeVVsN3ZjalFLTDVldDN5b1d3ZXhiNnF1bTJWMHlZd1dKeVc2YURTYXhTSS13elhGRVd4a04ydzE4ZXVuaWlMUUIzelFVUnNZSXdwZHk4Tm91TdIBWkFVX3lxTE8zSjFrWGlrWEl6Rnpjb1ZiYW9LN3dUT0VISkhVMWZpSmgzbTlxTEJtVnItVEF5cy1DaHV4QktUZUVNTlY5aHMyRWUxaTZNN0hKTFFNSktnOGs1QQ?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 05:45:02 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Dartmouth Convenes Landmark ‘AI at 70’ Conference - Dartmouth",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1VYa2RhaFB4WEtMYi1GSVpLV2o0T2tuN0pFanJTcGpaWVhxUnpGVDFOTEpJX0tzMFVWeXFodzdUN0ZXRWdOdm5mMzYyZG9hT0NzMFd6OEVxWnJDRklFRkkwS3ZLMWZyTkZXaEhXOW0zTHFTUEphanFXZlJpNlJNVWtFNnpwUkpkdExWeg?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 23:18:11 GMT",
+      "title": "EU Virtual Worlds Partnership to set research priorities at Valencia forum - INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODZxY19DZGNGd19Sd25PRXdFbXd6ckxYNE1NMlNOUkN5RVcwQUNTcngwTGtOOHROdGFuSFhhcEFUSXJYYVhDekhXMVRlbVdQLVRlTEd4d0JmLTNmTC1VbV9xX00yV2kwa3haQzNmZzBtRjRlVllQUWZOaWNLS2V1NEpTcFZDWXljTGdwSlhvZlVWN0lpTnZsZ3QydVMxZWtHQVlCNkZ2X3NLYy14c3pJX21KOWRpVThKcGJCSkZRNGNKNlBEVmN1YlNfRDd4ZExJdXltWEEzSDc?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 08:12:56 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Why green jobs are resilient to AI substitution - Trellis Group",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVo4UXJYZ2c2dGJYTHM4UkVidXppVjlxdVM3TUZHMXJnbjA5cnlLc1pfeXpTUjRuZzdRXzVOZVdQZVBUc1c0dC12blNhb2wwaFJXbVp2akRCaDNWT0tPRFYwbTRCU09fT1hxZC1xRmlGMERncUJZN1R5cHR6LTZuV3B3?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 07:05:31 GMT",
       "source": "google_news_ai_research"
     }
   ]
