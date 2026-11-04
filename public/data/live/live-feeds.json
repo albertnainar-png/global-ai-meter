@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:56:12.005272+00:00",
+  "generatedAt": "2026-11-04T12:09:11.312736+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,70 +7,64 @@
   },
   "items": [
     {
-      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
-      "url": "https://arxiv.org/abs/2611.00159",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "Alignment Faking Depends on the Value, Not Just the Model",
+      "url": "https://arxiv.org/abs/2611.03650",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
-      "url": "https://arxiv.org/abs/2611.00165",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+      "url": "https://arxiv.org/abs/2611.03651",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability",
-      "url": "https://arxiv.org/abs/2611.00166",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+      "url": "https://arxiv.org/abs/2611.03662",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "PatchScout: Thematic Web Data Collection via Information Foraging",
-      "url": "https://arxiv.org/abs/2611.00169",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+      "url": "https://arxiv.org/abs/2611.03684",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
-      "url": "https://arxiv.org/abs/2611.00171",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "url": "https://arxiv.org/abs/2611.03685",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation",
-      "url": "https://arxiv.org/abs/2611.00177",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "url": "https://arxiv.org/abs/2611.03698",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Neurons Are All You Need",
-      "url": "https://arxiv.org/abs/2611.00186",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+      "url": "https://arxiv.org/abs/2611.03713",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
-      "url": "https://arxiv.org/abs/2611.00191",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+      "url": "https://arxiv.org/abs/2611.03721",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "From Cross-Section to Cross-Omics: Conditional Cell Nucleus Image Editing in Spatial Transcriptomics",
-      "url": "https://arxiv.org/abs/2611.00226",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
+      "url": "https://arxiv.org/abs/2611.03723",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "RE-SciVQA: Improving Scientific VQA With Context-Relevant Retrieval and Lightweight MLLM Adaptation",
-      "url": "https://arxiv.org/abs/2611.00242",
-      "publishedAt": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "title": "From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines",
+      "url": "https://arxiv.org/abs/2611.03725",
+      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
-    },
-    {
-      "title": "UC San Diego Launches AI-Driven Chip Design Research Initiative Supported By Qualcomm Technologies - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUFYUnh5VHdzWUFoYzcyRlNaMTl1WmJlQjgzcUNhU0lmb2JnMDNlSHdKcE9KZ2U0MGFNT1FqSVhMUEluUXozNmQ5cUc1c1JmZnhBYzNrMjRMNGhuVFFkUGNqRl82NHJGaHAwY2hVTTRjQzZpOTRiNDlWZHVfSldBbk5KSU03RXhuQ0ZwTnhndk94dTM4cDU5eXE0S2NCYldIVTFnNkQ4NlFtN0RYMWtWVkJ2U2R3bHA0eXlvRWZqZkdXOEdSckE?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 19:59:27 GMT",
-      "source": "google_news_ai_research"
     },
     {
       "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
@@ -79,9 +73,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Sharon Davis receives research grant to keep clinical AI models accurate - VUMC Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVkxWlJ1VjA2MGQzMjJPOFlFZ3QtSWFlNDBXSzBpdXpDcTRkZ1NfZGozV3hoN0libDVrLVBzNE8zTmIwSURJd0pzX0NsT2Zray1oNnc1a3V4MHl5MkhwUWNtS29JMVNZaC1TZ0FEdDVCQ3piaWgyZkxoM3MzTG1FYzI5dnhFNWpxY21QZlFjbnZMMWtnbEVCdHgwZ1QwMTN1RDY3MjB2WEg4Zw?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 22:51:43 GMT",
+      "title": "UC San Diego’s Halıcıoğlu School Expands AI Computing Infrastructure to Address Critical Shortages - UC San Diego Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzFZamNvbjQ5QW5teWxGY2o2Y3huZTRiRFFKUnp3SU1VRnNZRTBQOXExcXpNSjJXNUU5VVhGRjZQSVRWdnMzQ01fV0pBWThidFR1dGpwQU1lX0JwWXhJbkRNNEl3Q1g3Y01acUdrRWRkaE5QVzJaMWdpLUxOel8tRDJLeUNmbVJBRXNfcnRtOEVnV2RSTzFBb3AtZzZlWWlDVzNqVnQ5Z0dHZUI4X24wUzNNa1lyUEtHaUdueW1wal8?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 20:50:06 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -91,15 +85,27 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Artificial Intelligence and Teacher Self-Efficacy: From Technology Adoption to AI-Mediated Efficacy Reconstruction - Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0FjQ2ptS29FbUVrUzdfZDZNUXlsTWpQdGVPbEtHdmp4MVVFY3k2MXU4c3lwTWVfamhmbTdKMlpxUWtnUmJUQmoyNk1YWkFGN1lkaTFGM0NENG92OWs3RG4xazVuTmNJSTB0YmFFdGl2ZGczQTIxSmRMVm11OXo3YXRlb1pqX1IxWnVaN1I0RzJyZw?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 11:50:50 GMT",
+      "title": "Elise Penn, S.M. '24, Ph.D. '25: Atmospheric chemistry meets artificial intelligence - Harvard School of Engineering and Applied Sciences",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFpVTzAyMFFGblFIbVJPd0dHTW1OSmhfYk9LYnA0VXN3N0ZQd3h5aUc4NFh2M2FGcFRpRUo4WUdrdllHMFNyMWZZVEd0QWVGZ2U3aU5BcGxQaDdtbGQzNDR0U2ZDakYxakZ3SFYxM1dxUU9KVW4zQk00QkdNaXJob2RGbFlwWHJBY1BMdXR3WFpmbVcwVWxMeUtsNVU4U1JHX0lCNjNEQl8?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Powering up for a pivotal moment - MIT News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uOFdhVk15TkRBSGI0dU1qVjhGUVhVQ0Q1amdldUhhRjFBNUNqNVV4ZDVuMFNBVkJ4MHRsa1R1blZieE1MX2tOX29wcGVFYUdhWEViZVIxUl9DcTdtYWtDV1Bucm91cEMtVEZMQkhn?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 19:55:00 GMT",
+      "title": "Market Research Report on Artificial Intelligence (AI)-Driven Clinical Trial Site Feasibility Featuring Analysis - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMTlVdVVHQ3FmRHRHSDR4cUpWSlpWOFVUb2xiZkYxMVdLczAwUU5sSXh0YkVqMUZwYWg4a0FIN3IzVnVlOXVDdmVYeTY2eXU4WmdSZ1gwSlJjdlNYZS1YQmpDUDBUUG5xQWItNExEbHZHbk1VMjBta1VJY1hJREcwVW1EMXZOMkdma1pXOVFZYVNwb3F3ZjNYYkV5c2txSkc3WUIxeGhucV9kaFhUSExuRkFwLWI0RkRCZGdTWUJVTmxJaFJIVjdGdk1zbXNzRm4zQnM1dmpnQzRtYjBjVElyaDI4US1BQnp6ZjcwbGd3?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 17:15:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Doing last-minute research for voting? Be careful with AI chatbots. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkwtTDZIdGRBT2wyUzZ6ZkNzX3BPakhRZ2dpeVZMb2tTSFQ5b0dqdmtNLVJaSWVBWWR4RmVwbGw1dld0dXlzX3VkNVV2OWl1dFpBdVhaZzNmbjJNaGtBVjRYbFFhVF9nWmJJeDV0bV9TdlZ5ZmM3aW0xNml2VXNYWDBXQnFpSnBMOHltNlUwQmVWZFlFZGFqNG5xMHJrWU1PUi1Dakw2WEQtODNOR3VJWjduZHp0cUdV?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 22:10:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Posters: AI for vaccine education, homelessness research, diabetes care - American Public Health Association",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS19sd2gwOEJUWURZVHBCOW01SmZDZmgwZktBSDJnYjhSamZkOFJublpDRzcxck0tWFRSblVjNEREVDF5dk5TcWxmQWFCeGlieC02RmhUdmo4LTNQNWxTNzV4WmlzblExcDk4dnNmRW4waUo5S3hocUNKNXo5M2xtMnZhb0E5S2d1TGVFVVpndzg0YjJCUUE0bDlfMl9wTEZCaHVPak1Hei1RelFaZmZRaU5Bb3VGUnU3WDlLaF95ODc3ME9sYk11OGoxMmNVSTFobTNRQkQzN0FuelY3SWFoMm40LXZKLVY0cE5Rc0pB?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 17:58:58 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +115,15 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "As Voters Head to the Polls, Cornell Research Shows AI Chatbots Can Change Minds - The Cornell Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeERTdW9OV0E2eUhfYUE1eVY5aG9LSEhNcmxOT2R2eWpQdjVEMTYzUXpmVkJRU0RVcXJRdXdxeTBlOVVhaUdsaHNFSUVqR1FDV0JiRy0tcl9POWRlUFZZaWozSDU1VE1QeEtoczdXd3VBVDc3Y3hXOHB6Yl9FeGJkV0lKc3hEV2ZZZDRWTlpJUTJlMDg3MFRqZ3FmQWVjT1VDYjNOYW10cFlpRGZ3THZ5VFAxbkQtb1pYaW9FUzJabw?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 04:09:34 GMT",
+      "title": "Emerging applications of machine learning and AI for predictive modeling in precision medicine - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NWIxdF9vMHNNVGpKbVl4V1dNc1V6VFFNaDU3czQ0TmFoTVFOTWk5RDhJT1N1WmJhVmpUVnl3M25ZazVndVFpYnNYOW5CVXZuMlI1emF3WW94dHdhUDdF?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 17:18:30 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Cal Poly unveils $3 million AI Factory to boost research - Mustang News",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1S0JMZWFySXUxS2VMMXF4U1JEM1dlb0hPUGx0aW03R1dabW12Q0xwdWZ3RmZvVGtoaHJUNXJibGFlQTNPZmw0Q0I5VVc5MFgwaEtVa0czNmM3S0NIS1BvSFpFUQ?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 20:51:25 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Unlocking the AI-native digital brand - TM Forum Inform",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzlyNmFmQXpwQ2VCeTNYeUJKZWpETTk5dHJaMnhvNGJFc2xIdHJtR0Z5clRaZGZWSEdsTUEzbVBiUHhyVTBUM0xybnhpRVd5eU9IdVQ4a3hBbUdNQ3lkTHBCRTNqNmNfTWJsdEl0ZGNySndIdjJ3WmdQTVpVRmVCT0FOVjhXOFNlLUVUcmk5SEtNRl92X1dhWERn?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 09:52:57 GMT",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0dkLUhnclhWZUNJVS1BTUgzU2ZXdWJKQlRUMnRFVnQtT2l4bFdIX0I3Z3FiUThGZUtmN2MyU01UMjgzSG1VTkNQT3dVdlhTMHgwcW1TQ05DWFBhTEwtSG56LUVXTGQ5SW02U2tVZDVpTk1qRjJjMFg5R3BaNE8wZWhadjExdE40cGhZTzV0R2hZcnNIeF8xM0haLWwwTnlCSEp6SERWUVpfMkJzTmdWcndn?oc=5",
+      "publishedAt": "Mon, 02 Nov 2026 05:35:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
