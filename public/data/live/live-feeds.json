@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:09:11.312736+00:00",
+  "generatedAt": "2026-11-05T12:22:37.917084+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,81 @@
   },
   "items": [
     {
-      "title": "Alignment Faking Depends on the Value, Not Just the Model",
-      "url": "https://arxiv.org/abs/2611.03650",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
-      "url": "https://arxiv.org/abs/2611.03651",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
-      "url": "https://arxiv.org/abs/2611.03662",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2611.05392",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
-      "url": "https://arxiv.org/abs/2611.03684",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
-      "url": "https://arxiv.org/abs/2611.03685",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
-      "url": "https://arxiv.org/abs/2611.03698",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "url": "https://arxiv.org/abs/2611.05450",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
-      "url": "https://arxiv.org/abs/2611.03713",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "url": "https://arxiv.org/abs/2611.05459",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
-      "url": "https://arxiv.org/abs/2611.03721",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "url": "https://arxiv.org/abs/2611.05512",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
-      "url": "https://arxiv.org/abs/2611.03723",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+      "url": "https://arxiv.org/abs/2611.05524",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines",
-      "url": "https://arxiv.org/abs/2611.03725",
-      "publishedAt": "Wed, 04 Nov 2026 00:00:00 -0500",
+      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+      "url": "https://arxiv.org/abs/2611.05542",
+      "publishedAt": "Thu, 05 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intelligence Research - Morgan State University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEViRnNjZG1JUWsxTUdYRG5fRnZQNWl0b1dKRU12V0xNZW5xeGFWMzlmRmliUTAtR3N3YVZPSmtLUG54YkpEcmpHb2xnZGVYd2d4VnJDdU9GdlhYemFYYWl3OVMzd0RlLUhaWmlINXZHVzRuUzlkaFIwSDJ4cXJGdHRLLVp6Wk5HeWNTQUN3?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 17:27:28 GMT",
+      "title": "Sydney researchers uncover a hidden limit to AI predictability - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzcUZEaUNodC02bmctM1ZsSWtQOERlQ3JYU3MxY3RaOS1xeDNPck5JMm1XeHlkV2t4MjZnTjJWLUJvNWphWVA0X2RjWmFqVGYzNVBSWm9feFl0YTJH?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:38:57 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UC San Diego’s Halıcıoğlu School Expands AI Computing Infrastructure to Address Critical Shortages - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzFZamNvbjQ5QW5teWxGY2o2Y3huZTRiRFFKUnp3SU1VRnNZRTBQOXExcXpNSjJXNUU5VVhGRjZQSVRWdnMzQ01fV0pBWThidFR1dGpwQU1lX0JwWXhJbkRNNEl3Q1g3Y01acUdrRWRkaE5QVzJaMWdpLUxOel8tRDJLeUNmbVJBRXNfcnRtOEVnV2RSTzFBb3AtZzZlWWlDVzNqVnQ5Z0dHZUI4X24wUzNNa1lyUEtHaUdueW1wal8?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 20:50:06 GMT",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts - Quanta Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0ZJLU1xVUtkYUYzT1JLZEFQYjNQbXJ6Sm0ybE9zRkt4bDFYU1hQRUJfcm5zcllnWlM0a2VvYW8temxEdmFXNmhUWXF3bmhzV3ZFa1hzTGExbUs2MUV4aFJReFc1NVIwZlZsZXZNOF9BQWYyQzdQa3VFWm41VmFCanZCTGxEMFZxLV9WNmJvQ1otVjNlVUlhWWtGZzRCU3E0OE93?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 15:36:19 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "University to lead cybersecurity for national Fabric for AI-Driven Science project - Nebraska Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHMwWkF1c2NCYnlNcmVERUQyUFZfMjZ0MDNTXzFiZTVrM3hqUWltOEhnUmVNNHBwUmxUTUNjWXZFUFd6ZG9zQWJXc0lJVjByYWt1a3FXaXdDS3M2TVk5dW1fMktVTmVrVVV4NlFINEhZTWJaekpoemdpenlqdTdEa0x6YUduTFhUaEdHbF9TZFRveExTZm5LbFZ5RDZNeGxZa01YZlpVcXN5cXk2OFZhUQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 06:32:20 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,45 +91,39 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "Can AI learn complex card games? One student researched it — and found surprising limitations - Binghamton University",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGdzR3NYUlE5S1pqVU0yY3BMRlkzck1WRFkwOWsxaUYyUjM3dHh3MHFFZldYcldqNk9WYl9GdUY0WGxjUExQRk5SYjdNc2tSSDFWSk5ETmNXQkQ1THNlaWk0QUQ1ZEFlODU0V3FnZ1hPSEMxdklqeWNfRXRnWDdVOVNGZjk2WnFJYzZURmJENl8zWTAwUDA2NnJyamhFQ3daSmp5b2NfekE5bVVpUTFrODNZblB0dmNGQ2FoaUNNQjAtZGdPS1dOZjc3OFFOQQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 07:30:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Elise Penn, S.M. '24, Ph.D. '25: Atmospheric chemistry meets artificial intelligence - Harvard School of Engineering and Applied Sciences",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFpVTzAyMFFGblFIbVJPd0dHTW1OSmhfYk9LYnA0VXN3N0ZQd3h5aUc4NFh2M2FGcFRpRUo4WUdrdllHMFNyMWZZVEd0QWVGZ2U3aU5BcGxQaDdtbGQzNDR0U2ZDakYxakZ3SFYxM1dxUU9KVW4zQk00QkdNaXJob2RGbFlwWHJBY1BMdXR3WFpmbVcwVWxMeUtsNVU4U1JHX0lCNjNEQl8?oc=5",
       "publishedAt": "Tue, 03 Nov 2026 12:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Market Research Report on Artificial Intelligence (AI)-Driven Clinical Trial Site Feasibility Featuring Analysis - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMTlVdVVHQ3FmRHRHSDR4cUpWSlpWOFVUb2xiZkYxMVdLczAwUU5sSXh0YkVqMUZwYWg4a0FIN3IzVnVlOXVDdmVYeTY2eXU4WmdSZ1gwSlJjdlNYZS1YQmpDUDBUUG5xQWItNExEbHZHbk1VMjBta1VJY1hJREcwVW1EMXZOMkdma1pXOVFZYVNwb3F3ZjNYYkV5c2txSkc3WUIxeGhucV9kaFhUSExuRkFwLWI0RkRCZGdTWUJVTmxJaFJIVjdGdk1zbXNzRm4zQnM1dmpnQzRtYjBjVElyaDI4US1BQnp6ZjcwbGd3?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 17:15:00 GMT",
+      "title": "Let there be light – novel AI framework runs on optical hardware - 東京大学",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94VThhdXBGZ014WVBYd1I2dW9KUl9IdVRuMW16ZDB6ZzAwMlNwRDI1akZ4enhPV2R4OWdZZWRaekwwSl90bU5SV0JrdUlwN2lPaFhLM1JJd1h0WUxRUDlIY20tOHdpV0NN?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:06:07 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Doing last-minute research for voting? Be careful with AI chatbots. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkwtTDZIdGRBT2wyUzZ6ZkNzX3BPakhRZ2dpeVZMb2tTSFQ5b0dqdmtNLVJaSWVBWWR4RmVwbGw1dld0dXlzX3VkNVV2OWl1dFpBdVhaZzNmbjJNaGtBVjRYbFFhVF9nWmJJeDV0bV9TdlZ5ZmM3aW0xNml2VXNYWDBXQnFpSnBMOHltNlUwQmVWZFlFZGFqNG5xMHJrWU1PUi1Dakw2WEQtODNOR3VJWjduZHp0cUdV?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 22:10:00 GMT",
+      "title": "Inside App State’s Robotics Lab: Students explore the future of human–robot collaboration - Appalachian State University",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vVHVrdUptd1JCWGVBcjg4TGVVU0VIaWZWalZkdGdsZlVxc0ZfUENqSEpnSUFTV0RxU0ItR1Bsc1hkWnpEOWwzOWtwN3ZqaldGUk02MlpxZm4xdw?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 14:02:17 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Posters: AI for vaccine education, homelessness research, diabetes care - American Public Health Association",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS19sd2gwOEJUWURZVHBCOW01SmZDZmgwZktBSDJnYjhSamZkOFJublpDRzcxck0tWFRSblVjNEREVDF5dk5TcWxmQWFCeGlieC02RmhUdmo4LTNQNWxTNzV4WmlzblExcDk4dnNmRW4waUo5S3hocUNKNXo5M2xtMnZhb0E5S2d1TGVFVVpndzg0YjJCUUE0bDlfMl9wTEZCaHVPak1Hei1RelFaZmZRaU5Bb3VGUnU3WDlLaF95ODc3ME9sYk11OGoxMmNVSTFobTNRQkQzN0FuelY3SWFoMm40LXZKLVY0cE5Rc0pB?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 17:58:58 GMT",
+      "title": "Africa and Europe seek their own path in AI science - University World News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42eXdKVThnT1lCeVNaQzRZWlBNRU9GQmJ1dE1UMndJVWowSE9reWYxdnZFNzQ2b3dpQVN2bVNDdU9NUXc2T2E2NFpsZE9FbGM3MlVKcDRuWFd0b0IwYWM0elA2ei00aDNiTHNTUmE5TElINGFhT1dR?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 11:43:17 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Kaplan's artificial intelligence research published by leading marketing journal - Lynn University",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWhtV2VyWWs0UjM0Mzg2WEUxeHlxQURmZzlmSW5KSlNTWGpPVHhZc2dIWVNySHIyeGg3c2pTajJpTGxjMWI2YjJ0RlBkRVRnbzRkaXN3X3EzWEN6aVQ2Y1VfM21BZHpQd0tISTZ5VHpWQ1JFSTNySUl3cGZISnZ2Vk15QjVweHVoUGZzNjlR?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 20:50:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Emerging applications of machine learning and AI for predictive modeling in precision medicine - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NWIxdF9vMHNNVGpKbVl4V1dNc1V6VFFNaDU3czQ0TmFoTVFOTWk5RDhJT1N1WmJhVmpUVnl3M25ZazVndVFpYnNYOW5CVXZuMlI1emF3WW94dHdhUDdF?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 17:18:30 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery - MIT News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0dkLUhnclhWZUNJVS1BTUgzU2ZXdWJKQlRUMnRFVnQtT2l4bFdIX0I3Z3FiUThGZUtmN2MyU01UMjgzSG1VTkNQT3dVdlhTMHgwcW1TQ05DWFBhTEwtSG56LUVXTGQ5SW02U2tVZDVpTk1qRjJjMFg5R3BaNE8wZWhadjExdE40cGhZTzV0R2hZcnNIeF8xM0haLWwwTnlCSEp6SERWUVpfMkJzTmdWcndn?oc=5",
-      "publishedAt": "Mon, 02 Nov 2026 05:35:00 GMT",
+      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
+      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
