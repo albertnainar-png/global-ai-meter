@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:07:14.149884+00:00",
+  "generatedAt": "2026-11-07T11:04:32.316737+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,15 @@
   },
   "items": [
     {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "url": "https://arxiv.org/abs/2611.06996",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "url": "https://arxiv.org/abs/2611.07048",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "url": "https://arxiv.org/abs/2611.07051",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "url": "https://arxiv.org/abs/2611.07066",
-      "publishedAt": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria - AgriLife Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:03:06 GMT",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts - Quanta Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0ZJLU1xVUtkYUYzT1JLZEFQYjNQbXJ6Sm0ybE9zRkt4bDFYU1hQRUJfcm5zcllnWlM0a2VvYW8temxEdmFXNmhUWXF3bmhzV3ZFa1hzTGExbUs2MUV4aFJReFc1NVIwZlZsZXZNOF9BQWYyQzdQa3VFWm41VmFCanZCTGxEMFZxLV9WNmJvQ1otVjNlVUlhWWtGZzRCU3E0OE93?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 15:36:19 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Responsible use of artificial intelligence - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 18:14:45 GMT",
+      "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUFHT3EtVVFzOWU4dl85MXVMVFJzdmEyNXl6cUxGUEMxZ1NLU2Zob0xfU0JjWXpVTEY1ZUNBREtFQU16ckM2Q2JsLXh5NlFzc0VFWVVqd20wRjBXTUFGczU1NjNDTlFVN2ZWT1A2NEF1b05VTXMyWklRdXFtWi1ZY053?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 19:40:11 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,45 +25,45 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "Responsible use of artificial intelligence - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 18:14:45 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Let there be light – novel AI framework runs on optical hardware - 東京大学",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94VThhdXBGZ014WVBYd1I2dW9KUl9IdVRuMW16ZDB6ZzAwMlNwRDI1akZ4enhPV2R4OWdZZWRaekwwSl90bU5SV0JrdUlwN2lPaFhLM1JJd1h0WUxRUDlIY20tOHdpV0NN?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:06:07 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "National AI Research Report Covers How Tools Are Used in Classrooms - EdTech Magazine",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDhuVWFOQS00TEVGMDFwWXIzWm9ERk9ocF9jek14WWR5WURVRVlGdFZ2amY1U2pqX3VENElCc0tuTFJKWjZob0o4RW5iUENQR2tuRmxlNER2akFTVENpVTlrUDVyLWhLX25QVDdvU3R4Y0M0dExhd3hxWFUxYUFna3FnMjJJNlZ0TEdPRnotd1Fzc2J2WXdzNWJic08zdnZCbnRFb3E3eEZvbkhiOFFSQQ?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 19:41:01 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "CR Longdation cybersecurity partners with GCSA establishing artificial intelligence research centre - Vietnam Investment Review - VIR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVc4OFItdkhuakRoT2JxRXJCN3ZBeEdhZFdqaXV4aUJweDc4dHoyc0U5Z0YyaFprNHl1aEhKSnd6R0FHcE0tWFlSU0FMMlpCUnJUSkVaMEVIeDlCOWdodmVydnB2SE5Ib0V5R1BMQTdRajh6QWZ0V08zV3JsSkd1WmpRbWRMbnV3UWduUXhZb29sRFljSUs3VWgwVVEwLTNMWG5aSDhYeVBYd2pYZnllYXFCRmZqMlFRbDFjWTU5aXdIUkxkQ1J4emx3?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 04:26:00 GMT",
+      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts - Quanta Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0ZJLU1xVUtkYUYzT1JLZEFQYjNQbXJ6Sm0ybE9zRkt4bDFYU1hQRUJfcm5zcllnWlM0a2VvYW8temxEdmFXNmhUWXF3bmhzV3ZFa1hzTGExbUs2MUV4aFJReFc1NVIwZlZsZXZNOF9BQWYyQzdQa3VFWm41VmFCanZCTGxEMFZxLV9WNmJvQ1otVjNlVUlhWWtGZzRCU3E0OE93?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 15:36:19 GMT",
+      "title": "WashU student selected for Anthropic AI for Science program - WashU",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVBZOFVwSmhYR2lsUnZINUZPbXRZZFpHWlVLSTdxb0lWSFZsYjJzbmliTEw1N3Z2R2RBcWJZMWEwSmd3RGRBdG9yWTh3cHZVYlV2MUpjbWtPQTNtcGdOUGcyRkMxSW8yY0VxOWt2aHVjaHdpUnVwSHl2b3ZQRG1kQ3RkYnRhWU15elR1RWUtS2U0d3NRdnhRaA?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 19:24:27 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "UNCG AI Showcase Explores Tools for Teaching, Research, and Work - UNC Greensboro",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPREN4dkNwcktRbzhTRVVoOW5odTZVZVI5cTROektBbUQ3Yk82am8ySjA0bWwwbHVlNFA5ekhCOVNDbVhsVDZycFpicEltSDByb3g1bXJURVJCcE52ekwxX3ZSaHdRRjNTbDJ3WGRZSUxJbFBaWjNnbTNOVDg2V0VRWnBn?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 20:24:45 GMT",
+      "title": "Faculty 100 Q&A: Ankit Shah on AI and cybersecurity - IU Today",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VsZmRzWk4wQlpsdTJfQ04yVGFIeDN1VHk4MlZsOUJXRFBQaEtxYmlXbHJUYTZkT2oweGVfbHNib3ZreWxBbjBhMXNaTnVudlhMbHVtSkhSV185dW1qQU5la0QxY194ZkFGVHJuRnhnQzNBZ3haVUxlbVRKaHJ6UUtXUXRGdw?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 16:05:36 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "A Message from President Gold on New AI Guidelines - University of Nebraska at Omaha",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUNPaGk4S2hZdG5rS0RwSHdwblpyTUo5dnRRNGNlbTNCU3VJdFJaNUJxN3FiaHhpYzNaWjVScTNOSm5acm9fa0wzbHhmcnZGY2ZZdDNOVk5uWHZud01CMDVuU0g3SWpnV25lUHRQTHp4UjhKWEFVRTJTMTBCMVcwVVhBX0hOUkR1Vjg0SVZpUUFUaWwyZkE?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 05:33:57 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Algorithms for the Anthropocene: W&M professor discusses machine learning in a changing Arctic - W&M News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUU1aHl5OWJIWmdQZG1JSmVPMnpEbVhYZDdYZHdSQ185OHBpVDJ1d01KSFJwR3dRTVhzWHZUMC1jN05CcUNuYWZiU2RXa2lnRXB3YVZ1VUpEWlhrSXBSSDNRY0xsNEJSUjhKNEpfWGRNTlRNOEhOZXl5ZHg4ck5hZEZsbUpGMk91ZUEyOVNpLUVaQmItQ3k3NERobnF2MjRqVWlFNERQRGphZGl5a2xVWm1HQW1RLWNjR3NhUV9DOWFyUQ?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 16:40:21 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Embodied Robotics and Turing’s Blueprint for General Artificial Intelligence Systems - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkVFVlB1TnJYUzdFNUhRY3huU0xZZXhMcFlPbll2MGhfSm9sU1FPb0pRcmhLeEszSHBsTXlkMU9Ya3BPOUNrNHNLTk5pU1Bwb3Bpd3dFUlNxanMzTjFYQWw3RDI2Z19iTmxDVFBNMVNvMzFrelVxV05FTGhldFNuZ083OFA4Q1pSdFBwZzVxVFNtQlBfdi1KSFdudkZaWGE2LXVBVGVQMVBtbEdF?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 10:56:57 GMT",
+      "title": "Workshop on artificial intelligence is today - SIU News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT05sdzl0NEVlemw5S1Y0XzBZbGlZU3F0LURkazc0SWZfX1hLWTZwdTRfYUp2Rk9ZRlY5V1pQV1h2ZllZS05EUWFzWXAzTVpLdUdUUmE1ME5hTXktTFpWNUw4TGlCOG00VURNMjFuOGhaWnhCOExQTFZ5cHBHYkxITDZJb2FrbUtiSFhHTg?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 15:27:02 GMT",
       "source": "google_news_ai_research"
     }
   ]
