@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:53:37.493112+00:00",
+  "generatedAt": "2026-11-10T12:39:50.623046+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,99 @@
   },
   "items": [
     {
-      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-      "url": "https://arxiv.org/abs/2611.08572",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+      "url": "https://arxiv.org/abs/2611.10045",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-      "url": "https://arxiv.org/abs/2611.08613",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+      "url": "https://arxiv.org/abs/2611.10048",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
-      "url": "https://arxiv.org/abs/2611.08626",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+      "url": "https://arxiv.org/abs/2611.10049",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
-      "url": "https://arxiv.org/abs/2611.08640",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
+      "url": "https://arxiv.org/abs/2611.10054",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
-      "url": "https://arxiv.org/abs/2611.08644",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
+      "url": "https://arxiv.org/abs/2611.10089",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
-      "url": "https://arxiv.org/abs/2611.08647",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
+      "url": "https://arxiv.org/abs/2611.10109",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
-      "url": "https://arxiv.org/abs/2611.08666",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+      "url": "https://arxiv.org/abs/2611.10110",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.08669",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
+      "url": "https://arxiv.org/abs/2611.10150",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals",
-      "url": "https://arxiv.org/abs/2611.08682",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "WorldMind: Test-Time Scaling for Visual Spatial Reasoning through Latent World Simulation",
+      "url": "https://arxiv.org/abs/2611.10151",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine",
-      "url": "https://arxiv.org/abs/2611.08684",
-      "publishedAt": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
+      "url": "https://arxiv.org/abs/2611.10156",
+      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "University of Nebraska-Lincoln to lead cybersecurity in national AI project - Nebraska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNMV0xUWS1hX0EyY3Z3OEFfMHFCT3Y3akpUbG5OVGpJZmRIWUJ3SVV6aFFKb2NCWWtKUjJ0NDhZSnlkTnJiWklwT0tDbDUxM2R4d2dyek9Ub3JsUEc1WFNPVmYwNWNUZmMtSHZCNWVfVEtlM2sxb283V3FvR3N0VU5xM2k4X1k4MDcwRS16cUQzajI3QnlueGZJQ2xiRmdBNmlaOEVIZ21weGF1QUs0NFE4UE1ybGJpbmg2MGJKRUFLUTI3eG9QNUNR?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 12:09:55 GMT",
+      "title": "Howard Professor Danda B. Rawat Receives $700,000 NSF Award for AI Research - The Dig at Howard University",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHJLel94eWotem45aENLZC1LdUgzWms3aWlTTkpiV2JmdXJxWS01WVR6VFAwNFVaellGNHYwYjRneGQyb3c5QW4wbkdGZDBQaGZlY2Z1RVNYaEFlcFFhUEt5ZE45eU9MQlBTdmF0TjVvT29ScHlHLXFZTXV4YklySEwzSmkzOWZtQU1pMnVOdHBxOC11WC01MUw3MzFuMm0zUjJ3dGNwRmt4UQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 22:11:17 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "AI Model’s Predictions Accurate Enough to Quickly Improve Medical Decisions - NYU Langone Health",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2hGRi1RUE9aQVJkX05Wc2lEWDg3cjNlLUtuSzhhLXpLYW9kN2FiYlpJRlUzS1JkMFFpR1RLYlJmaUZmRWpjSkhJaXo1Nk4yVEZqN0oyYURnMjloV0tUMXJOZmdRV1h4ck5BUklhLXliNWNrbU1DeldpLUFFLVZGNTlUNlBkdEw3YUZySnlXamVacS1CNXB1Q3dtSlN3eDVB?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 11:20:09 GMT",
+      "title": "Undergraduate research shapes this future physician - The University of North Carolina at Chapel Hill",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBCQzhXVFZRY0ZaekZjQURJaVp0US1nV2pxejFmODBwMGo1NlV1QVVHNEZXN2toUTBJeWtZM1BiS181RndqbzRycFNjWllsMTBpeGNBN3UySHB5SDVNYkNSei1oRm5TaUNveXZZbWdib0h2dzF3b0owaHpYQUM3RHRDdjU0VFBHRVhyTTVHdmpfZDA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 20:18:34 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Live online certificate brings AI expertise to finance professionals - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUk3eHZnSUVXX0VkUVVkd2ppQmVnRmpWdFlHajM2T3hOM3h5MV9PRDNkVW1aT1k2VWRWRU8xZEpxYlRwS01aU2xOQlRQOGhZclRyR1p5enlCRTRqeHhhVTAxY0VXVjRsMmwzUURSa2FVTVFZajg0cGdUNXZqOHM0VnRtN3NkRFlwSW9BdV9QNmlVaXg3WUUxOGZ1emxPb0FORmtKdHc4dm16UQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 21:46:06 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Cal Poly unveils NVIDIA-powered 'AI Factory' to expand AI education, research - Santa Maria Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVTBNcEluYnhrWDNwQzZBNzR5di1XMXdnQTNDbDUtUWJlSDZteWZ5a2p5R05VM0ZwWnBNLTZnczFuMEp4YjM3WTFtWTdha0pQXzVuM2J0b3VNNE01d3hiTHVJMU1JN19zSHp1T2dFWEI0RU4xaG03UEstM1lrSWR4bXJ4YjA2VDBJdnN5eXR2bWtQbVBueXFoQ2QxZjE0WmFZYm12VEVpM0ttREhZcWUzNWdMalNuOGVYRlNXajR0WWdES1RsVzRfNVdzSDZsSXN5bEkwcDBGSnM2TUpXUHdPZGU0NGg1bEo0Z0dCdEFnUWRITEHSAfgBQVVfeXFMTjV4SDc4bjgxby1zNzhlYkZNV2YzX2psTk5PS1hHZjRJWkhDWWUxU3ZvVWVXVGhZa25HclRvUm5wMEJQQjF3eVFRSGhkLS0zVUs4UVBpdVJmTXpwSVpYSXNHUm44Vzh6UXVxVlNrVjhadE05QnptaDlBVzFPVTh6OW9NMnBYTUVRZndPREVJbFVIby12T21tMHZLU0U5WkhKWHNVdEZqTlFxTnROaDItWjBnOW9yUlBLT0RabC1WeEhuR3JxLXVabVk2dkVKT2pnbDdVcGFYWHJwYl9lNHY3UkFDY0NNRVd5TW12Qjg0WnVFTWZZcVZmQ3E?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Study Examines How Artificial Intelligence Tools Support Fashion Design Education - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnpZMl9LX3J0Mm9SWGdKemdBZkt0aGUza1E2dEctSXE2b0NBY0FSQ0JDVUFrV0p6cDd2d05FUk9uWVlmNzR3VFRQV3pHTEpULUlBcXdDY3Y4RC1KV0dzT2Z3ck9KWDVwMWJyaDJISkoyaFVRSVE5XzhTdDFxNnZSX0V5YVlBQl9rZE9QYW5Mb2h2RDdxUEptb1ViMXRPdGxtdUNGSUhIb0ZNQQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:13:45 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Researchers Use AI to Predict Cavities - New York University",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0lVOTFYWGdRUkNZYTlobkZFMnlXQ0duTTRNcVVQdDRxdlc3ekJxUEd2WTNPMWN0R1VmdnI0R1phMGxMckNtM1VNX0JIZW5DaEMwN2V0c1M5eURBUlhNaHFIVWJpM2VqbUN6X0NsVnoxQURwdWhZSTFrN1dRYnh0bC0wSldBUQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 14:54:54 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,45 +109,21 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Commentary Outlines Learning Health Systems Framework for Responsible - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTVpoNXZ1ODdNQ1lmR09fLTN0aTQxRTRSMTFIdTdBeThnMGtjSjN4Rl9PUnMwOXZwR3hsYW8ySzIzWXJ0anRNRDFDbWp1eHgyNzRtY3hLcXJCOVBfRjhYWUdFNUYzcFhNclY1clM2NFNHLUgxRi1lTzR5NjdrT1N6bHY5c0FYU2JTNFdaOGxieUk4b1I0QkJaRzFNUngzeFlhSnRYaHFkRmhaYWRuQ3ZaUkJfWnZRV25JVmpadWNmSUFySEVhanhfOE5tTEdqZGZ5dk9fcHRNSkkwMDVz?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 12:17:43 GMT",
+      "title": "University of Nebraska-Lincoln to lead cybersecurity in national AI project - Nebraska Public Media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNMV0xUWS1hX0EyY3Z3OEFfMHFCT3Y3akpUbG5OVGpJZmRIWUJ3SVV6aFFKb2NCWWtKUjJ0NDhZSnlkTnJiWklwT0tDbDUxM2R4d2dyek9Ub3JsUEc1WFNPVmYwNWNUZmMtSHZCNWVfVEtlM2sxb283V3FvR3N0VU5xM2k4X1k4MDcwRS16cUQzajI3QnlueGZJQ2xiRmdBNmlaOEVIZ21weGF1QUs0NFE4UE1ybGJpbmg2MGJKRUFLUTI3eG9QNUNR?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 12:09:55 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "South Dakota Mines professor earns NSF-backed award for AI research - KOTA Territory News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTV5YlJtSUJYOEtiR2VGZk9Qc1hZU0JVTGpNdGN1Qmdaak5QdDdqbTA0U2xCLWpXdy0yUlRSNUVNZl9HTjFLalJnQVZ4R0JtWUtpcUJFMkplaWJoUDRoMEpqX1pXaVdXOHpMQlJDU21wdmlVOGFscnJSbnpIOHl6STdrOXBEcGNrMkl1bmpHLU83b1hfMVppTU1tSHFfODDSAbMBQVVfeXFMTkdkc1dUWER2emprQjVTQmduaGF5Q0tmU2F4WUFXdDdWODhkUGxwQ0pjNVMtUHFxWTlGTW9SbG1ySFZrVjdacFBTNi1oam9RdWVsR0F5MTNPakwtdkhjV1hkOGxJUXFqQk1IcUtWeHJDdDFHN2Z2UEU5X1RhRnZjNllHcVc4Q0dGTGJ0NjYzVFNYdHV0U3htUVdTZ0Z1UTZKcDh3RWR6MVhXRWlZZ0VfR01uMTA?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 21:00:00 GMT",
+      "title": "How Rice University's new Arc building continues Ion District's evolution - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2Y3Sm1HdmgwWVM0akszWmJYRlpKR1dlTzBzX1c4YVdCU2swbjlYbmhtMFZKREFzZWVjUVoyNUxyQ0xicm5aUjZlZVhaSjJWM0ZBMEFGdVg4VU9waDlXUzJzNXBOb3ByVWpyZ3BHcFdvY005NVVxR2xKYlQyaU9PdnBiVHVkYmJoaVV0T0V4VkprV0UyelhJc0ZaZVpaMmFHaUlfUFRlTGw?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery - Asia Research News |",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNWLVlQbWpKQzlOdlItUEw5aDRhNFR6d2ZySDdoTXpTSXNYSmNpWS1TcFpXWF9xenN1Vk9kLURlSDdvZHlPVlZkOFprT1ZJT2RkSURDenJJMnRZOExnSDJraTdRTnIyQVhjUkdTU3lSZnZyMy1odl91YXJ6a0pMQjBUM0J2bUFDMW1TOEkzMVljOU11aWFwSE5pa0N2WE1oVHRwSFQyMXJaLVlkVng0Xw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:19:45 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMGFWTmNMaUVTRlFfR3hoeHVoWG9IVjBhYVY3TGZINDgwQWVZcGVTLVljNzNWZkRuVU52cU9NSUozZzZIOXVpMHdrRzluMUQ3UXMzblR6UDRwLUJQWXBqZ2hqZGhhbzdWRnhCaVBPNHZUVnZGcXZ4MHE2VTVrT3AtZV8wOGt3WkZFNjgyeDZqT3hqelQwUXJZVmQ2MzRHM0RPazF5NWpicjBaZlpRNG5vX29LaFhWSUJ5S0s2R0dVWFBaSVJwNkJ2eHFFTGUtNU5tcklaYldId0hkczk4M3Babw?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 21:37:59 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
-      "publishedAt": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Network Bio partners with Duke University on AI disease models - Pharmaceutical Technology",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzM3cy1PTTNpSUw5MGpMdzQ2d2QtNDgzeHF3alFPTlNVeG9JaDFlanFwSWF5ZUtmYWNlSnA1MkR3NmJQRC1pVUZWS2dFZ1pYYlBWWU1Wb0RzOHRrbDBNMDZTM3VGM3Zfa3BBOGwwRVZlNDlrT2pBUUMza0pfSjNUakhmMWQ1TVZtSERBTUZaNG1QZVZFT3dfWQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 09:50:10 GMT",
+      "title": "Black Kite Research Reveals Widespread Security Gaps Across AI Supply Chain, Exposing Enterprises to Growing Third-Party Cyber Risk - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNVVmNFBDdjRieFhhdEd2OVpWcFN4Z19DNzNLT2l1VGZGdHNPVVJObDdoQnBMa2FmaUN3QjNsVXNPNkNWUzV1ZzZPaGVlRV8wVkQ1aDdBUE5jRUUtU3BpT1plT1BkV0EwaE1FSVhCLWFfZ3E0QUZndVJtd0hhRk9IUVBYRHNMX01aSmIwNi1lQTR5QzlqY0xVc2Jna0pVb1RLS3hkNEpkZE9EeE1BSGpDdFdmU2xUdmdGSTRCUGVhajd5Ql81RHRvZUVCcEplYTRoQWxZanVYVFFLQ28yaXRxZnNuTFRlNmZsUWJVNWtFN1FDczZQXzRMUjRPQzhDYmtpRDJGakdDVEY2MUY1NjRFcFljYV9WbmxtZHFB?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
       "source": "google_news_ai_research"
     }
   ]
