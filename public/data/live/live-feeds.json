@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:39:50.623046+00:00",
+  "generatedAt": "2026-11-11T11:52:59.601432+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,69 +7,81 @@
   },
   "items": [
     {
-      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-      "url": "https://arxiv.org/abs/2611.10045",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
-      "url": "https://arxiv.org/abs/2611.10048",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
-      "url": "https://arxiv.org/abs/2611.10049",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
-      "url": "https://arxiv.org/abs/2611.10054",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
-      "url": "https://arxiv.org/abs/2611.10089",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.12937",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
-      "url": "https://arxiv.org/abs/2611.10109",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+      "url": "https://arxiv.org/abs/2611.12938",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
-      "url": "https://arxiv.org/abs/2611.10110",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+      "url": "https://arxiv.org/abs/2611.12940",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
-      "url": "https://arxiv.org/abs/2611.10150",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "url": "https://arxiv.org/abs/2611.12941",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "WorldMind: Test-Time Scaling for Visual Spatial Reasoning through Latent World Simulation",
-      "url": "https://arxiv.org/abs/2611.10151",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+      "url": "https://arxiv.org/abs/2611.12942",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
-      "url": "https://arxiv.org/abs/2611.10156",
-      "publishedAt": "Tue, 10 Nov 2026 00:00:00 -0500",
+      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+      "url": "https://arxiv.org/abs/2611.12950",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Howard Professor Danda B. Rawat Receives $700,000 NSF Award for AI Research - The Dig at Howard University",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHJLel94eWotem45aENLZC1LdUgzWms3aWlTTkpiV2JmdXJxWS01WVR6VFAwNFVaellGNHYwYjRneGQyb3c5QW4wbkdGZDBQaGZlY2Z1RVNYaEFlcFFhUEt5ZE45eU9MQlBTdmF0TjVvT29ScHlHLXFZTXV4YklySEwzSmkzOWZtQU1pMnVOdHBxOC11WC01MUw3MzFuMm0zUjJ3dGNwRmt4UQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 22:11:17 GMT",
+      "title": "Governor Hochul Declares NY Will Lead the Nation in AI Science and Safety; Launches New Research Institute - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTZlTHZnZUdQbkd1ZnpHTDlOZzFFeG9lVlJlbExHRkxrSVEzVHpJVnlKbTNoUEJlUmFmOVhWYmEwWko5Y0hveE1IUHY2ZEFTUU5ydTZOTFdBX19vZHFxNTBPcTJCeUVQTzRfRWNxOWZFa0hialF6YVM0ZzNXdE91MnFCeHpmU3RzRllZampMT0xEMDJSWF9iYVpITnpHN3VCekJ6WkJjS2stbzdQVG1PdzZpdENieWhLZDRQVnpR?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:13:16 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Chapman Advances Healthcare AI Research and Training - Chapman Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGloM0JEV0owazFaUVRTMkNTYW5TcUNTVllZZW5wbFUzTlRBcFZlaDRWNTdRZmdEWnpjTTU0QjdBU2lobUhZYzI0MEZmSmJsQmhPTlFhbndtd1JnREt1VktIWktmSEpDSnJfU2c2azRVQ1hnMmQwVElBSWNweVRZeEZRVGszbTB1dnI4ZmF6U0kyRWs?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 01:52:48 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Florida Atlantic’s CA-AI Receives $3M to Build Florida’s Quantum-Ready Workforce - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSXzE4eGdLMXRDQ01pWjc5elJkZkx2YUpDdDlCb2RYb080Y2FWaXg0bkpqTmFLVGlMYXpfQVBOTENIb1hzODM0cTZUa3dMeXhpdko4LV9PODlBWVhaQ2gzQkN3?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 11:15:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -79,27 +91,21 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Live online certificate brings AI expertise to finance professionals - Cornell Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUk3eHZnSUVXX0VkUVVkd2ppQmVnRmpWdFlHajM2T3hOM3h5MV9PRDNkVW1aT1k2VWRWRU8xZEpxYlRwS01aU2xOQlRQOGhZclRyR1p5enlCRTRqeHhhVTAxY0VXVjRsMmwzUURSa2FVTVFZajg0cGdUNXZqOHM0VnRtN3NkRFlwSW9BdV9QNmlVaXg3WUUxOGZ1emxPb0FORmtKdHc4dm16UQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 21:46:06 GMT",
+      "title": "Researchers Establish Ethical Frameworks for Artificial Intelligence in Early Childhood Education - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHp1SmtaLUdGV0xMMHJwT2EwS0JjSXJzUlJWOGdKMl9WcHdHWmE1SmtkNlJQZWJIVDkyWnN6TGJPb3lqTl9SVUl1VzhTdi11Y2xpZ1ROMl9UUklCOFhzaU10Tl83a0lPel9MNHRzZUFQRnhhenNZRE5kZXZINHNSMUNqanFXc1VURFc0LXlJX3Q0TkJXZTlSekZRS0U3Mm83RFBPVWo4S1pNaFR4bUpHckFQeXRLTjJMWmotYVpNcw?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 06:55:34 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Cal Poly unveils NVIDIA-powered 'AI Factory' to expand AI education, research - Santa Maria Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVTBNcEluYnhrWDNwQzZBNzR5di1XMXdnQTNDbDUtUWJlSDZteWZ5a2p5R05VM0ZwWnBNLTZnczFuMEp4YjM3WTFtWTdha0pQXzVuM2J0b3VNNE01d3hiTHVJMU1JN19zSHp1T2dFWEI0RU4xaG03UEstM1lrSWR4bXJ4YjA2VDBJdnN5eXR2bWtQbVBueXFoQ2QxZjE0WmFZYm12VEVpM0ttREhZcWUzNWdMalNuOGVYRlNXajR0WWdES1RsVzRfNVdzSDZsSXN5bEkwcDBGSnM2TUpXUHdPZGU0NGg1bEo0Z0dCdEFnUWRITEHSAfgBQVVfeXFMTjV4SDc4bjgxby1zNzhlYkZNV2YzX2psTk5PS1hHZjRJWkhDWWUxU3ZvVWVXVGhZa25HclRvUm5wMEJQQjF3eVFRSGhkLS0zVUs4UVBpdVJmTXpwSVpYSXNHUm44Vzh6UXVxVlNrVjhadE05QnptaDlBVzFPVTh6OW9NMnBYTUVRZndPREVJbFVIby12T21tMHZLU0U5WkhKWHNVdEZqTlFxTnROaDItWjBnOW9yUlBLT0RabC1WeEhuR3JxLXVabVk2dkVKT2pnbDdVcGFYWHJwYl9lNHY3UkFDY0NNRVd5TW12Qjg0WnVFTWZZcVZmQ3E?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT",
+      "title": "Experts Explore How AI Could Affect Vulnerable Communities, Social Service Providers - UConn Today",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OTk52YkV2b1JHVGZFc1BYYlBEMmttczVMZDVLVkhza3RJX3dBWGc5QlN6ZExJc1VvLUZ3VmNyVlRJSUtxZm1BdW9xZ3pJZDR5NU9ZVFdkQnUzUHdLR3FaTkpjaXpxQms?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 19:16:42 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Study Examines How Artificial Intelligence Tools Support Fashion Design Education - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnpZMl9LX3J0Mm9SWGdKemdBZkt0aGUza1E2dEctSXE2b0NBY0FSQ0JDVUFrV0p6cDd2d05FUk9uWVlmNzR3VFRQV3pHTEpULUlBcXdDY3Y4RC1KV0dzT2Z3ck9KWDVwMWJyaDJISkoyaFVRSVE5XzhTdDFxNnZSX0V5YVlBQl9rZE9QYW5Mb2h2RDdxUEptb1ViMXRPdGxtdUNGSUhIb0ZNQQ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 07:13:45 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Researchers Use AI to Predict Cavities - New York University",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0lVOTFYWGdRUkNZYTlobkZFMnlXQ0duTTRNcVVQdDRxdlc3ekJxUEd2WTNPMWN0R1VmdnI0R1phMGxMckNtM1VNX0JIZW5DaEMwN2V0c1M5eURBUlhNaHFIVWJpM2VqbUN6X0NsVnoxQURwdWhZSTFrN1dRYnh0bC0wSldBUQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 14:54:54 GMT",
+      "title": "IU, Meta partner on AI research in dementia, maternal care and early learning - Indiana Daily Student",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWcxaUwtYTZiYk83bUVBMnhuVkpZcEVWTC1TRkdQTGtncE5aYWxvRmNydTlZU1o1WVFEQzJTcmh3YlBrNEthSTVabnY0WjVTX0ctMTlNNEFUNzBvR1pkODRnc1otUWloQ3QwX0FuRnA5SjBEbm5zc1RGcW1vTGlFQlhGS2k3cFBCc080VVJpeVk1MmM?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 13:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +115,15 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "University of Nebraska-Lincoln to lead cybersecurity in national AI project - Nebraska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNMV0xUWS1hX0EyY3Z3OEFfMHFCT3Y3akpUbG5OVGpJZmRIWUJ3SVV6aFFKb2NCWWtKUjJ0NDhZSnlkTnJiWklwT0tDbDUxM2R4d2dyek9Ub3JsUEc1WFNPVmYwNWNUZmMtSHZCNWVfVEtlM2sxb283V3FvR3N0VU5xM2k4X1k4MDcwRS16cUQzajI3QnlueGZJQ2xiRmdBNmlaOEVIZ21weGF1QUs0NFE4UE1ybGJpbmg2MGJKRUFLUTI3eG9QNUNR?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 12:09:55 GMT",
+      "title": "New York launches new research center to study AI science and safety - WHEC.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWo2UzczekhWblc5Y2hESWFBNzNKbFdIaGZyT0p4YThNTjVoUzhjeUk4SDM3TUc3Z2sycG0yX28xN0ZNdk8xTEI2ck94anZuSUQzRjNjTU81RzU0bTJoZ2Q0b0psOFNqcTNlVWd3SWpUR2VSUm9YeDNGY2tSTFA0VmRRcEJPa3AySnRPZjBjR0RkTGlzQU1GSWZ5Ulc4dTVH?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 18:11:32 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "How Rice University's new Arc building continues Ion District's evolution - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2Y3Sm1HdmgwWVM0akszWmJYRlpKR1dlTzBzX1c4YVdCU2swbjlYbmhtMFZKREFzZWVjUVoyNUxyQ0xicm5aUjZlZVhaSjJWM0ZBMEFGdVg4VU9waDlXUzJzNXBOb3ByVWpyZ3BHcFdvY005NVVxR2xKYlQyaU9PdnBiVHVkYmJoaVV0T0V4VkprV0UyelhJc0ZaZVpaMmFHaUlfUFRlTGw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Black Kite Research Reveals Widespread Security Gaps Across AI Supply Chain, Exposing Enterprises to Growing Third-Party Cyber Risk - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNVVmNFBDdjRieFhhdEd2OVpWcFN4Z19DNzNLT2l1VGZGdHNPVVJObDdoQnBMa2FmaUN3QjNsVXNPNkNWUzV1ZzZPaGVlRV8wVkQ1aDdBUE5jRUUtU3BpT1plT1BkV0EwaE1FSVhCLWFfZ3E0QUZndVJtd0hhRk9IUVBYRHNMX01aSmIwNi1lQTR5QzlqY0xVc2Jna0pVb1RLS3hkNEpkZE9EeE1BSGpDdFdmU2xUdmdGSTRCUGVhajd5Ql81RHRvZUVCcEplYTRoQWxZanVYVFFLQ28yaXRxZnNuTFRlNmZsUWJVNWtFN1FDczZQXzRMUjRPQzhDYmtpRDJGakdDVEY2MUY1NjRFcFljYV9WbmxtZHFB?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "title": "AI100 Report: AI has entered the mainstream and is reshaping society - Max-Planck-Gesellschaft",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTJ5RzgyVmJoQnhYODBkaTdBcTdtV1Z6UnRVOE9YdC1KeVhOemZERXRyTDl6cnVOV05ValR0N3hCdXBURk5lbGlTVUdtMEZTb1pKaVB3aHN4Y3UwNUR3OGl4eHlUS29uNXl3OUh4Wmd6bUYzR3c0ZGJJTEFGWjR5SWRQdVdGbVNLbEJtaEItdE0xSkJpdktISlZqMVEtdDJ3SU4tYg?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 14:00:10 GMT",
       "source": "google_news_ai_research"
     }
   ]
