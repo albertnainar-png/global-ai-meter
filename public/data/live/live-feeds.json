@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:14:02.708549+00:00",
+  "generatedAt": "2026-11-14T11:28:40.366590+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,87 +7,9 @@
   },
   "items": [
     {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "url": "https://arxiv.org/abs/2611.14544",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "url": "https://arxiv.org/abs/2611.14766",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "url": "https://arxiv.org/abs/2611.14781",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "publishedAt": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "source": "arxiv_ai"
-    },
-    {
-      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 17:58:52 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same - RAND",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3AxM3BnUlBR?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 18:53:02 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "AIIM summit connects U-M leaders across disciplines to explore AI research opportunities, challenges - The University Record",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1paQW5ROUVCYXoyTWJKVUh6a2dBUG9qVHJuZjFnd0NOTEVoZ3FJck90T0p6ZGh5VDdIUXFJRTFkOVBoOXktTVJoRkpzam9vMURBVDRUUWtaejZWelBUeHoyLUdWTjZPY1BMSHFIRlhBMUdCaDl3TnpsRkREc3dpRXFpcTM2MlZHWVlPOTAxLTZKQ3V2YXJrS2s5a2I4VEJhamlIc1hPTEpZN0NwWWt2TWtHektrVlk3cTdhT0xTSzZ0UGhSclBwYVYwRTRraEU?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 17:25:54 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3hXd1F3VnVfUTB4cl8yZ1VoMy1VWDVBU1gzUUh2M3JxNnJRQzI2ZmF2YUc2Yk1qa1ZpYWxicnRQZU02OEFYRUxjN0g5MXhEVXFUYWY2QV9wTFNVbnhXVUpEQ0o2OV9fX1VIcFo5RUdVbUdOeDFsSXotTWFoYUFtX3hySXQ0b1FsYjlYSEtxWUdoVVdTcXVHWDk0UXlWWGQ2dkswWlp2b1BDTDdlLTZQelAwLWx2SUZRVXZhUmo1YWtIY3dyMVM1SWpVU3pKa2xZNlk3bk03YjlkMU40bkp4VFVvVEJGUQ?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 14:59:26 GMT",
+      "title": "From Scientific Workflows to Cybersecurity: USC ISI Researchers Showcase Innovations at SC26 - USC Viterbi School of Engineering",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0tsOVEwM2U4YU1CYzRWZEoyMEo4N2xHcHJwX1d2UUZ6OFppWktUQVhkMmd6WXIxNVZWaFlmRlFNZzNzeTFpUFVVZzNOZzBwSU5MUERSZDVqYXdjRDMwV0NrTkFDWG55VHdxVThkNWk4SEdsMGgxTThnbEc2SUpvOWg1WGZaS0hySXBpcHdQM095dG00dmtHUUNEOGkyS2NKZ2prMFVPTUxUQ1NXRGgzdzBTU1VPTjVieHU4RDZyYk9tNGdjWGpJaXk3cmFwR2xl?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 21:43:57 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -97,9 +19,39 @@
       "source": "google_news_ai_research"
     },
     {
+      "title": "Editorial Outlines How Artificial Intelligence and Neuroscience Transform Modern Child Education - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHphMFRYZEl0Y19oU1gyMU01UEVQZGdWejdpT0JOd3ZqNzBiVFFMU3EteFRPVGVqMnZKTE5xWE9ZS0JvVTBDZEctekF3dTg0RTE5dm9XLVZYMFJPX3VnTWpUSkJrOU9MQU1KUl9jZkNmejVYZGN6OHZKRGIyblkyYW4wcG9LemVvVHVFZFNVYm4yNUZiS3VSX2lETzlYSUxIS0ZlbGNLRnRnaWdXUW1EY0RHYnB5YkJIb3p6OU53?oc=5",
+      "publishedAt": "Sat, 14 Nov 2026 03:38:36 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3hXd1F3VnVfUTB4cl8yZ1VoMy1VWDVBU1gzUUh2M3JxNnJRQzI2ZmF2YUc2Yk1qa1ZpYWxicnRQZU02OEFYRUxjN0g5MXhEVXFUYWY2QV9wTFNVbnhXVUpEQ0o2OV9fX1VIcFo5RUdVbUdOeDFsSXotTWFoYUFtX3hySXQ0b1FsYjlYSEtxWUdoVVdTcXVHWDk0UXlWWGQ2dkswWlp2b1BDTDdlLTZQelAwLWx2SUZRVXZhUmo1YWtIY3dyMVM1SWpVU3pKa2xZNlk3bk03YjlkMU40bkp4VFVvVEJGUQ?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 14:59:26 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
       "title": "Greg Morrisett to co-lead new NYS AI safety research center - Cornell Chronicle",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUhvQ283dnZCUVR1dTBab1MwZ1BwUHFsczJmQWlaOXlvYlVWS1dhRll3YjdqZUdJQzZSYnZ5Vk9XNFVOdi1ZSkpuNDJSLU1WVW5pSUlaUm1MelFRanJaM3BOVkh2UEEtSXpUZ2wwbldCOTlpQmthY3BOQVcySnZBblg5dXIyeHg1UEd4LUhCcWlWdzE2WHRVaF9ZNHdjZw?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 14:58:21 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same - RAND",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3AxM3BnUlBR?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 18:53:02 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "UAH alumnus returns to lead Earth System Science Center, advancing university’s vision for Earth data science and AI-driven research | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS1hDYUxkcHd1UWRDb3hUX0VzbFVIaVpFNUtGcHBxdEhHNmhmNW1sNzV4Vm81ZGFHU3FYSkItVTQwTWFNamxyakgzOTZYLUJWZlZkVllzZUtPSE1kM3g5X0ZRMHJkNFMza2I4WEhROVBHaHZ5eFh0RjdoaDRvMGgxRnRPZ0ViTGRvRFh5NzlhOWtrb3p0TlBPMUM4UjNyUjVGWFhTcmtBX0NpUVJubDZaVk8xMGVqbnltQXg3SWlZMmNhbDM0bmJ2dGlPMUtQVVFHUjZiRDBXMmxycnlPUXBha09RYWtQVXJPdGxpbWxjSHJqMUZITTVFd9IB-AFBVV95cUxOS1hDYUxkcHd1UWRDb3hUX0VzbFVIaVpFNUtGcHBxdEhHNmhmNW1sNzV4Vm81ZGFHU3FYSkItVTQwTWFNamxyakgzOTZYLUJWZlZkVllzZUtPSE1kM3g5X0ZRMHJkNFMza2I4WEhROVBHaHZ5eFh0RjdoaDRvMGgxRnRPZ0ViTGRvRFh5NzlhOWtrb3p0TlBPMUM4UjNyUjVGWFhTcmtBX0NpUVJubDZaVk8xMGVqbnltQXg3SWlZMmNhbDM0bmJ2dGlPMUtQVVFHUjZiRDBXMmxycnlPUXBha09RYWtQVXJPdGxpbWxjSHJqMUZITTVFdw?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 22:30:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "AIIM summit connects U-M leaders across disciplines to explore AI research opportunities, challenges - The University Record",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1paQW5ROUVCYXoyTWJKVUh6a2dBUG9qVHJuZjFnd0NOTEVoZ3FJck90T0p6ZGh5VDdIUXFJRTFkOVBoOXktTVJoRkpzam9vMURBVDRUUWtaejZWelBUeHoyLUdWTjZPY1BMSHFIRlhBMUdCaDl3TnpsRkREc3dpRXFpcTM2MlZHWVlPOTAxLTZKQ3V2YXJrS2s5a2I4VEJhamlIc1hPTEpZN0NwWWt2TWtHektrVlk3cTdhT0xTSzZ0UGhSclBwYVYwRTRraEU?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 17:25:54 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +61,9 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "SDSU researcher puts artificial intelligence to work in wheat fields - The Dakota Scout",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXYtUkxPRE5hQmRqMk5zVi1XLUxSUGk3aXBNZWJYekdULXozREZoUlptMkhBQmNHaUFFdjVsMElCZDdBVWVTenVQQUVQcm5CVmh2M1RuNEtGQnEtZGVXRXdvMkZFbURra0dsMVhPN2RhN0lNMk16OV93XzZtR19ubEZOTXRRaENPdXM0SHY4NUtiRUtJQUNLa3VYRVBqekduYmRv?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 19:12:16 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Biotransparency Gives Society a Voice in Shaping Its Biological Future - The Scientist",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamZ3VlFVNFVXTVI4Y2psNW1OcDdyNFZmWWhsdnRkeks0QW9BUjhvR2tPUFVtZ0hOc01PWVpnZGc0R0Utalp6MENrRDQ0QWxYMGdranhHSzhubGpvZ1pDQy16Y1R0TnZLa2k1RTdRTUlaSzc1TkRuZ2R1VWc3MWozLW9XZzBmcXdLcktkU1FJaXlUY3V1OUJ1WDVZYWhLaG1YOEk1Sk9xeDdZQQ?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 05:09:18 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI - Akron Beacon Journal",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOVMzc25xbWdsVi01d2ZKNkZNQ0JPVUg2U2toNUVpRndEeGROdjVZYzJqaWlYdTg3ZWFhSGQtNXpvYmQ1NE5DMEhCY2paTWRIZ3hiZHBCVHQ4YjVqZlZFanV5Yk9ucmhlWVpWeEZNcm5nc2RoeEhXd3poeWt4TlIxVHNaSFd0WnpmYllsWjdUN3BSYnI2VVF6N2o4Y3dWRFozV1NlRlg2SHdEWDRJWF95bk81QmVReVJoVXBJc0phemdSaFFaZ3dFSXl5Sm9RQ1R4aExBTzRGeVhWRXlMdWpuc01ic2hzYWdhSF9FN19mQ29vMmlYQ0tVMEhMcjZZT05IU3MxUg?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 14:42:08 GMT",
+      "title": "Nebius Outlines $40B AI Cloud Spending Plan - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzTkppYndqdnFoMnd6TF9HYUMwS1RJTDVwRnJMSGptYnpJdjFmd0VER21SczZBcnVxS1MtemtNcHZHblp4VHhhRzBhQ2pGczNUNzRPcS1LUVdSQWlJMEYySHUyTnczVWJjOUpDTUU4blBwZUgycEt0ZlFBNEg?oc=5",
+      "publishedAt": "Sat, 14 Nov 2026 09:43:18 GMT",
       "source": "google_news_ai_research"
     }
   ]
