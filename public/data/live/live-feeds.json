@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:27:47.549396+00:00",
+  "generatedAt": "2026-11-18T13:03:28.851179+00:00",
   "status": {
     "arxiv_ai": "ok",
     "google_news_ai_research": "ok",
@@ -7,75 +7,75 @@
   },
   "items": [
     {
-      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
-      "url": "https://arxiv.org/abs/2611.18642",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-      "url": "https://arxiv.org/abs/2611.18714",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-      "url": "https://arxiv.org/abs/2611.18747",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
-      "url": "https://arxiv.org/abs/2611.18793",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
-      "url": "https://arxiv.org/abs/2611.18866",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
-      "url": "https://arxiv.org/abs/2611.18883",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "url": "https://arxiv.org/abs/2611.21925",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
-      "url": "https://arxiv.org/abs/2611.18891",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "url": "https://arxiv.org/abs/2611.21937",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.18905",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "url": "https://arxiv.org/abs/2611.21946",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
-      "url": "https://arxiv.org/abs/2611.18908",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+      "url": "https://arxiv.org/abs/2611.21948",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
-      "url": "https://arxiv.org/abs/2611.18930",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:00 -0500",
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "url": "https://arxiv.org/abs/2611.21950",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:00 -0500",
       "source": "arxiv_ai"
     },
     {
-      "title": "Academic librarians \"see artificial intelligence as biggest driver of change\" - Research Information",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjkwemxvbkp0QWp5SnhKQkY3TExidWl6ajQ5UHBXNUdneWJkMThuQW1EQ19uSHFhZjljQl9HenBkaHFxeV9tekQ3WlJ5SHJKZVZWS2JIVzJGX0szQ3AwdVlJbzgweUdUM093WTZRRVY0RkNWLTFtUVUtaHF1SHl4Z2pBUUVZMV9pc1NGSkJtSHVvY2QtZ0J2S1VuaTh0MU9fcWxTQkc3a2ZKVG9IeENQbkFhYkJGUDNxLXc?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 09:10:22 GMT",
+      "title": "UNL to lead cybersecurity in national AI research project - The Daily Nebraskan",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORndvbXo0Z2E4NW9Tb3o4WXQ4YnVyWHc5UVdhb0NhWFdZYmM5OTZkdVl1U1dJR1VxYjB2NDhTUU13YnlUWDBaNVl6QzlmZV9ZeGlNY19WM3hDQ3RxbF9uSGxQMzZWdkpHTE1La09qZi1hOE04ZGw3Sk9GV0ZNd1EtNl9JUlBnRFlYN181YXE5cnNWRmhjRTdlSUhoTzlydmhXbHF1NVJtSW02RUZPcjVZWmZJdG9vRXQ2bWU2M0x2Q0luU0lvaU44Yy1wZ3c5Y3UyWWhLNUhrMlRsa2s?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 06:00:00 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Global Study Charts Forty Years of Artificial Intelligence Research in Echocardiography - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1REdnlVQzFFZTdRd3dYaVIwRTlKU2MtOEpHMWh3MF9EWEQweFhqNlIySnpUT08xZ1hDR285RTlfamFGbEhkanlHZ1V0MmxFV1lqV014SWw2T29JR3NuUTZPV0x6N2V1RFBoM21XZDFpSm1RYWNoaEgwYkFJeHRjOVNDb3hfaE1NX0ZqaEt6dXc1a0RSb1hYV01Sem1DTWlISDcwNExObmExOWp5SGc1VEJR?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 23:44:19 GMT",
+      "title": "A Lifecycle Framework for Artificial Intelligence in Sustainable Construction Research - AZoCleantech",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IQjNRSi1SYzM3X051Z2w4VFNuSFE5VkpjM3ZjNzNaLWxJOXNSUThqSmpJbkNoN1lqM1VjV2FSejRVcnNyeGNVYi1YQmIyNGEzcDZ5ak84WHVBNTgyUnA3Zw?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 09:18:00 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -85,21 +85,27 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Staying prepared in an AI-driven landscape: Which educational pathway is right for you? - Purdue University",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnNEQkJaaVJwbkdlZGgwLWpJZWVRaF9tUTU4b214ZWd5ZVY5TGpfQmNqYXVXX0hSLUExLVprdDlfc3lKLWJ4VzI5VmhLeHlkQTllM0hsM2lza3NEU0JkN2hNZmVtY25uWGFLMV9KMVdYU011OU1TdFU1a3I0NktVNHY0NUxzWnA5TDdCMGhqdm92ekZ6V2p0RnBuQ25TYWFUVjB1RWx3RnNLUkZhdkNFdEdiend5WGs?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 00:42:37 GMT",
+      "title": "KU establishes research partnership with Kansas-based AI and cybersecurity company - The University of Kansas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk1JbTJqalE5TlhFTUNBQkFoel90cllLZkdWcWd4NWNsZU9Xb0F0cmhwdGszNy1scXc0R3NrWVh3WmVndWhrTkdvUFNfeHZTR0xuNHRFT1duSEVhOXZoR1VLZ2dBY2VCWjlfN0JtUUprUFZSTUY1dF9fODFFaFJ5NnNGQ3ozd09WMXZhckRKYWpwSURnSlhFX2dXSWUtbW5iNlQwMFFKN21Rei1BNHRvSm0xMURZQQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 14:55:55 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Researchers Using AI Machine Learning To Solve Human Emotion Mysteries Must First Break Free Of Human Biases - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN09lVHFMZ0VkMHlnbFBiSVpJenJQU1hWMkxsT1FJQWJWTHNYOFZpN2tmQS1ocTU0V0JQTnVmSGZvWGtMUzZJRXBiMjI3bWtFVDBTaVVRNnJfaVpzOEp6Nm9SY3o2ZzFSNU1mYVhISFl1dVlDaGNudzdNdFZiVnRiSmJMWTRBZkZNdXktU2x6RDQ3UkJsUWxxczVYRm9hZUNkLWRqajJ1YVNWbkZGMXRhbGk2X3JJbk5ncFNSaTFPVUZlQ3haZHFMdVYwZUZCMC1KcEVXS3JONUpaWG5mRll1dUVua3hNclBNZ3lMMl9WVS1tUQ?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 01:46:36 GMT",
+      "title": "How AI Search is Changing the Value of Research for Financial Brands - The Financial Brand",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3FfeVYwMzZYWUdsLWRqQUNKanJfSHljd0FERTN0ejhOLUtoYmpuWlZIRkh3R0lGRTJHLTFJNFlfcFlnQXNBNHk3YUJLU1FSelJxbTk0ZkxUY3AzNS1pR0NpU2txUmc5WlpwbzBiZmxzVnZFVzBNWU1mTFd0SWpUQ3FtYm1GWG9Lb2J0N01NUklDUjJpZlhIb3ZiUEctR29pOThfMUNHMkpuRHQ3WE5tMjI2MkktOVdTZml2LUQ3Sl9DSEFYVS1VNjBBaXFBemlpYlhTVjFUdjFudw?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 07:37:51 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "Rice’s Ken Kennedy Institute Celebrates 40 Years of Innovative AI and Computing Research - Rice University",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEoxYVlOclVWRlFId2huaVZNclJ6S0MyTFdFR2ljeU5jM0tqYnVINmtTOEJZRlRIVDJIbTBYTFgzU1NZektRS2lKMVp0UjNhc2FPSnMzNjk5eWoxUVJGRGJaakw5QnRXR002aWdEay12RDQzV1FvVExZeWJNRkxrYUdxT2tnZ1BBczZBLWVFMjZNbGVVd1VoYjI5dWVDVmdhdGI0T3RrcDc2blpfaVhGWEdBZGFxOG8?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 16:38:38 GMT",
+      "title": "UH researchers developing AI tool to predict invasive beetle spread - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR005WHg2bHh1NmRuMVk0bmFuMENscWhJeTJNSE1id3ZYa255OUZHMGdZckpJMFB2VmhEOXFKR0loMUxHOE5Fa0lmaHdQT3ZSelhMbmVuMFRWMm4yVTNiWGkxU1k2VlF4VFYyTWFaeEpMancxYUFxbm42X3NGMEc2Uk1KdXJhX0pYMlVKdVhObHBwWkpsaGx5LU9meHpraHlNajBHbEFKZEZaZ9IBvgFBVV95cUxOVUdfNmlVbFZUZ05PbzRqeTFaTTB2aGhSWWNqMndqWV9xNmFTQVU5aFZWR0dYVXFHckZvTHNwWVRsZDBtR1l4Y0JnTDJOS0NaUks5b1N3VHpEZ3JOdlFlMWpPa0MxOWFYZmZtWFRfTGoyQjF4d2tOeVBNeVY5dXJmTkpNLWo5NnJlWUlhTWtZNXJkNmtnaXo5cE5yajNCZUpERk92LW9XT2NBSi1VbTNWUFVPdDVOTHVqcEM1ZXRn?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 00:55:00 GMT",
+      "source": "google_news_ai_research"
+    },
+    {
+      "title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged - Stanford Medicine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV9OZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 23:31:09 GMT",
       "source": "google_news_ai_research"
     },
     {
@@ -109,21 +115,15 @@
       "source": "google_news_ai_research"
     },
     {
-      "title": "Under surveillance: AI takes aim at mosquito eggs - Florida International University",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42TnZSQVFwLWQwZFFzTERlZE1Pa3NWYlBQQ0tGZUZrb3RRYnpXMlpPRFljSUllUjRnMnRjaDFoeWhzQ3dSRWpqSkRFTWR4Q2tMZ3BwMHFiTk5HQWpNT0kzR2otaWNGZlFSckNLb1k0Y3k0LWNVOWt0enRPajBiUGs?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 13:48:00 GMT",
+      "title": "OP Pohjola And QuTwo Expand Quantum AI Research Centre Work - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93N3IyVVNrVEgydzlOWFlYazVnZnphOHY4RjVfemFMUUMtVE5VdDBUbHB0Sm1ocXlzX2tiel82TUttTkpkVTdoRnd6clpEejhLeWZuWEtYM0pHSlUzWW4xOUhqQ1FURkVONUVKQ1RTa0RwZUsz?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 12:02:42 GMT",
       "source": "google_news_ai_research"
     },
     {
-      "title": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology - Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTEFmSDBWYXJPUHJNVno4WEYzdFJTWkQtc1NORlF0a01yMFZrOWRpdFozaUdWcU1BcHpHMmZHd0YzdUVTVmxuQ0ZlQXI?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 21:53:04 GMT",
-      "source": "google_news_ai_research"
-    },
-    {
-      "title": "Researchers building manufacturing AI that can explain reasoning to engineers - The Pennsylvania State University",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3l5LWZxRXVqOHAzVnpLUUl0R2g5UjBfdmlxNi02QldOQ2VsOHd0N3RNS2hvM0U3Q2ZQUy1ObFJhSXEwYlVoakQ2Vmg3TnhhcE9sMGN1Q2dfaUFlS3FPdW1yOGtPekVDQjRNQUR5bkJoYXhJcklINHhaZUpuWjh3LWVfY1pyOVBIWlRsalpDdnNYTlQwT2xEWktiQnB5YkJuZXNfaXdHWGc3YV81VllJZlZzVnB6dFk?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 15:57:00 GMT",
+      "title": "Global Study Charts Forty Years of Artificial Intelligence Research in Echocardiography - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1REdnlVQzFFZTdRd3dYaVIwRTlKU2MtOEpHMWh3MF9EWEQweFhqNlIySnpUT08xZ1hDR285RTlfamFGbEhkanlHZ1V0MmxFV1lqV014SWw2T29JR3NuUTZPV0x6N2V1RFBoM21XZDFpSm1RYWNoaEgwYkFJeHRjOVNDb3hfaE1NX0ZqaEt6dXc1a0RSb1hYV01Sem1DTWlISDcwNExObmExOWp5SGc1VEJR?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 23:44:19 GMT",
       "source": "google_news_ai_research"
     }
   ]
